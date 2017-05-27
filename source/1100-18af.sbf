@@ -1,0 +1,1146 @@
+[U+1100]
+Name: HANGUL CHOSEONG KIYEOK
+Category: Lo
+
+[U+1101]
+Name: HANGUL CHOSEONG SSANGKIYEOK
+Category: Lo
+Decomposition: <compat> 1100 1100
+
+[U+1102]
+Name: HANGUL CHOSEONG NIEUN
+Category: Lo
+
+[U+1103]
+Name: HANGUL CHOSEONG TIKEUT
+Category: Lo
+
+[U+1104]
+Name: HANGUL CHOSEONG SSANGTIKEUT
+Category: Lo
+Decomposition: <compat> 1103 1103
+
+[U+1105]
+Name: HANGUL CHOSEONG RIEUL
+Category: Lo
+
+[U+1106]
+Name: HANGUL CHOSEONG MIEUM
+Category: Lo
+
+[U+1107]
+Name: HANGUL CHOSEONG PIEUP
+Category: Lo
+
+[U+1108]
+Name: HANGUL CHOSEONG SSANGPIEUP
+Category: Lo
+Decomposition: <compat> 1107 1107
+
+[U+1109]
+Name: HANGUL CHOSEONG SIOS
+Category: Lo
+
+[U+110A]
+Name: HANGUL CHOSEONG SSANGSIOS
+Category: Lo
+Decomposition: <compat> 1109 1109
+
+[U+110B]
+Name: HANGUL CHOSEONG IEUNG
+Category: Lo
+
+[U+110C]
+Name: HANGUL CHOSEONG CIEUC
+Category: Lo
+
+[U+110D]
+Name: HANGUL CHOSEONG SSANGCIEUC
+Category: Lo
+Decomposition: <compat> 110C 110C
+
+[U+110E]
+Name: HANGUL CHOSEONG CHIEUCH
+Category: Lo
+
+[U+110F]
+Name: HANGUL CHOSEONG KHIEUKH
+Category: Lo
+
+[U+1110]
+Name: HANGUL CHOSEONG THIEUTH
+Category: Lo
+
+[U+1111]
+Name: HANGUL CHOSEONG PHIEUPH
+Category: Lo
+
+[U+1112]
+Name: HANGUL CHOSEONG HIEUH
+Category: Lo
+
+[U+1113]
+Name: HANGUL CHOSEONG NIEUN-KIYEOK
+Category: Lo
+Decomposition: <compat> 1102 1100
+
+[U+1114]
+Name: HANGUL CHOSEONG SSANGNIEUN
+Category: Lo
+Decomposition: <compat> 1102 1102
+
+[U+1115]
+Name: HANGUL CHOSEONG NIEUN-TIKEUT
+Category: Lo
+Decomposition: <compat> 1102 1103
+
+[U+1116]
+Name: HANGUL CHOSEONG NIEUN-PIEUP
+Category: Lo
+Decomposition: <compat> 1102 1107
+
+[U+1117]
+Name: HANGUL CHOSEONG TIKEUT-KIYEOK
+Category: Lo
+Decomposition: <compat> 1103 1100
+
+[U+1118]
+Name: HANGUL CHOSEONG RIEUL-NIEUN
+Category: Lo
+Decomposition: <compat> 1105 1102
+
+[U+1119]
+Name: HANGUL CHOSEONG SSANGRIEUL
+Category: Lo
+Decomposition: <compat> 1105 1105
+
+[U+111A]
+Name: HANGUL CHOSEONG RIEUL-HIEUH
+Category: Lo
+Decomposition: <compat> 1105 1112
+
+[U+111B]
+Name: HANGUL CHOSEONG KAPYEOUNRIEUL
+Category: Lo
+Decomposition: <compat> 1105 110B
+
+[U+111C]
+Name: HANGUL CHOSEONG MIEUM-PIEUP
+Category: Lo
+Decomposition: <compat> 1106 1107
+
+[U+111D]
+Name: HANGUL CHOSEONG KAPYEOUNMIEUM
+Category: Lo
+Decomposition: <compat> 1106 110B
+
+[U+111E]
+Name: HANGUL CHOSEONG PIEUP-KIYEOK
+Category: Lo
+Decomposition: <compat> 1107 1100
+
+[U+111F]
+Name: HANGUL CHOSEONG PIEUP-NIEUN
+Category: Lo
+Decomposition: <compat> 1107 1102
+
+[U+1120]
+Name: HANGUL CHOSEONG PIEUP-TIKEUT
+Category: Lo
+Decomposition: <compat> 1107 1103
+
+[U+1121]
+Name: HANGUL CHOSEONG PIEUP-SIOS
+Category: Lo
+Decomposition: <compat> 1107 1109
+
+[U+1122]
+Name: HANGUL CHOSEONG PIEUP-SIOS-KIYEOK
+Category: Lo
+Decomposition: <compat> 1107 1109 1100
+
+[U+1123]
+Name: HANGUL CHOSEONG PIEUP-SIOS-TIKEUT
+Category: Lo
+Decomposition: <compat> 1107 1109 1103
+
+[U+1124]
+Name: HANGUL CHOSEONG PIEUP-SIOS-PIEUP
+Category: Lo
+Decomposition: <compat> 1107 1109 1107
+
+[U+1125]
+Name: HANGUL CHOSEONG PIEUP-SSANGSIOS
+Category: Lo
+Decomposition: <compat> 1107 1109 1109
+
+[U+1126]
+Name: HANGUL CHOSEONG PIEUP-SIOS-CIEUC
+Category: Lo
+Decomposition: <compat> 1107 1109 110C
+
+[U+1127]
+Name: HANGUL CHOSEONG PIEUP-CIEUC
+Category: Lo
+Decomposition: <compat> 1107 110C
+
+[U+1128]
+Name: HANGUL CHOSEONG PIEUP-CHIEUCH
+Category: Lo
+Decomposition: <compat> 1107 110E
+
+[U+1129]
+Name: HANGUL CHOSEONG PIEUP-THIEUTH
+Category: Lo
+Decomposition: <compat> 1107 1110
+
+[U+112A]
+Name: HANGUL CHOSEONG PIEUP-PHIEUPH
+Category: Lo
+Decomposition: <compat> 1107 1111
+
+[U+112B]
+Name: HANGUL CHOSEONG KAPYEOUNPIEUP
+Category: Lo
+Decomposition: <compat> 1107 110B
+
+[U+112C]
+Name: HANGUL CHOSEONG KAPYEOUNSSANGPIEUP
+Category: Lo
+Decomposition: <compat> 1107 1107 110B
+
+[U+112D]
+Name: HANGUL CHOSEONG SIOS-KIYEOK
+Category: Lo
+Decomposition: <compat> 1109 1100
+
+[U+112E]
+Name: HANGUL CHOSEONG SIOS-NIEUN
+Category: Lo
+Decomposition: <compat> 1109 1102
+
+[U+112F]
+Name: HANGUL CHOSEONG SIOS-TIKEUT
+Category: Lo
+Decomposition: <compat> 1109 1103
+
+[U+1130]
+Name: HANGUL CHOSEONG SIOS-RIEUL
+Category: Lo
+Decomposition: <compat> 1109 1105
+
+[U+1131]
+Name: HANGUL CHOSEONG SIOS-MIEUM
+Category: Lo
+Decomposition: <compat> 1109 1106
+
+[U+1132]
+Name: HANGUL CHOSEONG SIOS-PIEUP
+Category: Lo
+Decomposition: <compat> 1109 1107
+
+[U+1133]
+Name: HANGUL CHOSEONG SIOS-PIEUP-KIYEOK
+Category: Lo
+Decomposition: <compat> 1109 1107 1100
+
+[U+1134]
+Name: HANGUL CHOSEONG SIOS-SSANGSIOS
+Category: Lo
+Decomposition: <compat> 1109 1109 1109
+
+[U+1135]
+Name: HANGUL CHOSEONG SIOS-IEUNG
+Category: Lo
+Decomposition: <compat> 1109 110B
+
+[U+1136]
+Name: HANGUL CHOSEONG SIOS-CIEUC
+Category: Lo
+Decomposition: <compat> 1109 110C
+
+[U+1137]
+Name: HANGUL CHOSEONG SIOS-CHIEUCH
+Category: Lo
+Decomposition: <compat> 1109 110E
+
+[U+1138]
+Name: HANGUL CHOSEONG SIOS-KHIEUKH
+Category: Lo
+Decomposition: <compat> 1109 110F
+
+[U+1139]
+Name: HANGUL CHOSEONG SIOS-THIEUTH
+Category: Lo
+Decomposition: <compat> 1109 1110
+
+[U+113A]
+Name: HANGUL CHOSEONG SIOS-PHIEUPH
+Category: Lo
+Decomposition: <compat> 1109 1111
+
+[U+113B]
+Name: HANGUL CHOSEONG SIOS-HIEUH
+Category: Lo
+Decomposition: <compat> 1109 1112
+
+[U+113C]
+Name: HANGUL CHOSEONG CHITUEUMSIOS
+Category: Lo
+
+[U+113D]
+Name: HANGUL CHOSEONG CHITUEUMSSANGSIOS
+Category: Lo
+Decomposition: <compat> 113C 113C
+
+[U+113E]
+Name: HANGUL CHOSEONG CEONGCHIEUMSIOS
+Category: Lo
+
+[U+113F]
+Name: HANGUL CHOSEONG CEONGCHIEUMSSANGSIOS
+Category: Lo
+Decomposition: <compat> 113E 113E
+
+[U+1140]
+Name: HANGUL CHOSEONG PANSIOS
+Category: Lo
+
+[U+1141]
+Name: HANGUL CHOSEONG IEUNG-KIYEOK
+Category: Lo
+Decomposition: <compat> 110B 1100
+
+[U+1142]
+Name: HANGUL CHOSEONG IEUNG-TIKEUT
+Category: Lo
+Decomposition: <compat> 110B 1103
+
+[U+1143]
+Name: HANGUL CHOSEONG IEUNG-MIEUM
+Category: Lo
+Decomposition: <compat> 110B 1106
+
+[U+1144]
+Name: HANGUL CHOSEONG IEUNG-PIEUP
+Category: Lo
+Decomposition: <compat> 110B 1107
+
+[U+1145]
+Name: HANGUL CHOSEONG IEUNG-SIOS
+Category: Lo
+Decomposition: <compat> 110B 1109
+
+[U+1146]
+Name: HANGUL CHOSEONG IEUNG-PANSIOS
+Category: Lo
+Decomposition: <compat> 110B 1140
+
+[U+1147]
+Name: HANGUL CHOSEONG SSANGIEUNG
+Category: Lo
+Decomposition: <compat> 110B 110B
+
+[U+1148]
+Name: HANGUL CHOSEONG IEUNG-CIEUC
+Category: Lo
+Decomposition: <compat> 110B 110C
+
+[U+1149]
+Name: HANGUL CHOSEONG IEUNG-CHIEUCH
+Category: Lo
+Decomposition: <compat> 110B 110E
+
+[U+114A]
+Name: HANGUL CHOSEONG IEUNG-THIEUTH
+Category: Lo
+Decomposition: <compat> 110B 1110
+
+[U+114B]
+Name: HANGUL CHOSEONG IEUNG-PHIEUPH
+Category: Lo
+Decomposition: <compat> 110B 1111
+
+[U+114C]
+Name: HANGUL CHOSEONG YESIEUNG
+Category: Lo
+
+[U+114D]
+Name: HANGUL CHOSEONG CIEUC-IEUNG
+Category: Lo
+Decomposition: <compat> 110C 110B
+
+[U+114E]
+Name: HANGUL CHOSEONG CHITUEUMCIEUC
+Category: Lo
+
+[U+114F]
+Name: HANGUL CHOSEONG CHITUEUMSSANGCIEUC
+Category: Lo
+Decomposition: <compat> 114E 114E
+
+[U+1150]
+Name: HANGUL CHOSEONG CEONGCHIEUMCIEUC
+Category: Lo
+
+[U+1151]
+Name: HANGUL CHOSEONG CEONGCHIEUMSSANGCIEUC
+Category: Lo
+Decomposition: <compat> 1150 1150
+
+[U+1152]
+Name: HANGUL CHOSEONG CHIEUCH-KHIEUKH
+Category: Lo
+Decomposition: <compat> 110E 110F
+
+[U+1153]
+Name: HANGUL CHOSEONG CHIEUCH-HIEUH
+Category: Lo
+Decomposition: <compat> 110E 1112
+
+[U+1154]
+Name: HANGUL CHOSEONG CHITUEUMCHIEUCH
+Category: Lo
+
+[U+1155]
+Name: HANGUL CHOSEONG CEONGCHIEUMCHIEUCH
+Category: Lo
+
+[U+1156]
+Name: HANGUL CHOSEONG PHIEUPH-PIEUP
+Category: Lo
+Decomposition: <compat> 1111 1107
+
+[U+1157]
+Name: HANGUL CHOSEONG KAPYEOUNPHIEUPH
+Category: Lo
+Decomposition: <compat> 1111 110B
+
+[U+1158]
+Name: HANGUL CHOSEONG SSANGHIEUH
+Category: Lo
+Decomposition: <compat> 1112 1112
+
+[U+1159]
+Name: HANGUL CHOSEONG YEORINHIEUH
+Category: Lo
+
+[U+115F]
+Name: HANGUL CHOSEONG FILLER
+Category: Lo
+
+[U+1160]
+Name: HANGUL JUNGSEONG FILLER
+Category: Lo
+
+[U+1161]
+Name: HANGUL JUNGSEONG A
+Category: Lo
+
+[U+1162]
+Name: HANGUL JUNGSEONG AE
+Category: Lo
+Decomposition: <compat> 1161 1175
+
+[U+1163]
+Name: HANGUL JUNGSEONG YA
+Category: Lo
+
+[U+1164]
+Name: HANGUL JUNGSEONG YAE
+Category: Lo
+Decomposition: <compat> 1163 1175
+
+[U+1165]
+Name: HANGUL JUNGSEONG EO
+Category: Lo
+
+[U+1166]
+Name: HANGUL JUNGSEONG E
+Category: Lo
+Decomposition: <compat> 1165 1175
+
+[U+1167]
+Name: HANGUL JUNGSEONG YEO
+Category: Lo
+
+[U+1168]
+Name: HANGUL JUNGSEONG YE
+Category: Lo
+Decomposition: <compat> 1167 1175
+
+[U+1169]
+Name: HANGUL JUNGSEONG O
+Category: Lo
+
+[U+116A]
+Name: HANGUL JUNGSEONG WA
+Category: Lo
+Decomposition: <compat> 1169 1161
+
+[U+116B]
+Name: HANGUL JUNGSEONG WAE
+Category: Lo
+Decomposition: <compat> 1169 1161 1175
+
+[U+116C]
+Name: HANGUL JUNGSEONG OE
+Category: Lo
+Decomposition: <compat> 1169 1175
+
+[U+116D]
+Name: HANGUL JUNGSEONG YO
+Category: Lo
+
+[U+116E]
+Name: HANGUL JUNGSEONG U
+Category: Lo
+
+[U+116F]
+Name: HANGUL JUNGSEONG WEO
+Category: Lo
+Decomposition: <compat> 116E 1165
+
+[U+1170]
+Name: HANGUL JUNGSEONG WE
+Category: Lo
+Decomposition: <compat> 116E 1165 1175
+
+[U+1171]
+Name: HANGUL JUNGSEONG WI
+Category: Lo
+Decomposition: <compat> 116E 1175
+
+[U+1172]
+Name: HANGUL JUNGSEONG YU
+Category: Lo
+
+[U+1173]
+Name: HANGUL JUNGSEONG EU
+Category: Lo
+
+[U+1174]
+Name: HANGUL JUNGSEONG YI
+Category: Lo
+Decomposition: <compat> 1173 1175
+
+[U+1175]
+Name: HANGUL JUNGSEONG I
+Category: Lo
+
+[U+1176]
+Name: HANGUL JUNGSEONG A-O
+Category: Lo
+Decomposition: <compat> 1161 1169
+
+[U+1177]
+Name: HANGUL JUNGSEONG A-U
+Category: Lo
+Decomposition: <compat> 1161 116E
+
+[U+1178]
+Name: HANGUL JUNGSEONG YA-O
+Category: Lo
+Decomposition: <compat> 1163 1169
+
+[U+1179]
+Name: HANGUL JUNGSEONG YA-YO
+Category: Lo
+Decomposition: <compat> 1163 116D
+
+[U+117A]
+Name: HANGUL JUNGSEONG EO-O
+Category: Lo
+Decomposition: <compat> 1165 1169
+
+[U+117B]
+Name: HANGUL JUNGSEONG EO-U
+Category: Lo
+Decomposition: <compat> 1165 116E
+
+[U+117C]
+Name: HANGUL JUNGSEONG EO-EU
+Category: Lo
+Decomposition: <compat> 1165 1173
+
+[U+117D]
+Name: HANGUL JUNGSEONG YEO-O
+Category: Lo
+Decomposition: <compat> 1167 1169
+
+[U+117E]
+Name: HANGUL JUNGSEONG YEO-U
+Category: Lo
+Decomposition: <compat> 1167 116E
+
+[U+117F]
+Name: HANGUL JUNGSEONG O-EO
+Category: Lo
+Decomposition: <compat> 1169 1165
+
+[U+1180]
+Name: HANGUL JUNGSEONG O-E
+Category: Lo
+Decomposition: <compat> 1169 1166
+
+[U+1181]
+Name: HANGUL JUNGSEONG O-YE
+Category: Lo
+Decomposition: <compat> 1169 1168
+
+[U+1182]
+Name: HANGUL JUNGSEONG O-O
+Category: Lo
+Decomposition: <compat> 1169 1169
+
+[U+1183]
+Name: HANGUL JUNGSEONG O-U
+Category: Lo
+Decomposition: <compat> 1169 116E
+
+[U+1184]
+Name: HANGUL JUNGSEONG YO-YA
+Category: Lo
+Decomposition: <compat> 116D 1163
+
+[U+1185]
+Name: HANGUL JUNGSEONG YO-YAE
+Category: Lo
+Decomposition: <compat> 116D 1164
+
+[U+1186]
+Name: HANGUL JUNGSEONG YO-YEO
+Category: Lo
+Decomposition: <compat> 116D 1167
+
+[U+1187]
+Name: HANGUL JUNGSEONG YO-O
+Category: Lo
+Decomposition: <compat> 116D 1169
+
+[U+1188]
+Name: HANGUL JUNGSEONG YO-I
+Category: Lo
+Decomposition: <compat> 116D 1175
+
+[U+1189]
+Name: HANGUL JUNGSEONG U-A
+Category: Lo
+Decomposition: <compat> 116E 1161
+
+[U+118A]
+Name: HANGUL JUNGSEONG U-AE
+Category: Lo
+Decomposition: <compat> 116E 1162
+
+[U+118B]
+Name: HANGUL JUNGSEONG U-EO-EU
+Category: Lo
+Decomposition: <compat> 116E 1165 1173
+
+[U+118C]
+Name: HANGUL JUNGSEONG U-YE
+Category: Lo
+Decomposition: <compat> 116E 1168
+
+[U+118D]
+Name: HANGUL JUNGSEONG U-U
+Category: Lo
+Decomposition: <compat> 116E 116E
+
+[U+118E]
+Name: HANGUL JUNGSEONG YU-A
+Category: Lo
+Decomposition: <compat> 1172 1161
+
+[U+118F]
+Name: HANGUL JUNGSEONG YU-EO
+Category: Lo
+Decomposition: <compat> 1172 1165
+
+[U+1190]
+Name: HANGUL JUNGSEONG YU-E
+Category: Lo
+Decomposition: <compat> 1172 1166
+
+[U+1191]
+Name: HANGUL JUNGSEONG YU-YEO
+Category: Lo
+Decomposition: <compat> 1172 1167
+
+[U+1192]
+Name: HANGUL JUNGSEONG YU-YE
+Category: Lo
+Decomposition: <compat> 1172 1168
+
+[U+1193]
+Name: HANGUL JUNGSEONG YU-U
+Category: Lo
+Decomposition: <compat> 1172 116E
+
+[U+1194]
+Name: HANGUL JUNGSEONG YU-I
+Category: Lo
+Decomposition: <compat> 1172 1175
+
+[U+1195]
+Name: HANGUL JUNGSEONG EU-U
+Category: Lo
+Decomposition: <compat> 1173 116E
+
+[U+1196]
+Name: HANGUL JUNGSEONG EU-EU
+Category: Lo
+Decomposition: <compat> 1173 1173
+
+[U+1197]
+Name: HANGUL JUNGSEONG YI-U
+Category: Lo
+Decomposition: <compat> 1174 116E
+
+[U+1198]
+Name: HANGUL JUNGSEONG I-A
+Category: Lo
+Decomposition: <compat> 1175 1161
+
+[U+1199]
+Name: HANGUL JUNGSEONG I-YA
+Category: Lo
+Decomposition: <compat> 1175 1163
+
+[U+119A]
+Name: HANGUL JUNGSEONG I-O
+Category: Lo
+Decomposition: <compat> 1175 1169
+
+[U+119B]
+Name: HANGUL JUNGSEONG I-U
+Category: Lo
+Decomposition: <compat> 1175 116E
+
+[U+119C]
+Name: HANGUL JUNGSEONG I-EU
+Category: Lo
+Decomposition: <compat> 1175 1173
+
+[U+119D]
+Name: HANGUL JUNGSEONG I-ARAEA
+Category: Lo
+Decomposition: <compat> 1175 119E
+
+[U+119E]
+Name: HANGUL JUNGSEONG ARAEA
+Category: Lo
+
+[U+119F]
+Name: HANGUL JUNGSEONG ARAEA-EO
+Category: Lo
+Decomposition: <compat> 119E 1165
+
+[U+11A0]
+Name: HANGUL JUNGSEONG ARAEA-U
+Category: Lo
+Decomposition: <compat> 119E 116E
+
+[U+11A1]
+Name: HANGUL JUNGSEONG ARAEA-I
+Category: Lo
+Decomposition: <compat> 119E 1175
+
+[U+11A2]
+Name: HANGUL JUNGSEONG SSANGARAEA
+Category: Lo
+Decomposition: <compat> 119E 119E
+
+[U+11A8]
+Name: HANGUL JONGSEONG KIYEOK
+Category: Lo
+
+[U+11A9]
+Name: HANGUL JONGSEONG SSANGKIYEOK
+Category: Lo
+Decomposition: <compat> 11A8 11A8
+
+[U+11AA]
+Name: HANGUL JONGSEONG KIYEOK-SIOS
+Category: Lo
+Decomposition: <compat> 11A8 11BA
+
+[U+11AB]
+Name: HANGUL JONGSEONG NIEUN
+Category: Lo
+
+[U+11AC]
+Name: HANGUL JONGSEONG NIEUN-CIEUC
+Category: Lo
+Decomposition: <compat> 11AB 11BD
+
+[U+11AD]
+Name: HANGUL JONGSEONG NIEUN-HIEUH
+Category: Lo
+Decomposition: <compat> 11AB 11C2
+
+[U+11AE]
+Name: HANGUL JONGSEONG TIKEUT
+Category: Lo
+
+[U+11AF]
+Name: HANGUL JONGSEONG RIEUL
+Category: Lo
+
+[U+11B0]
+Name: HANGUL JONGSEONG RIEUL-KIYEOK
+Category: Lo
+Decomposition: <compat> 11AF 11A8
+
+[U+11B1]
+Name: HANGUL JONGSEONG RIEUL-MIEUM
+Category: Lo
+Decomposition: <compat> 11AF 11B7
+
+[U+11B2]
+Name: HANGUL JONGSEONG RIEUL-PIEUP
+Category: Lo
+Decomposition: <compat> 11AF 11B8
+
+[U+11B3]
+Name: HANGUL JONGSEONG RIEUL-SIOS
+Category: Lo
+Decomposition: <compat> 11AF 11BA
+
+[U+11B4]
+Name: HANGUL JONGSEONG RIEUL-THIEUTH
+Category: Lo
+Decomposition: <compat> 11AF 11C0
+
+[U+11B5]
+Name: HANGUL JONGSEONG RIEUL-PHIEUPH
+Category: Lo
+Decomposition: <compat> 11AF 11C1
+
+[U+11B6]
+Name: HANGUL JONGSEONG RIEUL-HIEUH
+Category: Lo
+Decomposition: <compat> 11AF 11C2
+
+[U+11B7]
+Name: HANGUL JONGSEONG MIEUM
+Category: Lo
+
+[U+11B8]
+Name: HANGUL JONGSEONG PIEUP
+Category: Lo
+
+[U+11B9]
+Name: HANGUL JONGSEONG PIEUP-SIOS
+Category: Lo
+Decomposition: <compat> 11B8 11BA
+
+[U+11BA]
+Name: HANGUL JONGSEONG SIOS
+Category: Lo
+
+[U+11BB]
+Name: HANGUL JONGSEONG SSANGSIOS
+Category: Lo
+Decomposition: <compat> 11BA 11BA
+
+[U+11BC]
+Name: HANGUL JONGSEONG IEUNG
+Category: Lo
+
+[U+11BD]
+Name: HANGUL JONGSEONG CIEUC
+Category: Lo
+
+[U+11BE]
+Name: HANGUL JONGSEONG CHIEUCH
+Category: Lo
+
+[U+11BF]
+Name: HANGUL JONGSEONG KHIEUKH
+Category: Lo
+
+[U+11C0]
+Name: HANGUL JONGSEONG THIEUTH
+Category: Lo
+
+[U+11C1]
+Name: HANGUL JONGSEONG PHIEUPH
+Category: Lo
+
+[U+11C2]
+Name: HANGUL JONGSEONG HIEUH
+Category: Lo
+
+[U+11C3]
+Name: HANGUL JONGSEONG KIYEOK-RIEUL
+Category: Lo
+Decomposition: <compat> 11A8 11AF
+
+[U+11C4]
+Name: HANGUL JONGSEONG KIYEOK-SIOS-KIYEOK
+Category: Lo
+Decomposition: <compat> 11A8 11BA 11A8
+
+[U+11C5]
+Name: HANGUL JONGSEONG NIEUN-KIYEOK
+Category: Lo
+Decomposition: <compat> 11AB 11A8
+
+[U+11C6]
+Name: HANGUL JONGSEONG NIEUN-TIKEUT
+Category: Lo
+Decomposition: <compat> 11AB 11AE
+
+[U+11C7]
+Name: HANGUL JONGSEONG NIEUN-SIOS
+Category: Lo
+Decomposition: <compat> 11AB 11BA
+
+[U+11C8]
+Name: HANGUL JONGSEONG NIEUN-PANSIOS
+Category: Lo
+Decomposition: <compat> 11AB 11EB
+
+[U+11C9]
+Name: HANGUL JONGSEONG NIEUN-THIEUTH
+Category: Lo
+Decomposition: <compat> 11AB 11C0
+
+[U+11CA]
+Name: HANGUL JONGSEONG TIKEUT-KIYEOK
+Category: Lo
+Decomposition: <compat> 11AE 11A8
+
+[U+11CB]
+Name: HANGUL JONGSEONG TIKEUT-RIEUL
+Category: Lo
+Decomposition: <compat> 11AE 11AF
+
+[U+11CC]
+Name: HANGUL JONGSEONG RIEUL-KIYEOK-SIOS
+Category: Lo
+Decomposition: <compat> 11AF 11A8 11BA
+
+[U+11CD]
+Name: HANGUL JONGSEONG RIEUL-NIEUN
+Category: Lo
+Decomposition: <compat> 11AF 11AB
+
+[U+11CE]
+Name: HANGUL JONGSEONG RIEUL-TIKEUT
+Category: Lo
+Decomposition: <compat> 11AF 11AE
+
+[U+11CF]
+Name: HANGUL JONGSEONG RIEUL-TIKEUT-HIEUH
+Category: Lo
+Decomposition: <compat> 11AF 11AE 11C2
+
+[U+11D0]
+Name: HANGUL JONGSEONG SSANGRIEUL
+Category: Lo
+Decomposition: <compat> 11AF 11AF
+
+[U+11D1]
+Name: HANGUL JONGSEONG RIEUL-MIEUM-KIYEOK
+Category: Lo
+Decomposition: <compat> 11AF 11B7 11A8
+
+[U+11D2]
+Name: HANGUL JONGSEONG RIEUL-MIEUM-SIOS
+Category: Lo
+Decomposition: <compat> 11AF 11B7 11BA
+
+[U+11D3]
+Name: HANGUL JONGSEONG RIEUL-PIEUP-SIOS
+Category: Lo
+Decomposition: <compat> 11AF 11B8 11BA
+
+[U+11D4]
+Name: HANGUL JONGSEONG RIEUL-PIEUP-HIEUH
+Category: Lo
+Decomposition: <compat> 11AF 11B8 11C2
+
+[U+11D5]
+Name: HANGUL JONGSEONG RIEUL-KAPYEOUNPIEUP
+Category: Lo
+Decomposition: <compat> 11AF 11B8 11BC
+
+[U+11D6]
+Name: HANGUL JONGSEONG RIEUL-SSANGSIOS
+Category: Lo
+Decomposition: <compat> 11AF 11BA 11BA
+
+[U+11D7]
+Name: HANGUL JONGSEONG RIEUL-PANSIOS
+Category: Lo
+Decomposition: <compat> 11AF 11EB
+
+[U+11D8]
+Name: HANGUL JONGSEONG RIEUL-KHIEUKH
+Category: Lo
+Decomposition: <compat> 11AF 11BF
+
+[U+11D9]
+Name: HANGUL JONGSEONG RIEUL-YEORINHIEUH
+Category: Lo
+Decomposition: <compat> 11AF 11F9
+
+[U+11DA]
+Name: HANGUL JONGSEONG MIEUM-KIYEOK
+Category: Lo
+Decomposition: <compat> 11B7 11A8
+
+[U+11DB]
+Name: HANGUL JONGSEONG MIEUM-RIEUL
+Category: Lo
+Decomposition: <compat> 11B7 11AF
+
+[U+11DC]
+Name: HANGUL JONGSEONG MIEUM-PIEUP
+Category: Lo
+Decomposition: <compat> 11B7 11B8
+
+[U+11DD]
+Name: HANGUL JONGSEONG MIEUM-SIOS
+Category: Lo
+Decomposition: <compat> 11B7 11BA
+
+[U+11DE]
+Name: HANGUL JONGSEONG MIEUM-SSANGSIOS
+Category: Lo
+Decomposition: <compat> 11B7 11BA 11BA
+
+[U+11DF]
+Name: HANGUL JONGSEONG MIEUM-PANSIOS
+Category: Lo
+Decomposition: <compat> 11B7 11EB
+
+[U+11E0]
+Name: HANGUL JONGSEONG MIEUM-CHIEUCH
+Category: Lo
+Decomposition: <compat> 11B7 11BE
+
+[U+11E1]
+Name: HANGUL JONGSEONG MIEUM-HIEUH
+Category: Lo
+Decomposition: <compat> 11B7 11C2
+
+[U+11E2]
+Name: HANGUL JONGSEONG KAPYEOUNMIEUM
+Category: Lo
+Decomposition: <compat> 11B7 11BC
+
+[U+11E3]
+Name: HANGUL JONGSEONG PIEUP-RIEUL
+Category: Lo
+Decomposition: <compat> 11B8 11AF
+
+[U+11E4]
+Name: HANGUL JONGSEONG PIEUP-PHIEUPH
+Category: Lo
+Decomposition: <compat> 11B8 11C1
+
+[U+11E5]
+Name: HANGUL JONGSEONG PIEUP-HIEUH
+Category: Lo
+Decomposition: <compat> 11B8 11C2
+
+[U+11E6]
+Name: HANGUL JONGSEONG KAPYEOUNPIEUP
+Category: Lo
+Decomposition: <compat> 11B8 11BC
+
+[U+11E7]
+Name: HANGUL JONGSEONG SIOS-KIYEOK
+Category: Lo
+Decomposition: <compat> 11BA 11A8
+
+[U+11E8]
+Name: HANGUL JONGSEONG SIOS-TIKEUT
+Category: Lo
+Decomposition: <compat> 11BA 11AE
+
+[U+11E9]
+Name: HANGUL JONGSEONG SIOS-RIEUL
+Category: Lo
+Decomposition: <compat> 11BA 11AF
+
+[U+11EA]
+Name: HANGUL JONGSEONG SIOS-PIEUP
+Category: Lo
+Decomposition: <compat> 11BA 11B8
+
+[U+11EB]
+Name: HANGUL JONGSEONG PANSIOS
+Category: Lo
+
+[U+11EC]
+Name: HANGUL JONGSEONG IEUNG-KIYEOK
+Category: Lo
+Decomposition: <compat> 11BC 11A8
+
+[U+11ED]
+Name: HANGUL JONGSEONG IEUNG-SSANGKIYEOK
+Category: Lo
+Decomposition: <compat> 11BC 11A8 11A8
+
+[U+11EE]
+Name: HANGUL JONGSEONG SSANGIEUNG
+Category: Lo
+Decomposition: <compat> 11BC 11BC
+
+[U+11EF]
+Name: HANGUL JONGSEONG IEUNG-KHIEUKH
+Category: Lo
+Decomposition: <compat> 11BC 11BF
+
+[U+11F0]
+Name: HANGUL JONGSEONG YESIEUNG
+Category: Lo
+
+[U+11F1]
+Name: HANGUL JONGSEONG YESIEUNG-SIOS
+Category: Lo
+Decomposition: <compat> 11F0 11BA
+
+[U+11F2]
+Name: HANGUL JONGSEONG YESIEUNG-PANSIOS
+Category: Lo
+Decomposition: <compat> 11F0 11EB
+
+[U+11F3]
+Name: HANGUL JONGSEONG PHIEUPH-PIEUP
+Category: Lo
+Decomposition: <compat> 11C1 11B8
+
+[U+11F4]
+Name: HANGUL JONGSEONG KAPYEOUNPHIEUPH
+Category: Lo
+Decomposition: <compat> 11C1 11BC
+
+[U+11F5]
+Name: HANGUL JONGSEONG HIEUH-NIEUN
+Category: Lo
+Decomposition: <compat> 11C2 11AB
+
+[U+11F6]
+Name: HANGUL JONGSEONG HIEUH-RIEUL
+Category: Lo
+Decomposition: <compat> 11C2 11AF
+
+[U+11F7]
+Name: HANGUL JONGSEONG HIEUH-MIEUM
+Category: Lo
+Decomposition: <compat> 11C2 11B7
+
+[U+11F8]
+Name: HANGUL JONGSEONG HIEUH-PIEUP
+Category: Lo
+Decomposition: <compat> 11C2 11B8
+
+[U+11F9]
+Name: HANGUL JONGSEONG YEORINHIEUH
+Category: Lo

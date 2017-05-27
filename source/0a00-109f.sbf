@@ -1,0 +1,3805 @@
+[U+0A02]
+Name: GURMUKHI SIGN BINDI
+Category: Mn
+Combining-Class: 57
+
+[U+0A05]
+Name: GURMUKHI LETTER A
+Category: Lo
+
+[U+0A06]
+Name: GURMUKHI LETTER AA
+Category: Lo
+
+[U+0A07]
+Name: GURMUKHI LETTER I
+Category: Lo
+
+[U+0A08]
+Name: GURMUKHI LETTER II
+Category: Lo
+
+[U+0A09]
+Name: GURMUKHI LETTER U
+Category: Lo
+
+[U+0A0A]
+Name: GURMUKHI LETTER UU
+Category: Lo
+
+[U+0A0F]
+Name: GURMUKHI LETTER EE
+Category: Lo
+
+[U+0A10]
+Name: GURMUKHI LETTER AI
+Category: Lo
+
+[U+0A13]
+Name: GURMUKHI LETTER OO
+Category: Lo
+
+[U+0A14]
+Name: GURMUKHI LETTER AU
+Category: Lo
+
+[U+0A15]
+Name: GURMUKHI LETTER KA
+Category: Lo
+
+[U+0A16]
+Name: GURMUKHI LETTER KHA
+Category: Lo
+
+[U+0A17]
+Name: GURMUKHI LETTER GA
+Category: Lo
+
+[U+0A18]
+Name: GURMUKHI LETTER GHA
+Category: Lo
+
+[U+0A19]
+Name: GURMUKHI LETTER NGA
+Category: Lo
+
+[U+0A1A]
+Name: GURMUKHI LETTER CA
+Category: Lo
+
+[U+0A1B]
+Name: GURMUKHI LETTER CHA
+Category: Lo
+
+[U+0A1C]
+Name: GURMUKHI LETTER JA
+Category: Lo
+
+[U+0A1D]
+Name: GURMUKHI LETTER JHA
+Category: Lo
+
+[U+0A1E]
+Name: GURMUKHI LETTER NYA
+Category: Lo
+
+[U+0A1F]
+Name: GURMUKHI LETTER TTA
+Category: Lo
+
+[U+0A20]
+Name: GURMUKHI LETTER TTHA
+Category: Lo
+
+[U+0A21]
+Name: GURMUKHI LETTER DDA
+Category: Lo
+
+[U+0A22]
+Name: GURMUKHI LETTER DDHA
+Category: Lo
+
+[U+0A23]
+Name: GURMUKHI LETTER NNA
+Category: Lo
+
+[U+0A24]
+Name: GURMUKHI LETTER TA
+Category: Lo
+
+[U+0A25]
+Name: GURMUKHI LETTER THA
+Category: Lo
+
+[U+0A26]
+Name: GURMUKHI LETTER DA
+Category: Lo
+
+[U+0A27]
+Name: GURMUKHI LETTER DHA
+Category: Lo
+
+[U+0A28]
+Name: GURMUKHI LETTER NA
+Category: Lo
+
+[U+0A2A]
+Name: GURMUKHI LETTER PA
+Category: Lo
+
+[U+0A2B]
+Name: GURMUKHI LETTER PHA
+Category: Lo
+
+[U+0A2C]
+Name: GURMUKHI LETTER BA
+Category: Lo
+
+[U+0A2D]
+Name: GURMUKHI LETTER BHA
+Category: Lo
+
+[U+0A2E]
+Name: GURMUKHI LETTER MA
+Category: Lo
+
+[U+0A2F]
+Name: GURMUKHI LETTER YA
+Category: Lo
+
+[U+0A30]
+Name: GURMUKHI LETTER RA
+Category: Lo
+
+[U+0A32]
+Name: GURMUKHI LETTER LA
+Category: Lo
+
+[U+0A33]
+Name: GURMUKHI LETTER LLA
+Category: Lo
+
+[U+0A35]
+Name: GURMUKHI LETTER VA
+Category: Lo
+
+[U+0A36]
+Name: GURMUKHI LETTER SHA
+Category: Lo
+
+[U+0A38]
+Name: GURMUKHI LETTER SA
+Category: Lo
+
+[U+0A39]
+Name: GURMUKHI LETTER HA
+Category: Lo
+
+[U+0A3C]
+Name: GURMUKHI SIGN NUKTA
+Category: Mn
+Combining-Class: 7
+
+[U+0A3E]
+Name: GURMUKHI VOWEL SIGN AA
+Category: Mc
+
+[U+0A3F]
+Name: GURMUKHI VOWEL SIGN I
+Category: Mc
+
+[U+0A40]
+Name: GURMUKHI VOWEL SIGN II
+Category: Mc
+
+[U+0A41]
+Name: GURMUKHI VOWEL SIGN U
+Category: Mn
+Combining-Class: 58
+
+[U+0A42]
+Name: GURMUKHI VOWEL SIGN UU
+Category: Mn
+Combining-Class: 59
+
+[U+0A47]
+Name: GURMUKHI VOWEL SIGN EE
+Category: Mn
+Combining-Class: 60
+
+[U+0A48]
+Name: GURMUKHI VOWEL SIGN AI
+Category: Mn
+Combining-Class: 61
+
+[U+0A4B]
+Name: GURMUKHI VOWEL SIGN OO
+Category: Mn
+Combining-Class: 62
+
+[U+0A4C]
+Name: GURMUKHI VOWEL SIGN AU
+Category: Mn
+Combining-Class: 63
+
+[U+0A4D]
+Name: GURMUKHI SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+0A59]
+Name: GURMUKHI LETTER KHHA
+Category: Lo
+Decomposition: 0A16 0A3C
+[U+0A16+0A3C]
+Name: GURMUKHI LETTER KHHA
+Category: Lo
+Decomposition: 0A16 0A3C
+
+[U+0A5A]
+Name: GURMUKHI LETTER GHHA
+Category: Lo
+Decomposition: 0A17 0A3C
+[U+0A17+0A3C]
+Name: GURMUKHI LETTER GHHA
+Category: Lo
+Decomposition: 0A17 0A3C
+
+[U+0A5B]
+Name: GURMUKHI LETTER ZA
+Category: Lo
+Decomposition: 0A1C 0A3C
+[U+0A1C+0A3C]
+Name: GURMUKHI LETTER ZA
+Category: Lo
+Decomposition: 0A1C 0A3C
+
+[U+0A5C]
+Name: GURMUKHI LETTER RRA
+Category: Lo
+Decomposition: 0A21 0A3C
+[U+0A21+0A3C]
+Name: GURMUKHI LETTER RRA
+Category: Lo
+Decomposition: 0A21 0A3C
+
+[U+0A5E]
+Name: GURMUKHI LETTER FA
+Category: Lo
+Decomposition: 0A2B 0A3C
+[U+0A2B+0A3C]
+Name: GURMUKHI LETTER FA
+Category: Lo
+Decomposition: 0A2B 0A3C
+
+[U+0A66]
+Name: GURMUKHI DIGIT ZERO
+Category: Nd
+
+[U+0A67]
+Name: GURMUKHI DIGIT ONE
+Category: Nd
+
+[U+0A68]
+Name: GURMUKHI DIGIT TWO
+Category: Nd
+
+[U+0A69]
+Name: GURMUKHI DIGIT THREE
+Category: Nd
+
+[U+0A6A]
+Name: GURMUKHI DIGIT FOUR
+Category: Nd
+
+[U+0A6B]
+Name: GURMUKHI DIGIT FIVE
+Category: Nd
+
+[U+0A6C]
+Name: GURMUKHI DIGIT SIX
+Category: Nd
+
+[U+0A6D]
+Name: GURMUKHI DIGIT SEVEN
+Category: Nd
+
+[U+0A6E]
+Name: GURMUKHI DIGIT EIGHT
+Category: Nd
+
+[U+0A6F]
+Name: GURMUKHI DIGIT NINE
+Category: Nd
+
+[U+0A70]
+Name: GURMUKHI TIPPI
+Category: Mn
+Combining-Class: 64
+
+[U+0A71]
+Name: GURMUKHI ADDAK
+Category: Mn
+Combining-Class: 65
+
+[U+0A72]
+Name: GURMUKHI IRI
+Category: Lo
+
+[U+0A73]
+Name: GURMUKHI URA
+Category: Lo
+
+[U+0A74]
+Name: GURMUKHI EK ONKAR
+Category: Lo
+
+[U+0A81]
+Name: GUJARATI SIGN CANDRABINDU
+Category: Mn
+Combining-Class: 67
+
+[U+0A82]
+Name: GUJARATI SIGN ANUSVARA
+Category: Mn
+Combining-Class: 66
+
+[U+0A83]
+Name: GUJARATI SIGN VISARGA
+Category: Mc
+
+[U+0A85]
+Name: GUJARATI LETTER A
+Category: Lo
+
+[U+0A86]
+Name: GUJARATI LETTER AA
+Category: Lo
+
+[U+0A87]
+Name: GUJARATI LETTER I
+Category: Lo
+
+[U+0A88]
+Name: GUJARATI LETTER II
+Category: Lo
+
+[U+0A89]
+Name: GUJARATI LETTER U
+Category: Lo
+
+[U+0A8A]
+Name: GUJARATI LETTER UU
+Category: Lo
+
+[U+0A8B]
+Name: GUJARATI LETTER VOCALIC R
+Category: Lo
+
+[U+0A8D]
+Name: GUJARATI VOWEL CANDRA E
+Category: Lo
+
+[U+0A8F]
+Name: GUJARATI LETTER E
+Category: Lo
+
+[U+0A90]
+Name: GUJARATI LETTER AI
+Category: Lo
+
+[U+0A91]
+Name: GUJARATI VOWEL CANDRA O
+Category: Lo
+
+[U+0A93]
+Name: GUJARATI LETTER O
+Category: Lo
+
+[U+0A94]
+Name: GUJARATI LETTER AU
+Category: Lo
+
+[U+0A95]
+Name: GUJARATI LETTER KA
+Category: Lo
+
+[U+0A96]
+Name: GUJARATI LETTER KHA
+Category: Lo
+
+[U+0A97]
+Name: GUJARATI LETTER GA
+Category: Lo
+
+[U+0A98]
+Name: GUJARATI LETTER GHA
+Category: Lo
+
+[U+0A99]
+Name: GUJARATI LETTER NGA
+Category: Lo
+
+[U+0A9A]
+Name: GUJARATI LETTER CA
+Category: Lo
+
+[U+0A9B]
+Name: GUJARATI LETTER CHA
+Category: Lo
+
+[U+0A9C]
+Name: GUJARATI LETTER JA
+Category: Lo
+
+[U+0A9D]
+Name: GUJARATI LETTER JHA
+Category: Lo
+
+[U+0A9E]
+Name: GUJARATI LETTER NYA
+Category: Lo
+
+[U+0A9F]
+Name: GUJARATI LETTER TTA
+Category: Lo
+
+[U+0AA0]
+Name: GUJARATI LETTER TTHA
+Category: Lo
+
+[U+0AA1]
+Name: GUJARATI LETTER DDA
+Category: Lo
+
+[U+0AA2]
+Name: GUJARATI LETTER DDHA
+Category: Lo
+
+[U+0AA3]
+Name: GUJARATI LETTER NNA
+Category: Lo
+
+[U+0AA4]
+Name: GUJARATI LETTER TA
+Category: Lo
+
+[U+0AA5]
+Name: GUJARATI LETTER THA
+Category: Lo
+
+[U+0AA6]
+Name: GUJARATI LETTER DA
+Category: Lo
+
+[U+0AA7]
+Name: GUJARATI LETTER DHA
+Category: Lo
+
+[U+0AA8]
+Name: GUJARATI LETTER NA
+Category: Lo
+
+[U+0AAA]
+Name: GUJARATI LETTER PA
+Category: Lo
+
+[U+0AAB]
+Name: GUJARATI LETTER PHA
+Category: Lo
+
+[U+0AAC]
+Name: GUJARATI LETTER BA
+Category: Lo
+
+[U+0AAD]
+Name: GUJARATI LETTER BHA
+Category: Lo
+
+[U+0AAE]
+Name: GUJARATI LETTER MA
+Category: Lo
+
+[U+0AAF]
+Name: GUJARATI LETTER YA
+Category: Lo
+
+[U+0AB0]
+Name: GUJARATI LETTER RA
+Category: Lo
+
+[U+0AB2]
+Name: GUJARATI LETTER LA
+Category: Lo
+
+[U+0AB3]
+Name: GUJARATI LETTER LLA
+Category: Lo
+
+[U+0AB5]
+Name: GUJARATI LETTER VA
+Category: Lo
+
+[U+0AB6]
+Name: GUJARATI LETTER SHA
+Category: Lo
+
+[U+0AB7]
+Name: GUJARATI LETTER SSA
+Category: Lo
+
+[U+0AB8]
+Name: GUJARATI LETTER SA
+Category: Lo
+
+[U+0AB9]
+Name: GUJARATI LETTER HA
+Category: Lo
+
+[U+0ABC]
+Name: GUJARATI SIGN NUKTA
+Category: Mn
+Combining-Class: 7
+
+[U+0ABD]
+Name: GUJARATI SIGN AVAGRAHA
+Category: Lo
+
+[U+0ABE]
+Name: GUJARATI VOWEL SIGN AA
+Category: Mc
+
+[U+0ABF]
+Name: GUJARATI VOWEL SIGN I
+Category: Mc
+
+[U+0AC0]
+Name: GUJARATI VOWEL SIGN II
+Category: Mc
+
+[U+0AC1]
+Name: GUJARATI VOWEL SIGN U
+Category: Mn
+Combining-Class: 68
+
+[U+0AC2]
+Name: GUJARATI VOWEL SIGN UU
+Category: Mn
+Combining-Class: 69
+
+[U+0AC3]
+Name: GUJARATI VOWEL SIGN VOCALIC R
+Category: Mn
+Combining-Class: 70
+
+[U+0AC4]
+Name: GUJARATI VOWEL SIGN VOCALIC RR
+Category: Mn
+Combining-Class: 71
+
+[U+0AC5]
+Name: GUJARATI VOWEL SIGN CANDRA E
+Category: Mn
+Combining-Class: 72
+
+[U+0AC7]
+Name: GUJARATI VOWEL SIGN E
+Category: Mn
+Combining-Class: 73
+
+[U+0AC8]
+Name: GUJARATI VOWEL SIGN AI
+Category: Mn
+Combining-Class: 74
+
+[U+0AC9]
+Name: GUJARATI VOWEL SIGN CANDRA O
+Category: Mc
+
+[U+0ACB]
+Name: GUJARATI VOWEL SIGN O
+Category: Mc
+
+[U+0ACC]
+Name: GUJARATI VOWEL SIGN AU
+Category: Mc
+
+[U+0ACD]
+Name: GUJARATI SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+0AD0]
+Name: GUJARATI OM
+Category: So
+
+[U+0AE0]
+Name: GUJARATI LETTER VOCALIC RR
+Category: Lo
+
+[U+0AE6]
+Name: GUJARATI DIGIT ZERO
+Category: Nd
+
+[U+0AE7]
+Name: GUJARATI DIGIT ONE
+Category: Nd
+
+[U+0AE8]
+Name: GUJARATI DIGIT TWO
+Category: Nd
+
+[U+0AE9]
+Name: GUJARATI DIGIT THREE
+Category: Nd
+
+[U+0AEA]
+Name: GUJARATI DIGIT FOUR
+Category: Nd
+
+[U+0AEB]
+Name: GUJARATI DIGIT FIVE
+Category: Nd
+
+[U+0AEC]
+Name: GUJARATI DIGIT SIX
+Category: Nd
+
+[U+0AED]
+Name: GUJARATI DIGIT SEVEN
+Category: Nd
+
+[U+0AEE]
+Name: GUJARATI DIGIT EIGHT
+Category: Nd
+
+[U+0AEF]
+Name: GUJARATI DIGIT NINE
+Category: Nd
+
+[U+0B01]
+Name: ORIYA SIGN CANDRABINDU
+Category: Mn
+Combining-Class: 75
+
+[U+0B02]
+Name: ORIYA SIGN ANUSVARA
+Category: Mc
+
+[U+0B03]
+Name: ORIYA SIGN VISARGA
+Category: Mc
+
+[U+0B05]
+Name: ORIYA LETTER A
+Category: Lo
+
+[U+0B06]
+Name: ORIYA LETTER AA
+Category: Lo
+
+[U+0B07]
+Name: ORIYA LETTER I
+Category: Lo
+
+[U+0B08]
+Name: ORIYA LETTER II
+Category: Lo
+
+[U+0B09]
+Name: ORIYA LETTER U
+Category: Lo
+
+[U+0B0A]
+Name: ORIYA LETTER UU
+Category: Lo
+
+[U+0B0B]
+Name: ORIYA LETTER VOCALIC R
+Category: Lo
+
+[U+0B0C]
+Name: ORIYA LETTER VOCALIC L
+Category: Lo
+
+[U+0B0F]
+Name: ORIYA LETTER E
+Category: Lo
+
+[U+0B10]
+Name: ORIYA LETTER AI
+Category: Lo
+
+[U+0B13]
+Name: ORIYA LETTER O
+Category: Lo
+
+[U+0B14]
+Name: ORIYA LETTER AU
+Category: Lo
+
+[U+0B15]
+Name: ORIYA LETTER KA
+Category: Lo
+
+[U+0B16]
+Name: ORIYA LETTER KHA
+Category: Lo
+
+[U+0B17]
+Name: ORIYA LETTER GA
+Category: Lo
+
+[U+0B18]
+Name: ORIYA LETTER GHA
+Category: Lo
+
+[U+0B19]
+Name: ORIYA LETTER NGA
+Category: Lo
+
+[U+0B1A]
+Name: ORIYA LETTER CA
+Category: Lo
+
+[U+0B1B]
+Name: ORIYA LETTER CHA
+Category: Lo
+
+[U+0B1C]
+Name: ORIYA LETTER JA
+Category: Lo
+
+[U+0B1D]
+Name: ORIYA LETTER JHA
+Category: Lo
+
+[U+0B1E]
+Name: ORIYA LETTER NYA
+Category: Lo
+
+[U+0B1F]
+Name: ORIYA LETTER TTA
+Category: Lo
+
+[U+0B20]
+Name: ORIYA LETTER TTHA
+Category: Lo
+
+[U+0B21]
+Name: ORIYA LETTER DDA
+Category: Lo
+
+[U+0B22]
+Name: ORIYA LETTER DDHA
+Category: Lo
+
+[U+0B23]
+Name: ORIYA LETTER NNA
+Category: Lo
+
+[U+0B24]
+Name: ORIYA LETTER TA
+Category: Lo
+
+[U+0B25]
+Name: ORIYA LETTER THA
+Category: Lo
+
+[U+0B26]
+Name: ORIYA LETTER DA
+Category: Lo
+
+[U+0B27]
+Name: ORIYA LETTER DHA
+Category: Lo
+
+[U+0B28]
+Name: ORIYA LETTER NA
+Category: Lo
+
+[U+0B2A]
+Name: ORIYA LETTER PA
+Category: Lo
+
+[U+0B2B]
+Name: ORIYA LETTER PHA
+Category: Lo
+
+[U+0B2C]
+Name: ORIYA LETTER BA
+Category: Lo
+
+[U+0B2D]
+Name: ORIYA LETTER BHA
+Category: Lo
+
+[U+0B2E]
+Name: ORIYA LETTER MA
+Category: Lo
+
+[U+0B2F]
+Name: ORIYA LETTER YA
+Category: Lo
+
+[U+0B30]
+Name: ORIYA LETTER RA
+Category: Lo
+
+[U+0B32]
+Name: ORIYA LETTER LA
+Category: Lo
+
+[U+0B33]
+Name: ORIYA LETTER LLA
+Category: Lo
+
+[U+0B36]
+Name: ORIYA LETTER SHA
+Category: Lo
+
+[U+0B37]
+Name: ORIYA LETTER SSA
+Category: Lo
+
+[U+0B38]
+Name: ORIYA LETTER SA
+Category: Lo
+
+[U+0B39]
+Name: ORIYA LETTER HA
+Category: Lo
+
+[U+0B3C]
+Name: ORIYA SIGN NUKTA
+Category: Mn
+Combining-Class: 7
+
+[U+0B3D]
+Name: ORIYA SIGN AVAGRAHA
+Category: Lo
+
+[U+0B3E]
+Name: ORIYA VOWEL SIGN AA
+Category: Mc
+
+[U+0B3F]
+Name: ORIYA VOWEL SIGN I
+Category: Mn
+Combining-Class: 76
+
+[U+0B40]
+Name: ORIYA VOWEL SIGN II
+Category: Mc
+
+[U+0B41]
+Name: ORIYA VOWEL SIGN U
+Category: Mn
+Combining-Class: 77
+
+[U+0B42]
+Name: ORIYA VOWEL SIGN UU
+Category: Mn
+Combining-Class: 78
+
+[U+0B43]
+Name: ORIYA VOWEL SIGN VOCALIC R
+Category: Mn
+Combining-Class: 79
+
+[U+0B47]
+Name: ORIYA VOWEL SIGN E
+Category: Mc
+
+[U+0B48]
+Name: ORIYA VOWEL SIGN AI
+Category: Mc
+Decomposition: 0B47 0B56
+[U+0B47+0B56]
+Name: ORIYA VOWEL SIGN AI
+Category: Mc
+Decomposition: 0B47 0B56
+
+[U+0B4B]
+Name: ORIYA VOWEL SIGN O
+Category: Mc
+Decomposition: 0B47 0B3E
+[U+0B47+0B3E]
+Name: ORIYA VOWEL SIGN O
+Category: Mc
+Decomposition: 0B47 0B3E
+
+[U+0B4C]
+Name: ORIYA VOWEL SIGN AU
+Category: Mc
+Decomposition: 0B47 0B57
+[U+0B47+0B57]
+Name: ORIYA VOWEL SIGN AU
+Category: Mc
+Decomposition: 0B47 0B57
+
+[U+0B4D]
+Name: ORIYA SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+0B56]
+Name: ORIYA AI LENGTH MARK
+Category: Mn
+Combining-Class: 230
+
+[U+0B57]
+Name: ORIYA AU LENGTH MARK
+Category: Mc
+
+[U+0B5C]
+Name: ORIYA LETTER RRA
+Category: Lo
+Decomposition: 0B21 0B3C
+[U+0B21+0B3C]
+Name: ORIYA LETTER RRA
+Category: Lo
+Decomposition: 0B21 0B3C
+
+[U+0B5D]
+Name: ORIYA LETTER RHA
+Category: Lo
+Decomposition: 0B22 0B3C
+[U+0B22+0B3C]
+Name: ORIYA LETTER RHA
+Category: Lo
+Decomposition: 0B22 0B3C
+
+[U+0B5F]
+Name: ORIYA LETTER YYA
+Category: Lo
+Decomposition: 0B2F 0B3C
+[U+0B2F+0B3C]
+Name: ORIYA LETTER YYA
+Category: Lo
+Decomposition: 0B2F 0B3C
+
+[U+0B60]
+Name: ORIYA LETTER VOCALIC RR
+Category: Lo
+
+[U+0B61]
+Name: ORIYA LETTER VOCALIC LL
+Category: Lo
+
+[U+0B66]
+Name: ORIYA DIGIT ZERO
+Category: Nd
+
+[U+0B67]
+Name: ORIYA DIGIT ONE
+Category: Nd
+
+[U+0B68]
+Name: ORIYA DIGIT TWO
+Category: Nd
+
+[U+0B69]
+Name: ORIYA DIGIT THREE
+Category: Nd
+
+[U+0B6A]
+Name: ORIYA DIGIT FOUR
+Category: Nd
+
+[U+0B6B]
+Name: ORIYA DIGIT FIVE
+Category: Nd
+
+[U+0B6C]
+Name: ORIYA DIGIT SIX
+Category: Nd
+
+[U+0B6D]
+Name: ORIYA DIGIT SEVEN
+Category: Nd
+
+[U+0B6E]
+Name: ORIYA DIGIT EIGHT
+Category: Nd
+
+[U+0B6F]
+Name: ORIYA DIGIT NINE
+Category: Nd
+
+[U+0B70]
+Name: ORIYA ISSHAR
+Category: So
+
+[U+0B82]
+Name: TAMIL SIGN ANUSVARA
+Category: Mn
+
+[U+0B83]
+Name: TAMIL SIGN VISARGA
+Category: Mc
+
+[U+0B85]
+Name: TAMIL LETTER A
+Category: Lo
+
+[U+0B86]
+Name: TAMIL LETTER AA
+Category: Lo
+
+[U+0B87]
+Name: TAMIL LETTER I
+Category: Lo
+
+[U+0B88]
+Name: TAMIL LETTER II
+Category: Lo
+
+[U+0B89]
+Name: TAMIL LETTER U
+Category: Lo
+
+[U+0B8A]
+Name: TAMIL LETTER UU
+Category: Lo
+
+[U+0B8E]
+Name: TAMIL LETTER E
+Category: Lo
+
+[U+0B8F]
+Name: TAMIL LETTER EE
+Category: Lo
+
+[U+0B90]
+Name: TAMIL LETTER AI
+Category: Lo
+
+[U+0B92]
+Name: TAMIL LETTER O
+Category: Lo
+
+[U+0B93]
+Name: TAMIL LETTER OO
+Category: Lo
+
+[U+0B94]
+Name: TAMIL LETTER AU
+Category: Lo
+Decomposition: 0B92 0BD7
+[U+0B92+0BD7]
+Name: TAMIL LETTER AU
+Category: Lo
+Decomposition: 0B92 0BD7
+
+[U+0B95]
+Name: TAMIL LETTER KA
+Category: Lo
+
+[U+0B99]
+Name: TAMIL LETTER NGA
+Category: Lo
+
+[U+0B9A]
+Name: TAMIL LETTER CA
+Category: Lo
+
+[U+0B9C]
+Name: TAMIL LETTER JA
+Category: Lo
+
+[U+0B9E]
+Name: TAMIL LETTER NYA
+Category: Lo
+
+[U+0B9F]
+Name: TAMIL LETTER TTA
+Category: Lo
+
+[U+0BA3]
+Name: TAMIL LETTER NNA
+Category: Lo
+
+[U+0BA4]
+Name: TAMIL LETTER TA
+Category: Lo
+
+[U+0BA8]
+Name: TAMIL LETTER NA
+Category: Lo
+
+[U+0BA9]
+Name: TAMIL LETTER NNNA
+Category: Lo
+
+[U+0BAA]
+Name: TAMIL LETTER PA
+Category: Lo
+
+[U+0BAE]
+Name: TAMIL LETTER MA
+Category: Lo
+
+[U+0BAF]
+Name: TAMIL LETTER YA
+Category: Lo
+
+[U+0BB0]
+Name: TAMIL LETTER RA
+Category: Lo
+
+[U+0BB1]
+Name: TAMIL LETTER RRA
+Category: Lo
+
+[U+0BB2]
+Name: TAMIL LETTER LA
+Category: Lo
+
+[U+0BB3]
+Name: TAMIL LETTER LLA
+Category: Lo
+
+[U+0BB4]
+Name: TAMIL LETTER LLLA
+Category: Lo
+
+[U+0BB5]
+Name: TAMIL LETTER VA
+Category: Lo
+
+[U+0BB7]
+Name: TAMIL LETTER SSA
+Category: Lo
+
+[U+0BB8]
+Name: TAMIL LETTER SA
+Category: Lo
+
+[U+0BB9]
+Name: TAMIL LETTER HA
+Category: Lo
+
+[U+0BBE]
+Name: TAMIL VOWEL SIGN AA
+Category: Mc
+
+[U+0BBF]
+Name: TAMIL VOWEL SIGN I
+Category: Mc
+
+[U+0BC0]
+Name: TAMIL VOWEL SIGN II
+Category: Mn
+Combining-Class: 80
+
+[U+0BC1]
+Name: TAMIL VOWEL SIGN U
+Category: Mc
+
+[U+0BC2]
+Name: TAMIL VOWEL SIGN UU
+Category: Mc
+
+[U+0BC6]
+Name: TAMIL VOWEL SIGN E
+Category: Mc
+
+[U+0BC7]
+Name: TAMIL VOWEL SIGN EE
+Category: Mc
+
+[U+0BC8]
+Name: TAMIL VOWEL SIGN AI
+Category: Mc
+
+[U+0BCA]
+Name: TAMIL VOWEL SIGN O
+Category: Mc
+Decomposition: 0BC6 0BBE
+[U+0BC6+0BBE]
+Name: TAMIL VOWEL SIGN O
+Category: Mc
+Decomposition: 0BC6 0BBE
+
+[U+0BCB]
+Name: TAMIL VOWEL SIGN OO
+Category: Mc
+Decomposition: 0BC7 0BBE
+[U+0BC7+0BBE]
+Name: TAMIL VOWEL SIGN OO
+Category: Mc
+Decomposition: 0BC7 0BBE
+
+[U+0BCC]
+Name: TAMIL VOWEL SIGN AU
+Category: Mc
+Decomposition: 0BC6 0BD7
+[U+0BC6+0BD7]
+Name: TAMIL VOWEL SIGN AU
+Category: Mc
+Decomposition: 0BC6 0BD7
+
+[U+0BCD]
+Name: TAMIL SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+0BD7]
+Name: TAMIL AU LENGTH MARK
+Category: Mc
+
+[U+0BE7]
+Name: TAMIL DIGIT ONE
+Category: Nd
+
+[U+0BE8]
+Name: TAMIL DIGIT TWO
+Category: Nd
+
+[U+0BE9]
+Name: TAMIL DIGIT THREE
+Category: Nd
+
+[U+0BEA]
+Name: TAMIL DIGIT FOUR
+Category: Nd
+
+[U+0BEB]
+Name: TAMIL DIGIT FIVE
+Category: Nd
+
+[U+0BEC]
+Name: TAMIL DIGIT SIX
+Category: Nd
+
+[U+0BED]
+Name: TAMIL DIGIT SEVEN
+Category: Nd
+
+[U+0BEE]
+Name: TAMIL DIGIT EIGHT
+Category: Nd
+
+[U+0BEF]
+Name: TAMIL DIGIT NINE
+Category: Nd
+
+[U+0BF0]
+Name: TAMIL NUMBER TEN
+Category: No
+
+[U+0BF1]
+Name: TAMIL NUMBER ONE HUNDRED
+Category: No
+
+[U+0BF2]
+Name: TAMIL NUMBER ONE THOUSAND
+Category: No
+
+[U+0C01]
+Name: TELUGU SIGN CANDRABINDU
+Category: Mc
+
+[U+0C02]
+Name: TELUGU SIGN ANUSVARA
+Category: Mc
+
+[U+0C03]
+Name: TELUGU SIGN VISARGA
+Category: Mc
+
+[U+0C05]
+Name: TELUGU LETTER A
+Category: Lo
+
+[U+0C06]
+Name: TELUGU LETTER AA
+Category: Lo
+
+[U+0C07]
+Name: TELUGU LETTER I
+Category: Lo
+
+[U+0C08]
+Name: TELUGU LETTER II
+Category: Lo
+
+[U+0C09]
+Name: TELUGU LETTER U
+Category: Lo
+
+[U+0C0A]
+Name: TELUGU LETTER UU
+Category: Lo
+
+[U+0C0B]
+Name: TELUGU LETTER VOCALIC R
+Category: Lo
+
+[U+0C0C]
+Name: TELUGU LETTER VOCALIC L
+Category: Lo
+
+[U+0C0E]
+Name: TELUGU LETTER E
+Category: Lo
+
+[U+0C0F]
+Name: TELUGU LETTER EE
+Category: Lo
+
+[U+0C10]
+Name: TELUGU LETTER AI
+Category: Lo
+
+[U+0C12]
+Name: TELUGU LETTER O
+Category: Lo
+
+[U+0C13]
+Name: TELUGU LETTER OO
+Category: Lo
+
+[U+0C14]
+Name: TELUGU LETTER AU
+Category: Lo
+
+[U+0C15]
+Name: TELUGU LETTER KA
+Category: Lo
+
+[U+0C16]
+Name: TELUGU LETTER KHA
+Category: Lo
+
+[U+0C17]
+Name: TELUGU LETTER GA
+Category: Lo
+
+[U+0C18]
+Name: TELUGU LETTER GHA
+Category: Lo
+
+[U+0C19]
+Name: TELUGU LETTER NGA
+Category: Lo
+
+[U+0C1A]
+Name: TELUGU LETTER CA
+Category: Lo
+
+[U+0C1B]
+Name: TELUGU LETTER CHA
+Category: Lo
+
+[U+0C1C]
+Name: TELUGU LETTER JA
+Category: Lo
+
+[U+0C1D]
+Name: TELUGU LETTER JHA
+Category: Lo
+
+[U+0C1E]
+Name: TELUGU LETTER NYA
+Category: Lo
+
+[U+0C1F]
+Name: TELUGU LETTER TTA
+Category: Lo
+
+[U+0C20]
+Name: TELUGU LETTER TTHA
+Category: Lo
+
+[U+0C21]
+Name: TELUGU LETTER DDA
+Category: Lo
+
+[U+0C22]
+Name: TELUGU LETTER DDHA
+Category: Lo
+
+[U+0C23]
+Name: TELUGU LETTER NNA
+Category: Lo
+
+[U+0C24]
+Name: TELUGU LETTER TA
+Category: Lo
+
+[U+0C25]
+Name: TELUGU LETTER THA
+Category: Lo
+
+[U+0C26]
+Name: TELUGU LETTER DA
+Category: Lo
+
+[U+0C27]
+Name: TELUGU LETTER DHA
+Category: Lo
+
+[U+0C28]
+Name: TELUGU LETTER NA
+Category: Lo
+
+[U+0C2A]
+Name: TELUGU LETTER PA
+Category: Lo
+
+[U+0C2B]
+Name: TELUGU LETTER PHA
+Category: Lo
+
+[U+0C2C]
+Name: TELUGU LETTER BA
+Category: Lo
+
+[U+0C2D]
+Name: TELUGU LETTER BHA
+Category: Lo
+
+[U+0C2E]
+Name: TELUGU LETTER MA
+Category: Lo
+
+[U+0C2F]
+Name: TELUGU LETTER YA
+Category: Lo
+
+[U+0C30]
+Name: TELUGU LETTER RA
+Category: Lo
+
+[U+0C31]
+Name: TELUGU LETTER RRA
+Category: Lo
+
+[U+0C32]
+Name: TELUGU LETTER LA
+Category: Lo
+
+[U+0C33]
+Name: TELUGU LETTER LLA
+Category: Lo
+
+[U+0C35]
+Name: TELUGU LETTER VA
+Category: Lo
+
+[U+0C36]
+Name: TELUGU LETTER SHA
+Category: Lo
+
+[U+0C37]
+Name: TELUGU LETTER SSA
+Category: Lo
+
+[U+0C38]
+Name: TELUGU LETTER SA
+Category: Lo
+
+[U+0C39]
+Name: TELUGU LETTER HA
+Category: Lo
+
+[U+0C3E]
+Name: TELUGU VOWEL SIGN AA
+Category: Mn
+Combining-Class: 81
+
+[U+0C3F]
+Name: TELUGU VOWEL SIGN I
+Category: Mn
+Combining-Class: 82
+
+[U+0C40]
+Name: TELUGU VOWEL SIGN II
+Category: Mn
+Combining-Class: 83
+
+[U+0C41]
+Name: TELUGU VOWEL SIGN U
+Category: Mc
+
+[U+0C42]
+Name: TELUGU VOWEL SIGN UU
+Category: Mc
+
+[U+0C43]
+Name: TELUGU VOWEL SIGN VOCALIC R
+Category: Mc
+
+[U+0C44]
+Name: TELUGU VOWEL SIGN VOCALIC RR
+Category: Mc
+
+[U+0C46]
+Name: TELUGU VOWEL SIGN E
+Category: Mn
+Combining-Class: 84
+
+[U+0C47]
+Name: TELUGU VOWEL SIGN EE
+Category: Mn
+Combining-Class: 85
+
+[U+0C48]
+Name: TELUGU VOWEL SIGN AI
+Category: Mn
+Combining-Class: 86
+Decomposition: 0C46 0C56
+[U+0C46+0C56]
+Name: TELUGU VOWEL SIGN AI
+Category: Mn
+Combining-Class: 86
+Decomposition: 0C46 0C56
+
+[U+0C4A]
+Name: TELUGU VOWEL SIGN O
+Category: Mn
+Combining-Class: 87
+
+[U+0C4B]
+Name: TELUGU VOWEL SIGN OO
+Category: Mn
+Combining-Class: 88
+
+[U+0C4C]
+Name: TELUGU VOWEL SIGN AU
+Category: Mn
+Combining-Class: 89
+
+[U+0C4D]
+Name: TELUGU SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+0C55]
+Name: TELUGU LENGTH MARK
+Category: Mn
+Combining-Class: 90
+
+[U+0C56]
+Name: TELUGU AI LENGTH MARK
+Category: Mn
+Combining-Class: 91
+
+[U+0C60]
+Name: TELUGU LETTER VOCALIC RR
+Category: Lo
+
+[U+0C61]
+Name: TELUGU LETTER VOCALIC LL
+Category: Lo
+
+[U+0C66]
+Name: TELUGU DIGIT ZERO
+Category: Nd
+
+[U+0C67]
+Name: TELUGU DIGIT ONE
+Category: Nd
+
+[U+0C68]
+Name: TELUGU DIGIT TWO
+Category: Nd
+
+[U+0C69]
+Name: TELUGU DIGIT THREE
+Category: Nd
+
+[U+0C6A]
+Name: TELUGU DIGIT FOUR
+Category: Nd
+
+[U+0C6B]
+Name: TELUGU DIGIT FIVE
+Category: Nd
+
+[U+0C6C]
+Name: TELUGU DIGIT SIX
+Category: Nd
+
+[U+0C6D]
+Name: TELUGU DIGIT SEVEN
+Category: Nd
+
+[U+0C6E]
+Name: TELUGU DIGIT EIGHT
+Category: Nd
+
+[U+0C6F]
+Name: TELUGU DIGIT NINE
+Category: Nd
+
+[U+0C82]
+Name: KANNADA SIGN ANUSVARA
+Category: Mc
+
+[U+0C83]
+Name: KANNADA SIGN VISARGA
+Category: Mc
+
+[U+0C85]
+Name: KANNADA LETTER A
+Category: Lo
+
+[U+0C86]
+Name: KANNADA LETTER AA
+Category: Lo
+
+[U+0C87]
+Name: KANNADA LETTER I
+Category: Lo
+
+[U+0C88]
+Name: KANNADA LETTER II
+Category: Lo
+
+[U+0C89]
+Name: KANNADA LETTER U
+Category: Lo
+
+[U+0C8A]
+Name: KANNADA LETTER UU
+Category: Lo
+
+[U+0C8B]
+Name: KANNADA LETTER VOCALIC R
+Category: Lo
+
+[U+0C8C]
+Name: KANNADA LETTER VOCALIC L
+Category: Lo
+
+[U+0C8E]
+Name: KANNADA LETTER E
+Category: Lo
+
+[U+0C8F]
+Name: KANNADA LETTER EE
+Category: Lo
+
+[U+0C90]
+Name: KANNADA LETTER AI
+Category: Lo
+
+[U+0C92]
+Name: KANNADA LETTER O
+Category: Lo
+
+[U+0C93]
+Name: KANNADA LETTER OO
+Category: Lo
+
+[U+0C94]
+Name: KANNADA LETTER AU
+Category: Lo
+
+[U+0C95]
+Name: KANNADA LETTER KA
+Category: Lo
+
+[U+0C96]
+Name: KANNADA LETTER KHA
+Category: Lo
+
+[U+0C97]
+Name: KANNADA LETTER GA
+Category: Lo
+
+[U+0C98]
+Name: KANNADA LETTER GHA
+Category: Lo
+
+[U+0C99]
+Name: KANNADA LETTER NGA
+Category: Lo
+
+[U+0C9A]
+Name: KANNADA LETTER CA
+Category: Lo
+
+[U+0C9B]
+Name: KANNADA LETTER CHA
+Category: Lo
+
+[U+0C9C]
+Name: KANNADA LETTER JA
+Category: Lo
+
+[U+0C9D]
+Name: KANNADA LETTER JHA
+Category: Lo
+
+[U+0C9E]
+Name: KANNADA LETTER NYA
+Category: Lo
+
+[U+0C9F]
+Name: KANNADA LETTER TTA
+Category: Lo
+
+[U+0CA0]
+Name: KANNADA LETTER TTHA
+Category: Lo
+
+[U+0CA1]
+Name: KANNADA LETTER DDA
+Category: Lo
+
+[U+0CA2]
+Name: KANNADA LETTER DDHA
+Category: Lo
+
+[U+0CA3]
+Name: KANNADA LETTER NNA
+Category: Lo
+
+[U+0CA4]
+Name: KANNADA LETTER TA
+Category: Lo
+
+[U+0CA5]
+Name: KANNADA LETTER THA
+Category: Lo
+
+[U+0CA6]
+Name: KANNADA LETTER DA
+Category: Lo
+
+[U+0CA7]
+Name: KANNADA LETTER DHA
+Category: Lo
+
+[U+0CA8]
+Name: KANNADA LETTER NA
+Category: Lo
+
+[U+0CAA]
+Name: KANNADA LETTER PA
+Category: Lo
+
+[U+0CAB]
+Name: KANNADA LETTER PHA
+Category: Lo
+
+[U+0CAC]
+Name: KANNADA LETTER BA
+Category: Lo
+
+[U+0CAD]
+Name: KANNADA LETTER BHA
+Category: Lo
+
+[U+0CAE]
+Name: KANNADA LETTER MA
+Category: Lo
+
+[U+0CAF]
+Name: KANNADA LETTER YA
+Category: Lo
+
+[U+0CB0]
+Name: KANNADA LETTER RA
+Category: Lo
+
+[U+0CB1]
+Name: KANNADA LETTER RRA
+Category: Lo
+
+[U+0CB2]
+Name: KANNADA LETTER LA
+Category: Lo
+
+[U+0CB3]
+Name: KANNADA LETTER LLA
+Category: Lo
+
+[U+0CB5]
+Name: KANNADA LETTER VA
+Category: Lo
+
+[U+0CB6]
+Name: KANNADA LETTER SHA
+Category: Lo
+
+[U+0CB7]
+Name: KANNADA LETTER SSA
+Category: Lo
+
+[U+0CB8]
+Name: KANNADA LETTER SA
+Category: Lo
+
+[U+0CB9]
+Name: KANNADA LETTER HA
+Category: Lo
+
+[U+0CBE]
+Name: KANNADA VOWEL SIGN AA
+Category: Mc
+
+[U+0CBF]
+Name: KANNADA VOWEL SIGN I
+Category: Mn
+Combining-Class: 92
+
+[U+0CC0]
+Name: KANNADA VOWEL SIGN II
+Category: Mc
+Decomposition: 0CBF 0CD5
+[U+0CBF+0CD5]
+Name: KANNADA VOWEL SIGN II
+Category: Mc
+Decomposition: 0CBF 0CD5
+
+[U+0CC1]
+Name: KANNADA VOWEL SIGN U
+Category: Mc
+
+[U+0CC2]
+Name: KANNADA VOWEL SIGN UU
+Category: Mc
+
+[U+0CC3]
+Name: KANNADA VOWEL SIGN VOCALIC R
+Category: Mc
+
+[U+0CC4]
+Name: KANNADA VOWEL SIGN VOCALIC RR
+Category: Mc
+
+[U+0CC6]
+Name: KANNADA VOWEL SIGN E
+Category: Mn
+Combining-Class: 93
+
+[U+0CC7]
+Name: KANNADA VOWEL SIGN EE
+Category: Mc
+Decomposition: 0CC6 0CD5
+[U+0CC6+0CD5]
+Name: KANNADA VOWEL SIGN EE
+Category: Mc
+Decomposition: 0CC6 0CD5
+
+[U+0CC8]
+Name: KANNADA VOWEL SIGN AI
+Category: Mc
+Decomposition: 0CC6 0CD6
+[U+0CC6+0CD6]
+Name: KANNADA VOWEL SIGN AI
+Category: Mc
+Decomposition: 0CC6 0CD6
+
+[U+0CCA]
+Name: KANNADA VOWEL SIGN O
+Category: Mc
+Decomposition: 0CC6 0CC2
+[U+0CC6+0CC2]
+Name: KANNADA VOWEL SIGN O
+Category: Mc
+Decomposition: 0CC6 0CC2
+
+[U+0CCB]
+Name: KANNADA VOWEL SIGN OO
+Category: Mc
+Decomposition: 0CC6 0CC2 0CD5
+[U+0CC6+0CC2+0CD5]
+Name: KANNADA VOWEL SIGN OO
+Category: Mc
+Decomposition: 0CC6 0CC2 0CD5
+
+[U+0CCC]
+Name: KANNADA VOWEL SIGN AU
+Category: Mn
+Combining-Class: 94
+
+[U+0CCD]
+Name: KANNADA SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+0CD5]
+Name: KANNADA LENGTH MARK
+Category: Mc
+
+[U+0CD6]
+Name: KANNADA AI LENGTH MARK
+Category: Mc
+
+[U+0CDE]
+Name: KANNADA LETTER FA
+Category: Lo
+
+[U+0CE0]
+Name: KANNADA LETTER VOCALIC RR
+Category: Lo
+
+[U+0CE1]
+Name: KANNADA LETTER VOCALIC LL
+Category: Lo
+
+[U+0CE6]
+Name: KANNADA DIGIT ZERO
+Category: Nd
+
+[U+0CE7]
+Name: KANNADA DIGIT ONE
+Category: Nd
+
+[U+0CE8]
+Name: KANNADA DIGIT TWO
+Category: Nd
+
+[U+0CE9]
+Name: KANNADA DIGIT THREE
+Category: Nd
+
+[U+0CEA]
+Name: KANNADA DIGIT FOUR
+Category: Nd
+
+[U+0CEB]
+Name: KANNADA DIGIT FIVE
+Category: Nd
+
+[U+0CEC]
+Name: KANNADA DIGIT SIX
+Category: Nd
+
+[U+0CED]
+Name: KANNADA DIGIT SEVEN
+Category: Nd
+
+[U+0CEE]
+Name: KANNADA DIGIT EIGHT
+Category: Nd
+
+[U+0CEF]
+Name: KANNADA DIGIT NINE
+Category: Nd
+
+[U+0D02]
+Name: MALAYALAM SIGN ANUSVARA
+Category: Mc
+
+[U+0D03]
+Name: MALAYALAM SIGN VISARGA
+Category: Mc
+
+[U+0D05]
+Name: MALAYALAM LETTER A
+Category: Lo
+
+[U+0D06]
+Name: MALAYALAM LETTER AA
+Category: Lo
+
+[U+0D07]
+Name: MALAYALAM LETTER I
+Category: Lo
+
+[U+0D08]
+Name: MALAYALAM LETTER II
+Category: Lo
+
+[U+0D09]
+Name: MALAYALAM LETTER U
+Category: Lo
+
+[U+0D0A]
+Name: MALAYALAM LETTER UU
+Category: Lo
+
+[U+0D0B]
+Name: MALAYALAM LETTER VOCALIC R
+Category: Lo
+
+[U+0D0C]
+Name: MALAYALAM LETTER VOCALIC L
+Category: Lo
+
+[U+0D0E]
+Name: MALAYALAM LETTER E
+Category: Lo
+
+[U+0D0F]
+Name: MALAYALAM LETTER EE
+Category: Lo
+
+[U+0D10]
+Name: MALAYALAM LETTER AI
+Category: Lo
+
+[U+0D12]
+Name: MALAYALAM LETTER O
+Category: Lo
+
+[U+0D13]
+Name: MALAYALAM LETTER OO
+Category: Lo
+
+[U+0D14]
+Name: MALAYALAM LETTER AU
+Category: Lo
+
+[U+0D15]
+Name: MALAYALAM LETTER KA
+Category: Lo
+
+[U+0D16]
+Name: MALAYALAM LETTER KHA
+Category: Lo
+
+[U+0D17]
+Name: MALAYALAM LETTER GA
+Category: Lo
+
+[U+0D18]
+Name: MALAYALAM LETTER GHA
+Category: Lo
+
+[U+0D19]
+Name: MALAYALAM LETTER NGA
+Category: Lo
+
+[U+0D1A]
+Name: MALAYALAM LETTER CA
+Category: Lo
+
+[U+0D1B]
+Name: MALAYALAM LETTER CHA
+Category: Lo
+
+[U+0D1C]
+Name: MALAYALAM LETTER JA
+Category: Lo
+
+[U+0D1D]
+Name: MALAYALAM LETTER JHA
+Category: Lo
+
+[U+0D1E]
+Name: MALAYALAM LETTER NYA
+Category: Lo
+
+[U+0D1F]
+Name: MALAYALAM LETTER TTA
+Category: Lo
+
+[U+0D20]
+Name: MALAYALAM LETTER TTHA
+Category: Lo
+
+[U+0D21]
+Name: MALAYALAM LETTER DDA
+Category: Lo
+
+[U+0D22]
+Name: MALAYALAM LETTER DDHA
+Category: Lo
+
+[U+0D23]
+Name: MALAYALAM LETTER NNA
+Category: Lo
+
+[U+0D24]
+Name: MALAYALAM LETTER TA
+Category: Lo
+
+[U+0D25]
+Name: MALAYALAM LETTER THA
+Category: Lo
+
+[U+0D26]
+Name: MALAYALAM LETTER DA
+Category: Lo
+
+[U+0D27]
+Name: MALAYALAM LETTER DHA
+Category: Lo
+
+[U+0D28]
+Name: MALAYALAM LETTER NA
+Category: Lo
+
+[U+0D2A]
+Name: MALAYALAM LETTER PA
+Category: Lo
+
+[U+0D2B]
+Name: MALAYALAM LETTER PHA
+Category: Lo
+
+[U+0D2C]
+Name: MALAYALAM LETTER BA
+Category: Lo
+
+[U+0D2D]
+Name: MALAYALAM LETTER BHA
+Category: Lo
+
+[U+0D2E]
+Name: MALAYALAM LETTER MA
+Category: Lo
+
+[U+0D2F]
+Name: MALAYALAM LETTER YA
+Category: Lo
+
+[U+0D30]
+Name: MALAYALAM LETTER RA
+Category: Lo
+
+[U+0D31]
+Name: MALAYALAM LETTER RRA
+Category: Lo
+
+[U+0D32]
+Name: MALAYALAM LETTER LA
+Category: Lo
+
+[U+0D33]
+Name: MALAYALAM LETTER LLA
+Category: Lo
+
+[U+0D34]
+Name: MALAYALAM LETTER LLLA
+Category: Lo
+
+[U+0D35]
+Name: MALAYALAM LETTER VA
+Category: Lo
+
+[U+0D36]
+Name: MALAYALAM LETTER SHA
+Category: Lo
+
+[U+0D37]
+Name: MALAYALAM LETTER SSA
+Category: Lo
+
+[U+0D38]
+Name: MALAYALAM LETTER SA
+Category: Lo
+
+[U+0D39]
+Name: MALAYALAM LETTER HA
+Category: Lo
+
+[U+0D3E]
+Name: MALAYALAM VOWEL SIGN AA
+Category: Mc
+
+[U+0D3F]
+Name: MALAYALAM VOWEL SIGN I
+Category: Mc
+
+[U+0D40]
+Name: MALAYALAM VOWEL SIGN II
+Category: Mc
+
+[U+0D41]
+Name: MALAYALAM VOWEL SIGN U
+Category: Mn
+Combining-Class: 95
+
+[U+0D42]
+Name: MALAYALAM VOWEL SIGN UU
+Category: Mn
+Combining-Class: 96
+
+[U+0D43]
+Name: MALAYALAM VOWEL SIGN VOCALIC R
+Category: Mn
+Combining-Class: 97
+
+[U+0D46]
+Name: MALAYALAM VOWEL SIGN E
+Category: Mc
+
+[U+0D47]
+Name: MALAYALAM VOWEL SIGN EE
+Category: Mc
+
+[U+0D48]
+Name: MALAYALAM VOWEL SIGN AI
+Category: Mc
+
+[U+0D4A]
+Name: MALAYALAM VOWEL SIGN O
+Category: Mc
+Decomposition: 0D46 0D3E
+[U+0D46+0D3E]
+Name: MALAYALAM VOWEL SIGN O
+Category: Mc
+Decomposition: 0D46 0D3E
+
+[U+0D4B]
+Name: MALAYALAM VOWEL SIGN OO
+Category: Mc
+Decomposition: 0D47 0D3E
+[U+0D47+0D3E]
+Name: MALAYALAM VOWEL SIGN OO
+Category: Mc
+Decomposition: 0D47 0D3E
+
+[U+0D4C]
+Name: MALAYALAM VOWEL SIGN AU
+Category: Mc
+Decomposition: 0D46 0D57
+[U+0D46+0D57]
+Name: MALAYALAM VOWEL SIGN AU
+Category: Mc
+Decomposition: 0D46 0D57
+
+[U+0D4D]
+Name: MALAYALAM SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+0D57]
+Name: MALAYALAM AU LENGTH MARK
+Category: Mc
+
+[U+0D60]
+Name: MALAYALAM LETTER VOCALIC RR
+Category: Lo
+
+[U+0D61]
+Name: MALAYALAM LETTER VOCALIC LL
+Category: Lo
+
+[U+0D66]
+Name: MALAYALAM DIGIT ZERO
+Category: Nd
+
+[U+0D67]
+Name: MALAYALAM DIGIT ONE
+Category: Nd
+
+[U+0D68]
+Name: MALAYALAM DIGIT TWO
+Category: Nd
+
+[U+0D69]
+Name: MALAYALAM DIGIT THREE
+Category: Nd
+
+[U+0D6A]
+Name: MALAYALAM DIGIT FOUR
+Category: Nd
+
+[U+0D6B]
+Name: MALAYALAM DIGIT FIVE
+Category: Nd
+
+[U+0D6C]
+Name: MALAYALAM DIGIT SIX
+Category: Nd
+
+[U+0D6D]
+Name: MALAYALAM DIGIT SEVEN
+Category: Nd
+
+[U+0D6E]
+Name: MALAYALAM DIGIT EIGHT
+Category: Nd
+
+[U+0D6F]
+Name: MALAYALAM DIGIT NINE
+Category: Nd
+
+[U+0E01]
+Name: THAI CHARACTER KO KAI
+Category: Lo
+
+[U+0E02]
+Name: THAI CHARACTER KHO KHAI
+Category: Lo
+
+[U+0E03]
+Name: THAI CHARACTER KHO KHUAT
+Category: Lo
+
+[U+0E04]
+Name: THAI CHARACTER KHO KHWAI
+Category: Lo
+
+[U+0E05]
+Name: THAI CHARACTER KHO KHON
+Category: Lo
+
+[U+0E06]
+Name: THAI CHARACTER KHO RAKHANG
+Category: Lo
+
+[U+0E07]
+Name: THAI CHARACTER NGO NGU
+Category: Lo
+
+[U+0E08]
+Name: THAI CHARACTER CHO CHAN
+Category: Lo
+
+[U+0E09]
+Name: THAI CHARACTER CHO CHING
+Category: Lo
+
+[U+0E0A]
+Name: THAI CHARACTER CHO CHANG
+Category: Lo
+
+[U+0E0B]
+Name: THAI CHARACTER SO SO
+Category: Lo
+
+[U+0E0C]
+Name: THAI CHARACTER CHO CHOE
+Category: Lo
+
+[U+0E0D]
+Name: THAI CHARACTER YO YING
+Category: Lo
+
+[U+0E0E]
+Name: THAI CHARACTER DO CHADA
+Category: Lo
+
+[U+0E0F]
+Name: THAI CHARACTER TO PATAK
+Category: Lo
+
+[U+0E10]
+Name: THAI CHARACTER THO THAN
+Category: Lo
+
+[U+0E11]
+Name: THAI CHARACTER THO NANGMONTHO
+Category: Lo
+
+[U+0E12]
+Name: THAI CHARACTER THO PHUTHAO
+Category: Lo
+
+[U+0E13]
+Name: THAI CHARACTER NO NEN
+Category: Lo
+
+[U+0E14]
+Name: THAI CHARACTER DO DEK
+Category: Lo
+
+[U+0E15]
+Name: THAI CHARACTER TO TAO
+Category: Lo
+
+[U+0E16]
+Name: THAI CHARACTER THO THUNG
+Category: Lo
+
+[U+0E17]
+Name: THAI CHARACTER THO THAHAN
+Category: Lo
+
+[U+0E18]
+Name: THAI CHARACTER THO THONG
+Category: Lo
+
+[U+0E19]
+Name: THAI CHARACTER NO NU
+Category: Lo
+
+[U+0E1A]
+Name: THAI CHARACTER BO BAIMAI
+Category: Lo
+
+[U+0E1B]
+Name: THAI CHARACTER PO PLA
+Category: Lo
+
+[U+0E1C]
+Name: THAI CHARACTER PHO PHUNG
+Category: Lo
+
+[U+0E1D]
+Name: THAI CHARACTER FO FA
+Category: Lo
+
+[U+0E1E]
+Name: THAI CHARACTER PHO PHAN
+Category: Lo
+
+[U+0E1F]
+Name: THAI CHARACTER FO FAN
+Category: Lo
+
+[U+0E20]
+Name: THAI CHARACTER PHO SAMPHAO
+Category: Lo
+
+[U+0E21]
+Name: THAI CHARACTER MO MA
+Category: Lo
+
+[U+0E22]
+Name: THAI CHARACTER YO YAK
+Category: Lo
+
+[U+0E23]
+Name: THAI CHARACTER RO RUA
+Category: Lo
+
+[U+0E24]
+Name: THAI CHARACTER RU
+Category: Lo
+
+[U+0E25]
+Name: THAI CHARACTER LO LING
+Category: Lo
+
+[U+0E26]
+Name: THAI CHARACTER LU
+Category: Lo
+
+[U+0E27]
+Name: THAI CHARACTER WO WAEN
+Category: Lo
+
+[U+0E28]
+Name: THAI CHARACTER SO SALA
+Category: Lo
+
+[U+0E29]
+Name: THAI CHARACTER SO RUSI
+Category: Lo
+
+[U+0E2A]
+Name: THAI CHARACTER SO SUA
+Category: Lo
+
+[U+0E2B]
+Name: THAI CHARACTER HO HIP
+Category: Lo
+
+[U+0E2C]
+Name: THAI CHARACTER LO CHULA
+Category: Lo
+
+[U+0E2D]
+Name: THAI CHARACTER O ANG
+Category: Lo
+
+[U+0E2E]
+Name: THAI CHARACTER HO NOKHUK
+Category: Lo
+
+[U+0E2F]
+Name: THAI CHARACTER PAIYANNOI
+Category: Po
+
+[U+0E30]
+Name: THAI CHARACTER SARA A
+Category: Lo
+
+[U+0E31]
+Name: THAI CHARACTER MAI HAN-AKAT
+Category: Mn
+Combining-Class: 98
+
+[U+0E32]
+Name: THAI CHARACTER SARA AA
+Category: Lo
+
+[U+0E33]
+Name: THAI CHARACTER SARA AM
+Category: Lo
+Decomposition: 0E4D 0E32
+[U+0E4D+0E32]
+Name: THAI CHARACTER SARA AM
+Category: Lo
+Decomposition: 0E4D 0E32
+
+[U+0E34]
+Name: THAI CHARACTER SARA I
+Category: Mn
+Combining-Class: 99
+
+[U+0E35]
+Name: THAI CHARACTER SARA II
+Category: Mn
+Combining-Class: 100
+
+[U+0E36]
+Name: THAI CHARACTER SARA UE
+Category: Mn
+Combining-Class: 101
+
+[U+0E37]
+Name: THAI CHARACTER SARA UEE
+Category: Mn
+Combining-Class: 102
+
+[U+0E38]
+Name: THAI CHARACTER SARA U
+Category: Mn
+Combining-Class: 103
+
+[U+0E39]
+Name: THAI CHARACTER SARA UU
+Category: Mn
+Combining-Class: 104
+
+[U+0E3A]
+Name: THAI CHARACTER PHINTHU
+Category: Mn
+Combining-Class: 105
+
+[U+0E3F]
+Name: THAI CURRENCY SYMBOL BAHT
+Category: Sc
+
+[U+0E40]
+Name: THAI CHARACTER SARA E
+Category: Lo
+
+[U+0E41]
+Name: THAI CHARACTER SARA AE
+Category: Lo
+
+[U+0E42]
+Name: THAI CHARACTER SARA O
+Category: Lo
+
+[U+0E43]
+Name: THAI CHARACTER SARA AI MAIMUAN
+Category: Lo
+
+[U+0E44]
+Name: THAI CHARACTER SARA AI MAIMALAI
+Category: Lo
+
+[U+0E45]
+Name: THAI CHARACTER LAKKHANGYAO
+Category: Lo
+
+[U+0E46]
+Name: THAI CHARACTER MAIYAMOK
+Category: Lm
+
+[U+0E47]
+Name: THAI CHARACTER MAITAIKHU
+Category: Mn
+Combining-Class: 106
+
+[U+0E48]
+Name: THAI CHARACTER MAI EK
+Category: Mn
+Combining-Class: 107
+
+[U+0E49]
+Name: THAI CHARACTER MAI THO
+Category: Mn
+Combining-Class: 108
+
+[U+0E4A]
+Name: THAI CHARACTER MAI TRI
+Category: Mn
+Combining-Class: 109
+
+[U+0E4B]
+Name: THAI CHARACTER MAI CHATTAWA
+Category: Mn
+Combining-Class: 110
+
+[U+0E4C]
+Name: THAI CHARACTER THANTHAKHAT
+Category: Mn
+Combining-Class: 111
+
+[U+0E4D]
+Name: THAI CHARACTER NIKHAHIT
+Category: Mn
+Combining-Class: 112
+
+[U+0E4E]
+Name: THAI CHARACTER YAMAKKAN
+Category: Mn
+Combining-Class: 128
+
+[U+0E4F]
+Name: THAI CHARACTER FONGMAN
+Category: So
+
+[U+0E50]
+Name: THAI DIGIT ZERO
+Category: Nd
+
+[U+0E51]
+Name: THAI DIGIT ONE
+Category: Nd
+
+[U+0E52]
+Name: THAI DIGIT TWO
+Category: Nd
+
+[U+0E53]
+Name: THAI DIGIT THREE
+Category: Nd
+
+[U+0E54]
+Name: THAI DIGIT FOUR
+Category: Nd
+
+[U+0E55]
+Name: THAI DIGIT FIVE
+Category: Nd
+
+[U+0E56]
+Name: THAI DIGIT SIX
+Category: Nd
+
+[U+0E57]
+Name: THAI DIGIT SEVEN
+Category: Nd
+
+[U+0E58]
+Name: THAI DIGIT EIGHT
+Category: Nd
+
+[U+0E59]
+Name: THAI DIGIT NINE
+Category: Nd
+
+[U+0E5A]
+Name: THAI CHARACTER ANGKHANKHU
+Category: Po
+
+[U+0E5B]
+Name: THAI CHARACTER KHOMUT
+Category: Po
+
+[U+0E81]
+Name: LAO LETTER KO
+Category: Lo
+
+[U+0E82]
+Name: LAO LETTER KHO SUNG
+Category: Lo
+
+[U+0E84]
+Name: LAO LETTER KHO TAM
+Category: Lo
+
+[U+0E87]
+Name: LAO LETTER NGO
+Category: Lo
+
+[U+0E88]
+Name: LAO LETTER CO
+Category: Lo
+
+[U+0E8A]
+Name: LAO LETTER SO TAM
+Category: Lo
+
+[U+0E8D]
+Name: LAO LETTER NYO
+Category: Lo
+
+[U+0E94]
+Name: LAO LETTER DO
+Category: Lo
+
+[U+0E95]
+Name: LAO LETTER TO
+Category: Lo
+
+[U+0E96]
+Name: LAO LETTER THO SUNG
+Category: Lo
+
+[U+0E97]
+Name: LAO LETTER THO TAM
+Category: Lo
+
+[U+0E99]
+Name: LAO LETTER NO
+Category: Lo
+
+[U+0E9A]
+Name: LAO LETTER BO
+Category: Lo
+
+[U+0E9B]
+Name: LAO LETTER PO
+Category: Lo
+
+[U+0E9C]
+Name: LAO LETTER PHO SUNG
+Category: Lo
+
+[U+0E9D]
+Name: LAO LETTER FO TAM
+Category: Lo
+
+[U+0E9E]
+Name: LAO LETTER PHO TAM
+Category: Lo
+
+[U+0E9F]
+Name: LAO LETTER FO SUNG
+Category: Lo
+
+[U+0EA1]
+Name: LAO LETTER MO
+Category: Lo
+
+[U+0EA2]
+Name: LAO LETTER YO
+Category: Lo
+
+[U+0EA3]
+Name: LAO LETTER LO LING
+Category: Lo
+
+[U+0EA5]
+Name: LAO LETTER LO LOOT
+Category: Lo
+
+[U+0EA7]
+Name: LAO LETTER WO
+Category: Lo
+
+[U+0EAA]
+Name: LAO LETTER SO SUNG
+Category: Lo
+
+[U+0EAB]
+Name: LAO LETTER HO SUNG
+Category: Lo
+
+[U+0EAD]
+Name: LAO LETTER O
+Category: Lo
+
+[U+0EAE]
+Name: LAO LETTER HO TAM
+Category: Lo
+
+[U+0EAF]
+Name: LAO ELLIPSIS
+Category: Po
+
+[U+0EB0]
+Name: LAO VOWEL SIGN A
+Category: Lo
+
+[U+0EB1]
+Name: LAO VOWEL SIGN MAI KAN
+Category: Mn
+Combining-Class: 113
+
+[U+0EB2]
+Name: LAO VOWEL SIGN AA
+Category: Lo
+
+[U+0EB3]
+Name: LAO VOWEL SIGN AM
+Category: Lo
+Decomposition: 0ECD 0EB2
+[U+0ECD+0EB2]
+Name: LAO VOWEL SIGN AM
+Category: Lo
+Decomposition: 0ECD 0EB2
+
+[U+0EB4]
+Name: LAO VOWEL SIGN I
+Category: Mn
+Combining-Class: 114
+
+[U+0EB5]
+Name: LAO VOWEL SIGN II
+Category: Mn
+Combining-Class: 115
+
+[U+0EB6]
+Name: LAO VOWEL SIGN Y
+Category: Mn
+Combining-Class: 116
+
+[U+0EB7]
+Name: LAO VOWEL SIGN YY
+Category: Mn
+Combining-Class: 117
+
+[U+0EB8]
+Name: LAO VOWEL SIGN U
+Category: Mn
+Combining-Class: 118
+
+[U+0EB9]
+Name: LAO VOWEL SIGN UU
+Category: Mn
+Combining-Class: 119
+
+[U+0EBB]
+Name: LAO VOWEL SIGN MAI KON
+Category: Mn
+Combining-Class: 120
+
+[U+0EBC]
+Name: LAO SEMIVOWEL SIGN LO
+Category: Mn
+Combining-Class: 121
+
+[U+0EBD]
+Name: LAO SEMIVOWEL SIGN NYO
+Category: Lo
+
+[U+0EC0]
+Name: LAO VOWEL SIGN E
+Category: Lo
+
+[U+0EC1]
+Name: LAO VOWEL SIGN EI
+Category: Lo
+
+[U+0EC2]
+Name: LAO VOWEL SIGN O
+Category: Lo
+
+[U+0EC3]
+Name: LAO VOWEL SIGN AY
+Category: Lo
+
+[U+0EC4]
+Name: LAO VOWEL SIGN AI
+Category: Lo
+
+[U+0EC6]
+Name: LAO KO LA
+Category: Lm
+
+[U+0EC8]
+Name: LAO TONE MAI EK
+Category: Mn
+Combining-Class: 122
+
+[U+0EC9]
+Name: LAO TONE MAI THO
+Category: Mn
+Combining-Class: 123
+
+[U+0ECA]
+Name: LAO TONE MAI TI
+Category: Mn
+Combining-Class: 124
+
+[U+0ECB]
+Name: LAO TONE MAI CATAWA
+Category: Mn
+Combining-Class: 125
+
+[U+0ECC]
+Name: LAO CANCELLATION MARK
+Category: Mn
+Combining-Class: 126
+
+[U+0ECD]
+Name: LAO NIGGAHITA
+Category: Mn
+Combining-Class: 127
+
+[U+0ED0]
+Name: LAO DIGIT ZERO
+Category: Nd
+
+[U+0ED1]
+Name: LAO DIGIT ONE
+Category: Nd
+
+[U+0ED2]
+Name: LAO DIGIT TWO
+Category: Nd
+
+[U+0ED3]
+Name: LAO DIGIT THREE
+Category: Nd
+
+[U+0ED4]
+Name: LAO DIGIT FOUR
+Category: Nd
+
+[U+0ED5]
+Name: LAO DIGIT FIVE
+Category: Nd
+
+[U+0ED6]
+Name: LAO DIGIT SIX
+Category: Nd
+
+[U+0ED7]
+Name: LAO DIGIT SEVEN
+Category: Nd
+
+[U+0ED8]
+Name: LAO DIGIT EIGHT
+Category: Nd
+
+[U+0ED9]
+Name: LAO DIGIT NINE
+Category: Nd
+
+[U+0EDC]
+Name: LAO HO NO
+Category: Lo
+Decomposition: <compat> 0EAB 0E99
+
+[U+0EDD]
+Name: LAO HO MO
+Category: Lo
+Decomposition: <compat> 0EAB 0EA1
+
+[U+0F00]
+Name: TIBETAN SYLLABLE OM
+Category: So
+
+[U+0F01]
+Name: TIBETAN MARK GTER YIG MGO TRUNCATED A
+Category: So
+
+[U+0F02]
+Name: TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA
+Category: So
+
+[U+0F03]
+Name: TIBETAN MARK GTER YIG MGO -UM GTER TSHEG MA
+Category: So
+
+[U+0F04]
+Name: TIBETAN MARK INITIAL YIG MGO MDUN MA
+Category: Po
+
+[U+0F05]
+Name: TIBETAN MARK CLOSING YIG MGO SGAB MA
+Category: Po
+
+[U+0F06]
+Name: TIBETAN MARK CARET YIG MGO PHUR SHAD MA
+Category: Po
+
+[U+0F07]
+Name: TIBETAN MARK YIG MGO TSHEG SHAD MA
+Category: Po
+
+[U+0F08]
+Name: TIBETAN MARK SBRUL SHAD
+Category: Po
+
+[U+0F09]
+Name: TIBETAN MARK BSKUR YIG MGO
+Category: Po
+
+[U+0F0A]
+Name: TIBETAN MARK BKA- SHOG YIG MGO
+Category: Po
+
+[U+0F0B]
+Name: TIBETAN MARK INTERSYLLABIC TSHEG
+Category: Po
+
+[U+0F0C]
+Name: TIBETAN MARK DELIMITER TSHEG BSTAR
+Category: Po
+
+[U+0F0D]
+Name: TIBETAN MARK SHAD
+Category: Po
+
+[U+0F0E]
+Name: TIBETAN MARK NYIS SHAD
+Category: Po
+
+[U+0F0F]
+Name: TIBETAN MARK TSHEG SHAD
+Category: Po
+
+[U+0F10]
+Name: TIBETAN MARK NYIS TSHEG SHAD
+Category: Po
+
+[U+0F11]
+Name: TIBETAN MARK RIN CHEN SPUNGS SHAD
+Category: Po
+
+[U+0F12]
+Name: TIBETAN MARK RGYA GRAM SHAD
+Category: Po
+
+[U+0F13]
+Name: TIBETAN MARK CARET -DZUD RTAGS ME LONG CAN
+Category: So
+
+[U+0F14]
+Name: TIBETAN MARK GTER TSHEG
+Category: So
+
+[U+0F15]
+Name: TIBETAN LOGOTYPE SIGN CHAD RTAGS
+Category: So
+
+[U+0F16]
+Name: TIBETAN LOGOTYPE SIGN LHAG RTAGS
+Category: So
+
+[U+0F17]
+Name: TIBETAN ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS
+Category: So
+
+[U+0F18]
+Name: TIBETAN ASTROLOGICAL SIGN -KHYUD PA
+Category: Mn
+Combining-Class: 220
+
+[U+0F19]
+Name: TIBETAN ASTROLOGICAL SIGN SDONG TSHUGS
+Category: Mn
+Combining-Class: 220
+
+[U+0F1A]
+Name: TIBETAN SIGN RDEL DKAR GCIG
+Category: So
+
+[U+0F1B]
+Name: TIBETAN SIGN RDEL DKAR GNYIS
+Category: So
+
+[U+0F1C]
+Name: TIBETAN SIGN RDEL DKAR GSUM
+Category: So
+
+[U+0F1D]
+Name: TIBETAN SIGN RDEL NAG GCIG
+Category: So
+
+[U+0F1E]
+Name: TIBETAN SIGN RDEL NAG GNYIS
+Category: So
+
+[U+0F1F]
+Name: TIBETAN SIGN RDEL DKAR RDEL NAG
+Category: So
+
+[U+0F20]
+Name: TIBETAN DIGIT ZERO
+Category: Nd
+
+[U+0F21]
+Name: TIBETAN DIGIT ONE
+Category: Nd
+
+[U+0F22]
+Name: TIBETAN DIGIT TWO
+Category: Nd
+
+[U+0F23]
+Name: TIBETAN DIGIT THREE
+Category: Nd
+
+[U+0F24]
+Name: TIBETAN DIGIT FOUR
+Category: Nd
+
+[U+0F25]
+Name: TIBETAN DIGIT FIVE
+Category: Nd
+
+[U+0F26]
+Name: TIBETAN DIGIT SIX
+Category: Nd
+
+[U+0F27]
+Name: TIBETAN DIGIT SEVEN
+Category: Nd
+
+[U+0F28]
+Name: TIBETAN DIGIT EIGHT
+Category: Nd
+
+[U+0F29]
+Name: TIBETAN DIGIT NINE
+Category: Nd
+
+[U+0F2A]
+Name: TIBETAN DIGIT HALF ONE
+Category: No
+
+[U+0F2B]
+Name: TIBETAN DIGIT HALF TWO
+Category: No
+
+[U+0F2C]
+Name: TIBETAN DIGIT HALF THREE
+Category: No
+
+[U+0F2D]
+Name: TIBETAN DIGIT HALF FOUR
+Category: No
+
+[U+0F2E]
+Name: TIBETAN DIGIT HALF FIVE
+Category: No
+
+[U+0F2F]
+Name: TIBETAN DIGIT HALF SIX
+Category: No
+
+[U+0F30]
+Name: TIBETAN DIGIT HALF SEVEN
+Category: No
+
+[U+0F31]
+Name: TIBETAN DIGIT HALF EIGHT
+Category: No
+
+[U+0F32]
+Name: TIBETAN DIGIT HALF NINE
+Category: No
+
+[U+0F33]
+Name: TIBETAN DIGIT HALF ZERO
+Category: No
+
+[U+0F34]
+Name: TIBETAN MARK BSDUS RTAGS
+Category: So
+
+[U+0F35]
+Name: TIBETAN MARK NGAS BZUNG NYI ZLA
+Category: Mn
+Combining-Class: 230
+
+[U+0F36]
+Name: TIBETAN MARK CARET -DZUD RTAGS BZHI MIG CAN
+Category: So
+
+[U+0F37]
+Name: TIBETAN MARK NGAS BZUNG SGOR RTAGS
+Category: Mn
+Combining-Class: 230
+
+[U+0F38]
+Name: TIBETAN MARK CHE MGO
+Category: So
+
+[U+0F39]
+Name: TIBETAN MARK TSA -PHRU
+Category: Mn
+Combining-Class: 216
+
+[U+0F3A]
+Name: TIBETAN MARK GUG RTAGS GYON
+Category: Ps
+
+[U+0F3B]
+Name: TIBETAN MARK GUG RTAGS GYAS
+Category: Pe
+
+[U+0F3C]
+Name: TIBETAN MARK ANG KHANG GYON
+Category: Ps
+
+[U+0F3D]
+Name: TIBETAN MARK ANG KHANG GYAS
+Category: Pe
+
+[U+0F3E]
+Name: TIBETAN SIGN YAR TSHES
+Category: Mc
+Combining-Class: 220
+
+[U+0F3F]
+Name: TIBETAN SIGN MAR TSHES
+Category: Mc
+Combining-Class: 220
+
+[U+0F40]
+Name: TIBETAN LETTER KA
+Category: Lo
+
+[U+0F41]
+Name: TIBETAN LETTER KHA
+Category: Lo
+
+[U+0F42]
+Name: TIBETAN LETTER GA
+Category: Lo
+
+[U+0F43]
+Name: TIBETAN LETTER GHA
+Category: Lo
+Decomposition: 0F42 0FB7
+[U+0F42+0FB7]
+Name: TIBETAN LETTER GHA
+Category: Lo
+Decomposition: 0F42 0FB7
+
+[U+0F44]
+Name: TIBETAN LETTER NGA
+Category: Lo
+
+[U+0F45]
+Name: TIBETAN LETTER CA
+Category: Lo
+
+[U+0F46]
+Name: TIBETAN LETTER CHA
+Category: Lo
+
+[U+0F47]
+Name: TIBETAN LETTER JA
+Category: Lo
+
+[U+0F49]
+Name: TIBETAN LETTER NYA
+Category: Lo
+
+[U+0F4A]
+Name: TIBETAN LETTER TTA
+Category: Lo
+
+[U+0F4B]
+Name: TIBETAN LETTER TTHA
+Category: Lo
+
+[U+0F4C]
+Name: TIBETAN LETTER DDA
+Category: Lo
+
+[U+0F4D]
+Name: TIBETAN LETTER DDHA
+Category: Lo
+Decomposition: 0F4C 0FB7
+[U+0F4C+0FB7]
+Name: TIBETAN LETTER DDHA
+Category: Lo
+Decomposition: 0F4C 0FB7
+
+[U+0F4E]
+Name: TIBETAN LETTER NNA
+Category: Lo
+
+[U+0F4F]
+Name: TIBETAN LETTER TA
+Category: Lo
+
+[U+0F50]
+Name: TIBETAN LETTER THA
+Category: Lo
+
+[U+0F51]
+Name: TIBETAN LETTER DA
+Category: Lo
+
+[U+0F52]
+Name: TIBETAN LETTER DHA
+Category: Lo
+Decomposition: 0F51 0FB7
+[U+0F51+0FB7]
+Name: TIBETAN LETTER DHA
+Category: Lo
+Decomposition: 0F51 0FB7
+
+[U+0F53]
+Name: TIBETAN LETTER NA
+Category: Lo
+
+[U+0F54]
+Name: TIBETAN LETTER PA
+Category: Lo
+
+[U+0F55]
+Name: TIBETAN LETTER PHA
+Category: Lo
+
+[U+0F56]
+Name: TIBETAN LETTER BA
+Category: Lo
+
+[U+0F57]
+Name: TIBETAN LETTER BHA
+Category: Lo
+Decomposition: 0F56 0FB7
+[U+0F56+0FB7]
+Name: TIBETAN LETTER BHA
+Category: Lo
+Decomposition: 0F56 0FB7
+
+[U+0F58]
+Name: TIBETAN LETTER MA
+Category: Lo
+
+[U+0F59]
+Name: TIBETAN LETTER TSA
+Category: Lo
+
+[U+0F5A]
+Name: TIBETAN LETTER TSHA
+Category: Lo
+
+[U+0F5B]
+Name: TIBETAN LETTER DZA
+Category: Lo
+
+[U+0F5C]
+Name: TIBETAN LETTER DZHA
+Category: Lo
+Decomposition: 0F5B 0FB7
+[U+0F5B+0FB7]
+Name: TIBETAN LETTER DZHA
+Category: Lo
+Decomposition: 0F5B 0FB7
+
+[U+0F5D]
+Name: TIBETAN LETTER WA
+Category: Lo
+
+[U+0F5E]
+Name: TIBETAN LETTER ZHA
+Category: Lo
+
+[U+0F5F]
+Name: TIBETAN LETTER ZA
+Category: Lo
+
+[U+0F60]
+Name: TIBETAN LETTER -A
+Category: Lo
+
+[U+0F61]
+Name: TIBETAN LETTER YA
+Category: Lo
+
+[U+0F62]
+Name: TIBETAN LETTER RA
+Category: Lo
+
+[U+0F63]
+Name: TIBETAN LETTER LA
+Category: Lo
+
+[U+0F64]
+Name: TIBETAN LETTER SHA
+Category: Lo
+
+[U+0F65]
+Name: TIBETAN LETTER SSA
+Category: Lo
+
+[U+0F66]
+Name: TIBETAN LETTER SA
+Category: Lo
+
+[U+0F67]
+Name: TIBETAN LETTER HA
+Category: Lo
+
+[U+0F68]
+Name: TIBETAN LETTER A
+Category: Lo
+
+[U+0F69]
+Name: TIBETAN LETTER KSSA
+Category: Lo
+Decomposition: 0F40 0FB5
+[U+0F40+0FB5]
+Name: TIBETAN LETTER KSSA
+Category: Lo
+Decomposition: 0F40 0FB5
+
+[U+0F71]
+Name: TIBETAN VOWEL SIGN AA
+Category: Mn
+Combining-Class: 145
+
+[U+0F72]
+Name: TIBETAN VOWEL SIGN I
+Category: Mn
+Combining-Class: 130
+
+[U+0F73]
+Name: TIBETAN VOWEL SIGN II
+Category: Mn
+Combining-Class: 131
+Decomposition: 0F72 0F71
+[U+0F72+0F71]
+Name: TIBETAN VOWEL SIGN II
+Category: Mn
+Combining-Class: 131
+Decomposition: 0F72 0F71
+
+[U+0F74]
+Name: TIBETAN VOWEL SIGN U
+Category: Mn
+Combining-Class: 132
+
+[U+0F75]
+Name: TIBETAN VOWEL SIGN UU
+Category: Mn
+Combining-Class: 133
+Decomposition: 0F74 0F71
+[U+0F74+0F71]
+Name: TIBETAN VOWEL SIGN UU
+Category: Mn
+Combining-Class: 133
+Decomposition: 0F74 0F71
+
+[U+0F76]
+Name: TIBETAN VOWEL SIGN VOCALIC R
+Category: Mn
+Combining-Class: 134
+Decomposition: 0FB2 0F80
+[U+0FB2+0F80]
+Name: TIBETAN VOWEL SIGN VOCALIC R
+Category: Mn
+Combining-Class: 134
+Decomposition: 0FB2 0F80
+
+[U+0F77]
+Name: TIBETAN VOWEL SIGN VOCALIC RR
+Category: Mn
+Combining-Class: 135
+Decomposition: 0F76 0F71
+[U+0F76+0F71]
+Name: TIBETAN VOWEL SIGN VOCALIC RR
+Category: Mn
+Combining-Class: 135
+Decomposition: 0F76 0F71
+[U+0FB2+0F80+0F71]
+Name: TIBETAN VOWEL SIGN VOCALIC RR
+Category: Mn
+Combining-Class: 135
+Decomposition: 0F76 0F71
+
+[U+0F78]
+Name: TIBETAN VOWEL SIGN VOCALIC L
+Category: Mn
+Combining-Class: 136
+Decomposition: 0FB3 0F80
+[U+0FB3+0F80]
+Name: TIBETAN VOWEL SIGN VOCALIC L
+Category: Mn
+Combining-Class: 136
+Decomposition: 0FB3 0F80
+
+[U+0F79]
+Name: TIBETAN VOWEL SIGN VOCALIC LL
+Category: Mn
+Combining-Class: 137
+Decomposition: 0F78 0F71
+[U+0F78+0F71]
+Name: TIBETAN VOWEL SIGN VOCALIC LL
+Category: Mn
+Combining-Class: 137
+Decomposition: 0F78 0F71
+[U+0FB3+0F80+0F71]
+Name: TIBETAN VOWEL SIGN VOCALIC LL
+Category: Mn
+Combining-Class: 137
+Decomposition: 0F78 0F71
+
+[U+0F7A]
+Name: TIBETAN VOWEL SIGN E
+Category: Mn
+Combining-Class: 138
+
+[U+0F7B]
+Name: TIBETAN VOWEL SIGN EE
+Category: Mn
+Combining-Class: 139
+
+[U+0F7C]
+Name: TIBETAN VOWEL SIGN O
+Category: Mn
+Combining-Class: 140
+
+[U+0F7D]
+Name: TIBETAN VOWEL SIGN OO
+Category: Mn
+Combining-Class: 141
+
+[U+0F7E]
+Name: TIBETAN SIGN RJES SU NGA RO
+Category: Mn
+Combining-Class: 142
+
+[U+0F7F]
+Name: TIBETAN SIGN RNAM BCAD
+Category: Mc
+
+[U+0F80]
+Name: TIBETAN VOWEL SIGN REVERSED I
+Category: Mn
+Combining-Class: 143
+
+[U+0F81]
+Name: TIBETAN VOWEL SIGN REVERSED II
+Category: Mn
+Combining-Class: 144
+Decomposition: 0F80 0F71
+[U+0F80+0F71]
+Name: TIBETAN VOWEL SIGN REVERSED II
+Category: Mn
+Combining-Class: 144
+Decomposition: 0F80 0F71
+
+[U+0F82]
+Name: TIBETAN SIGN NYI ZLA NAA DA
+Category: Mn
+Combining-Class: 230
+
+[U+0F83]
+Name: TIBETAN SIGN SNA LDAN
+Category: Mn
+Combining-Class: 230
+
+[U+0F84]
+Name: TIBETAN MARK HALANTA
+Category: Mn
+Combining-Class: 9
+
+[U+0F85]
+Name: TIBETAN MARK PALUTA
+Category: Po
+
+[U+0F86]
+Name: TIBETAN SIGN LCI RTAGS
+Category: Mn
+Combining-Class: 230
+
+[U+0F87]
+Name: TIBETAN SIGN YANG RTAGS
+Category: Mn
+Combining-Class: 230
+
+[U+0F88]
+Name: TIBETAN SIGN LCE TSA CAN
+Category: Mn
+Combining-Class: 230
+
+[U+0F89]
+Name: TIBETAN SIGN MCHU CAN
+Category: Mn
+Combining-Class: 230
+
+[U+0F8A]
+Name: TIBETAN SIGN GRU CAN RGYINGS
+Category: Mn
+Combining-Class: 230
+
+[U+0F8B]
+Name: TIBETAN SIGN GRU MED RGYINGS
+Category: Mn
+Combining-Class: 230
+
+[U+0F90]
+Name: TIBETAN SUBJOINED LETTER KA
+Category: Mn
+Combining-Class: 6
+
+[U+0F91]
+Name: TIBETAN SUBJOINED LETTER KHA
+Category: Mn
+Combining-Class: 6
+
+[U+0F92]
+Name: TIBETAN SUBJOINED LETTER GA
+Category: Mn
+Combining-Class: 6
+
+[U+0F93]
+Name: TIBETAN SUBJOINED LETTER GHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0F92 0FB7
+[U+0F92+0FB7]
+Name: TIBETAN SUBJOINED LETTER GHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0F92 0FB7
+
+[U+0F94]
+Name: TIBETAN SUBJOINED LETTER NGA
+Category: Mn
+Combining-Class: 6
+
+[U+0F95]
+Name: TIBETAN SUBJOINED LETTER CA
+Category: Mn
+Combining-Class: 6
+
+[U+0F97]
+Name: TIBETAN SUBJOINED LETTER JA
+Category: Mn
+Combining-Class: 6
+
+[U+0F99]
+Name: TIBETAN SUBJOINED LETTER NYA
+Category: Mn
+Combining-Class: 6
+
+[U+0F9A]
+Name: TIBETAN SUBJOINED LETTER TTA
+Category: Mn
+Combining-Class: 6
+
+[U+0F9B]
+Name: TIBETAN SUBJOINED LETTER TTHA
+Category: Mn
+Combining-Class: 6
+
+[U+0F9C]
+Name: TIBETAN SUBJOINED LETTER DDA
+Category: Mn
+Combining-Class: 6
+
+[U+0F9D]
+Name: TIBETAN SUBJOINED LETTER DDHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0F9C 0FB7
+[U+0F9C+0FB7]
+Name: TIBETAN SUBJOINED LETTER DDHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0F9C 0FB7
+
+[U+0F9E]
+Name: TIBETAN SUBJOINED LETTER NNA
+Category: Mn
+Combining-Class: 6
+
+[U+0F9F]
+Name: TIBETAN SUBJOINED LETTER TA
+Category: Mn
+Combining-Class: 6
+
+[U+0FA0]
+Name: TIBETAN SUBJOINED LETTER THA
+Category: Mn
+Combining-Class: 6
+
+[U+0FA1]
+Name: TIBETAN SUBJOINED LETTER DA
+Category: Mn
+Combining-Class: 6
+
+[U+0FA2]
+Name: TIBETAN SUBJOINED LETTER DHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0FA1 0FB7
+[U+0FA1+0FB7]
+Name: TIBETAN SUBJOINED LETTER DHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0FA1 0FB7
+
+[U+0FA3]
+Name: TIBETAN SUBJOINED LETTER NA
+Category: Mn
+Combining-Class: 6
+
+[U+0FA4]
+Name: TIBETAN SUBJOINED LETTER PA
+Category: Mn
+Combining-Class: 6
+
+[U+0FA5]
+Name: TIBETAN SUBJOINED LETTER PHA
+Category: Mn
+Combining-Class: 6
+
+[U+0FA6]
+Name: TIBETAN SUBJOINED LETTER BA
+Category: Mn
+Combining-Class: 6
+
+[U+0FA7]
+Name: TIBETAN SUBJOINED LETTER BHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0FA6 0FB7
+[U+0FA6+0FB7]
+Name: TIBETAN SUBJOINED LETTER BHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0FA6 0FB7
+
+[U+0FA8]
+Name: TIBETAN SUBJOINED LETTER MA
+Category: Mn
+Combining-Class: 6
+
+[U+0FA9]
+Name: TIBETAN SUBJOINED LETTER TSA
+Category: Mn
+Combining-Class: 6
+
+[U+0FAA]
+Name: TIBETAN SUBJOINED LETTER TSHA
+Category: Mn
+Combining-Class: 6
+
+[U+0FAB]
+Name: TIBETAN SUBJOINED LETTER DZA
+Category: Mn
+Combining-Class: 6
+
+[U+0FAC]
+Name: TIBETAN SUBJOINED LETTER DZHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0FAB 0FB7
+[U+0FAB+0FB7]
+Name: TIBETAN SUBJOINED LETTER DZHA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0FAB 0FB7
+
+[U+0FAD]
+Name: TIBETAN SUBJOINED LETTER WA
+Category: Mn
+Combining-Class: 6
+
+[U+0FB1]
+Name: TIBETAN SUBJOINED LETTER YA
+Category: Mn
+Combining-Class: 6
+
+[U+0FB2]
+Name: TIBETAN SUBJOINED LETTER RA
+Category: Mn
+Combining-Class: 6
+
+[U+0FB3]
+Name: TIBETAN SUBJOINED LETTER LA
+Category: Mn
+Combining-Class: 6
+
+[U+0FB4]
+Name: TIBETAN SUBJOINED LETTER SHA
+Category: Mn
+Combining-Class: 6
+
+[U+0FB5]
+Name: TIBETAN SUBJOINED LETTER SSA
+Category: Mn
+Combining-Class: 6
+
+[U+0FB6]
+Name: TIBETAN SUBJOINED LETTER SA
+Category: Mn
+Combining-Class: 6
+
+[U+0FB7]
+Name: TIBETAN SUBJOINED LETTER HA
+Category: Mn
+Combining-Class: 6
+
+[U+0FB9]
+Name: TIBETAN SUBJOINED LETTER KSSA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0F90 0FB5
+[U+0F90+0FB5]
+Name: TIBETAN SUBJOINED LETTER KSSA
+Category: Mn
+Combining-Class: 6
+Decomposition: 0F90 0FB5

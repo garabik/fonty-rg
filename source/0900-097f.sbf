@@ -1,0 +1,488 @@
+[U+0901]
+Name: DEVANAGARI SIGN CANDRABINDU
+Category: Mn
+Combining-Class: 37
+
+[U+0902]
+Name: DEVANAGARI SIGN ANUSVARA
+Category: Mn
+Combining-Class: 36
+
+[U+0903]
+Name: DEVANAGARI SIGN VISARGA
+Category: Mc
+
+[U+0905]
+Name: DEVANAGARI LETTER A
+Category: Lo
+
+[U+0906]
+Name: DEVANAGARI LETTER AA
+Category: Lo
+
+[U+0907]
+Name: DEVANAGARI LETTER I
+Category: Lo
+
+[U+0908]
+Name: DEVANAGARI LETTER II
+Category: Lo
+
+[U+0909]
+Name: DEVANAGARI LETTER U
+Category: Lo
+
+[U+090A]
+Name: DEVANAGARI LETTER UU
+Category: Lo
+
+[U+090B]
+Name: DEVANAGARI LETTER VOCALIC R
+Category: Lo
+
+[U+090C]
+Name: DEVANAGARI LETTER VOCALIC L
+Category: Lo
+
+[U+090D]
+Name: DEVANAGARI LETTER CANDRA E
+Category: Lo
+
+[U+090E]
+Name: DEVANAGARI LETTER SHORT E
+Category: Lo
+
+[U+090F]
+Name: DEVANAGARI LETTER E
+Category: Lo
+
+[U+0910]
+Name: DEVANAGARI LETTER AI
+Category: Lo
+
+[U+0911]
+Name: DEVANAGARI LETTER CANDRA O
+Category: Lo
+
+[U+0912]
+Name: DEVANAGARI LETTER SHORT O
+Category: Lo
+
+[U+0913]
+Name: DEVANAGARI LETTER O
+Category: Lo
+
+[U+0914]
+Name: DEVANAGARI LETTER AU
+Category: Lo
+
+[U+0915]
+Name: DEVANAGARI LETTER KA
+Category: Lo
+
+[U+0916]
+Name: DEVANAGARI LETTER KHA
+Category: Lo
+
+[U+0917]
+Name: DEVANAGARI LETTER GA
+Category: Lo
+
+[U+0918]
+Name: DEVANAGARI LETTER GHA
+Category: Lo
+
+[U+0919]
+Name: DEVANAGARI LETTER NGA
+Category: Lo
+
+[U+091A]
+Name: DEVANAGARI LETTER CA
+Category: Lo
+
+[U+091B]
+Name: DEVANAGARI LETTER CHA
+Category: Lo
+
+[U+091C]
+Name: DEVANAGARI LETTER JA
+Category: Lo
+
+[U+091D]
+Name: DEVANAGARI LETTER JHA
+Category: Lo
+
+[U+091E]
+Name: DEVANAGARI LETTER NYA
+Category: Lo
+
+[U+091F]
+Name: DEVANAGARI LETTER TTA
+Category: Lo
+
+[U+0920]
+Name: DEVANAGARI LETTER TTHA
+Category: Lo
+
+[U+0921]
+Name: DEVANAGARI LETTER DDA
+Category: Lo
+
+[U+0922]
+Name: DEVANAGARI LETTER DDHA
+Category: Lo
+
+[U+0923]
+Name: DEVANAGARI LETTER NNA
+Category: Lo
+
+[U+0924]
+Name: DEVANAGARI LETTER TA
+Category: Lo
+
+[U+0925]
+Name: DEVANAGARI LETTER THA
+Category: Lo
+
+[U+0926]
+Name: DEVANAGARI LETTER DA
+Category: Lo
+
+[U+0927]
+Name: DEVANAGARI LETTER DHA
+Category: Lo
+
+[U+0928]
+Name: DEVANAGARI LETTER NA
+Category: Lo
+
+[U+0929]
+Name: DEVANAGARI LETTER NNNA
+Category: Lo
+Decomposition: 0928 093C
+[U+0928+093C]
+Name: DEVANAGARI LETTER NNNA
+Category: Lo
+Decomposition: 0928 093C
+
+[U+092A]
+Name: DEVANAGARI LETTER PA
+Category: Lo
+
+[U+092B]
+Name: DEVANAGARI LETTER PHA
+Category: Lo
+
+[U+092C]
+Name: DEVANAGARI LETTER BA
+Category: Lo
+
+[U+092D]
+Name: DEVANAGARI LETTER BHA
+Category: Lo
+
+[U+092E]
+Name: DEVANAGARI LETTER MA
+Category: Lo
+
+[U+092F]
+Name: DEVANAGARI LETTER YA
+Category: Lo
+
+[U+0930]
+Name: DEVANAGARI LETTER RA
+Category: Lo
+
+[U+0931]
+Name: DEVANAGARI LETTER RRA
+Category: Lo
+Decomposition: 0930 093C
+[U+0930+093C]
+Name: DEVANAGARI LETTER RRA
+Category: Lo
+Decomposition: 0930 093C
+
+[U+0932]
+Name: DEVANAGARI LETTER LA
+Category: Lo
+
+[U+0933]
+Name: DEVANAGARI LETTER LLA
+Category: Lo
+
+[U+0934]
+Name: DEVANAGARI LETTER LLLA
+Category: Lo
+Decomposition: 0933 093C
+[U+0933+093C]
+Name: DEVANAGARI LETTER LLLA
+Category: Lo
+Decomposition: 0933 093C
+
+[U+0935]
+Name: DEVANAGARI LETTER VA
+Category: Lo
+
+[U+0936]
+Name: DEVANAGARI LETTER SHA
+Category: Lo
+
+[U+0937]
+Name: DEVANAGARI LETTER SSA
+Category: Lo
+
+[U+0938]
+Name: DEVANAGARI LETTER SA
+Category: Lo
+
+[U+0939]
+Name: DEVANAGARI LETTER HA
+Category: Lo
+
+[U+093C]
+Name: DEVANAGARI SIGN NUKTA
+Category: Mn
+Combining-Class: 7
+
+[U+093D]
+Name: DEVANAGARI SIGN AVAGRAHA
+Category: Lo
+
+[U+093E]
+Name: DEVANAGARI VOWEL SIGN AA
+Category: Mc
+
+[U+093F]
+Name: DEVANAGARI VOWEL SIGN I
+Category: Mc
+
+[U+0940]
+Name: DEVANAGARI VOWEL SIGN II
+Category: Mc
+
+[U+0941]
+Name: DEVANAGARI VOWEL SIGN U
+Category: Mn
+Combining-Class: 38
+
+[U+0942]
+Name: DEVANAGARI VOWEL SIGN UU
+Category: Mn
+Combining-Class: 39
+
+[U+0943]
+Name: DEVANAGARI VOWEL SIGN VOCALIC R
+Category: Mn
+Combining-Class: 40
+
+[U+0944]
+Name: DEVANAGARI VOWEL SIGN VOCALIC RR
+Category: Mn
+Combining-Class: 41
+
+[U+0945]
+Name: DEVANAGARI VOWEL SIGN CANDRA E
+Category: Mn
+Combining-Class: 42
+
+[U+0946]
+Name: DEVANAGARI VOWEL SIGN SHORT E
+Category: Mn
+Combining-Class: 43
+
+[U+0947]
+Name: DEVANAGARI VOWEL SIGN E
+Category: Mn
+Combining-Class: 44
+
+[U+0948]
+Name: DEVANAGARI VOWEL SIGN AI
+Category: Mn
+Combining-Class: 45
+
+[U+0949]
+Name: DEVANAGARI VOWEL SIGN CANDRA O
+Category: Mc
+
+[U+094A]
+Name: DEVANAGARI VOWEL SIGN SHORT O
+Category: Mc
+
+[U+094B]
+Name: DEVANAGARI VOWEL SIGN O
+Category: Mc
+
+[U+094C]
+Name: DEVANAGARI VOWEL SIGN AU
+Category: Mc
+
+[U+094D]
+Name: DEVANAGARI SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+0950]
+Name: DEVANAGARI OM
+Category: So
+
+[U+0951]
+Name: DEVANAGARI STRESS SIGN UDATTA
+Category: Mn
+Combining-Class: 46
+
+[U+0952]
+Name: DEVANAGARI STRESS SIGN ANUDATTA
+Category: Mn
+Combining-Class: 47
+
+[U+0953]
+Name: DEVANAGARI GRAVE ACCENT
+Category: Mn
+Combining-Class: 230
+
+[U+0954]
+Name: DEVANAGARI ACUTE ACCENT
+Category: Mn
+Combining-Class: 230
+
+[U+0958]
+Name: DEVANAGARI LETTER QA
+Category: Lo
+Decomposition: 0915 093C
+[U+0915+093C]
+Name: DEVANAGARI LETTER QA
+Category: Lo
+Decomposition: 0915 093C
+
+[U+0959]
+Name: DEVANAGARI LETTER KHHA
+Category: Lo
+Decomposition: 0916 093C
+[U+0916+093C]
+Name: DEVANAGARI LETTER KHHA
+Category: Lo
+Decomposition: 0916 093C
+
+[U+095A]
+Name: DEVANAGARI LETTER GHHA
+Category: Lo
+Decomposition: 0917 093C
+[U+0917+093C]
+Name: DEVANAGARI LETTER GHHA
+Category: Lo
+Decomposition: 0917 093C
+
+[U+095B]
+Name: DEVANAGARI LETTER ZA
+Category: Lo
+Decomposition: 091C 093C
+[U+091C+093C]
+Name: DEVANAGARI LETTER ZA
+Category: Lo
+Decomposition: 091C 093C
+
+[U+095C]
+Name: DEVANAGARI LETTER DDDHA
+Category: Lo
+Decomposition: 0921 093C
+[U+0921+093C]
+Name: DEVANAGARI LETTER DDDHA
+Category: Lo
+Decomposition: 0921 093C
+
+[U+095D]
+Name: DEVANAGARI LETTER RHA
+Category: Lo
+Decomposition: 0922 093C
+[U+0922+093C]
+Name: DEVANAGARI LETTER RHA
+Category: Lo
+Decomposition: 0922 093C
+
+[U+095E]
+Name: DEVANAGARI LETTER FA
+Category: Lo
+Decomposition: 092B 093C
+[U+092B+093C]
+Name: DEVANAGARI LETTER FA
+Category: Lo
+Decomposition: 092B 093C
+
+[U+095F]
+Name: DEVANAGARI LETTER YYA
+Category: Lo
+Decomposition: 092F 093C
+[U+092F+093C]
+Name: DEVANAGARI LETTER YYA
+Category: Lo
+Decomposition: 092F 093C
+
+[U+0960]
+Name: DEVANAGARI LETTER VOCALIC RR
+Category: Lo
+
+[U+0961]
+Name: DEVANAGARI LETTER VOCALIC LL
+Category: Lo
+
+[U+0962]
+Name: DEVANAGARI VOWEL SIGN VOCALIC L
+Category: Mn
+Combining-Class: 48
+
+[U+0963]
+Name: DEVANAGARI VOWEL SIGN VOCALIC LL
+Category: Mn
+Combining-Class: 49
+
+[U+0964]
+Name: DEVANAGARI DANDA
+Category: Po
+
+[U+0965]
+Name: DEVANAGARI DOUBLE DANDA
+Category: Po
+
+[U+0966]
+Name: DEVANAGARI DIGIT ZERO
+Category: Nd
+
+[U+0967]
+Name: DEVANAGARI DIGIT ONE
+Category: Nd
+
+[U+0968]
+Name: DEVANAGARI DIGIT TWO
+Category: Nd
+
+[U+0969]
+Name: DEVANAGARI DIGIT THREE
+Category: Nd
+
+[U+096A]
+Name: DEVANAGARI DIGIT FOUR
+Category: Nd
+
+[U+096B]
+Name: DEVANAGARI DIGIT FIVE
+Category: Nd
+
+[U+096C]
+Name: DEVANAGARI DIGIT SIX
+Category: Nd
+
+[U+096D]
+Name: DEVANAGARI DIGIT SEVEN
+Category: Nd
+
+[U+096E]
+Name: DEVANAGARI DIGIT EIGHT
+Category: Nd
+
+[U+096F]
+Name: DEVANAGARI DIGIT NINE
+Category: Nd
+
+[U+0970]
+Name: DEVANAGARI ABBREVIATION SIGN
+Category: Po

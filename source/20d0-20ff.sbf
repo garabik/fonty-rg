@@ -1,0 +1,86 @@
+[U+20D0]
+Name: COMBINING LEFT HARPOON ABOVE
+Category: Mn
+Combining-Class: 230
+
+[U+20D1]
+Name: COMBINING RIGHT HARPOON ABOVE
+Category: Mn
+Combining-Class: 230
+
+[U+20D2]
+Name: COMBINING LONG VERTICAL LINE OVERLAY
+Category: Mn
+Combining-Class: 1
+
+[U+20D3]
+Name: COMBINING SHORT VERTICAL LINE OVERLAY
+Category: Mn
+Combining-Class: 1
+
+[U+20D4]
+Name: COMBINING ANTICLOCKWISE ARROW ABOVE
+Category: Mn
+Combining-Class: 230
+
+[U+20D5]
+Name: COMBINING CLOCKWISE ARROW ABOVE
+Category: Mn
+Combining-Class: 230
+
+[U+20D6]
+Name: COMBINING LEFT ARROW ABOVE
+Category: Mn
+Combining-Class: 230
+
+[U+20D7]
+Name: COMBINING RIGHT ARROW ABOVE
+Category: Mn
+Combining-Class: 230
+
+[U+20D8]
+Name: COMBINING RING OVERLAY
+Category: Mn
+Combining-Class: 1
+
+[U+20D9]
+Name: COMBINING CLOCKWISE RING OVERLAY
+Category: Mn
+Combining-Class: 1
+
+[U+20DA]
+Name: COMBINING ANTICLOCKWISE RING OVERLAY
+Category: Mn
+Combining-Class: 1
+
+[U+20DB]
+Name: COMBINING THREE DOTS ABOVE
+Category: Mn
+Combining-Class: 230
+
+[U+20DC]
+Name: COMBINING FOUR DOTS ABOVE
+Category: Mn
+Combining-Class: 230
+
+[U+20DD]
+Name: COMBINING ENCLOSING CIRCLE
+Category: Me
+
+[U+20DE]
+Name: COMBINING ENCLOSING SQUARE
+Category: Me
+
+[U+20DF]
+Name: COMBINING ENCLOSING DIAMOND
+Category: Me
+
+[U+20E0]
+Name: COMBINING ENCLOSING CIRCLE BACKSLASH
+Category: Me
+
+[U+20E1]
+Name: COMBINING LEFT RIGHT ARROW ABOVE
+Category: Mn
+Combining-Class: 1
+

@@ -1,0 +1,528 @@
+[U+FB00]
+Name: LATIN SMALL LIGATURE FF
+Category: Ll
+Decomposition: <compat> 0066 0066
+.........
+.........
+..000.00.
+.00.000..
+.00..00..
+.00..00..
+00000000.
+.00..00..
+.00..00..
+.00..00..
+.00..00..
+00000000.
+.........
+.........
+.........
+.........
+
+[U+FB01]
+Name: LATIN SMALL LIGATURE FI
+Category: Ll
+Decomposition: <compat> 0066 0069
+.........
+.........
+..000....
+.00.000..
+.00..00..
+.00......
+0000000..
+.00..00..
+.00..00..
+.00..00..
+.00..00..
+00000000.
+.........
+.........
+.........
+.........
+
+[U+FB02]
+Name: LATIN SMALL LIGATURE FL
+Category: Ll
+Decomposition: <compat> 0066 006C
+.........
+.........
+..00000..
+.00.000..
+.00..00..
+.00..00..
+0000.00..
+.00..00..
+.00..00..
+.00..00..
+.00..00..
+00000000.
+.........
+.........
+.........
+.........
+
+[U+FB03]
+Name: LATIN SMALL LIGATURE FFI
+Category: Ll
+Decomposition: <compat> 0066 0066 0069
+.........
+.........
+.00.000..
+00.00.00.
+00.00.00.
+00.00....
+00000000.
+00.00.00.
+00.00.00.
+00.00.00.
+00.00.00.
+00.00.00.
+.........
+.........
+.........
+.........
+
+[U+FB04]
+Name: LATIN SMALL LIGATURE FFL
+Category: Ll
+Decomposition: <compat> 0066 0066 006C
+.........
+.........
+.........
+.00.0000.
+00.00.00.
+00.00.00.
+00.00.00.
+00000000.
+00.00.00.
+00.00.00.
+00.00.00.
+00.00.00.
+00.00.00.
+.........
+.........
+.........
+
+[U+FB05]
+Name: LATIN SMALL LIGATURE LONG S T
+Category: Ll
+Decomposition: <compat> 017F 0074
+.........
+.........
+.........
+.000.....
+00.0.0...
+00..00...
+00.00000.
+00..00...
+00..00...
+00..00...
+00..00...
+00..00...
+00...000.
+.........
+.........
+.........
+
+[U+FB06]
+Name: LATIN SMALL LIGATURE ST
+Category: Ll
+Decomposition: <compat> 0073 0074
+.........
+.........
+.........
+...000...
+..00.00..
+..0..00..
+.0000000.
+00.0.00..
+00...00..
+.00..00..
+..00.00..
+0.00.00..
+000...00.
+.........
+.........
+.........
+
+[U+FB13]
+Name: ARMENIAN SMALL LIGATURE MEN NOW
+Category: Ll
+Decomposition: <compat> 0574 0576
+
+[U+FB14]
+Name: ARMENIAN SMALL LIGATURE MEN ECH
+Category: Ll
+Decomposition: <compat> 0574 0565
+
+[U+FB15]
+Name: ARMENIAN SMALL LIGATURE MEN INI
+Category: Ll
+Decomposition: <compat> 0574 056B
+
+[U+FB16]
+Name: ARMENIAN SMALL LIGATURE VEW NOW
+Category: Ll
+Decomposition: <compat> 057E 0576
+
+[U+FB17]
+Name: ARMENIAN SMALL LIGATURE MEN XEH
+Category: Ll
+Decomposition: <compat> 0574 056D
+
+[U+FB1E]
+Name: HEBREW POINT JUDEO-SPANISH VARIKA
+Category: Mn
+Combining-Class: 26
+
+[U+FB1F]
+Name: HEBREW LIGATURE YIDDISH YOD YOD PATAH
+Category: Lo
+Decomposition: 05F2 05B7
+[U+05F2+05B7]
+Name: HEBREW LIGATURE YIDDISH YOD YOD PATAH
+Category: Lo
+Decomposition: 05F2 05B7
+
+[U+FB20]
+Name: HEBREW LETTER ALTERNATIVE AYIN
+Category: Lo
+Decomposition: <font> 05E2
+
+[U+FB21]
+Name: HEBREW LETTER WIDE ALEF
+Category: Lo
+Decomposition: <font> 05D0
+
+[U+FB22]
+Name: HEBREW LETTER WIDE DALET
+Category: Lo
+Decomposition: <font> 05D3
+
+[U+FB23]
+Name: HEBREW LETTER WIDE HE
+Category: Lo
+Decomposition: <font> 05D4
+
+[U+FB24]
+Name: HEBREW LETTER WIDE KAF
+Category: Lo
+Decomposition: <font> 05DB
+
+[U+FB25]
+Name: HEBREW LETTER WIDE LAMED
+Category: Lo
+Decomposition: <font> 05DC
+
+[U+FB26]
+Name: HEBREW LETTER WIDE FINAL MEM
+Category: Lo
+Decomposition: <font> 05DD
+
+[U+FB27]
+Name: HEBREW LETTER WIDE RESH
+Category: Lo
+Decomposition: <font> 05E8
+
+[U+FB28]
+Name: HEBREW LETTER WIDE TAV
+Category: Lo
+Decomposition: <font> 05EA
+
+[U+FB29]
+Name: HEBREW LETTER ALTERNATIVE PLUS SIGN
+Category: Sm
+Decomposition: <font> 002B
+
+[U+FB2A]
+Name: HEBREW LETTER SHIN WITH SHIN DOT
+Category: Lo
+Decomposition: 05E9 05C1
+[U+05E9+05C1]
+Name: HEBREW LETTER SHIN WITH SHIN DOT
+Category: Lo
+Decomposition: 05E9 05C1
+
+[U+FB2B]
+Name: HEBREW LETTER SHIN WITH SIN DOT
+Category: Lo
+Decomposition: 05E9 05C2
+[U+05E9+05C2]
+Name: HEBREW LETTER SHIN WITH SIN DOT
+Category: Lo
+Decomposition: 05E9 05C2
+
+[U+FB2C]
+Name: HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT
+Category: Lo
+Decomposition: 05E9 05BC 05C1
+[U+05E9+05BC+05C1]
+Name: HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT
+Category: Lo
+Decomposition: 05E9 05BC 05C1
+
+[U+FB2D]
+Name: HEBREW LETTER SHIN WITH DAGESH AND SIN DOT
+Category: Lo
+Decomposition: 05E9 05BC 05C2
+[U+05E9+05BC+05C2]
+Name: HEBREW LETTER SHIN WITH DAGESH AND SIN DOT
+Category: Lo
+Decomposition: 05E9 05BC 05C2
+
+[U+FB2E]
+Name: HEBREW LETTER ALEF WITH PATAH
+Category: Lo
+Decomposition: 05D0 05B7
+[U+05D0+05B7]
+Name: HEBREW LETTER ALEF WITH PATAH
+Category: Lo
+Decomposition: 05D0 05B7
+
+[U+FB2F]
+Name: HEBREW LETTER ALEF WITH QAMATS
+Category: Lo
+Decomposition: 05D0 05B8
+[U+05D0+05B8]
+Name: HEBREW LETTER ALEF WITH QAMATS
+Category: Lo
+Decomposition: 05D0 05B8
+
+[U+FB30]
+Name: HEBREW LETTER ALEF WITH MAPIQ
+Category: Lo
+Decomposition: 05D0 05BC
+[U+05D0+05BC]
+Name: HEBREW LETTER ALEF WITH MAPIQ
+Category: Lo
+Decomposition: 05D0 05BC
+
+[U+FB31]
+Name: HEBREW LETTER BET WITH DAGESH
+Category: Lo
+Decomposition: 05D1 05BC
+[U+05D1+05BC]
+Name: HEBREW LETTER BET WITH DAGESH
+Category: Lo
+Decomposition: 05D1 05BC
+
+[U+FB32]
+Name: HEBREW LETTER GIMEL WITH DAGESH
+Category: Lo
+Decomposition: 05D2 05BC
+[U+05D2+05BC]
+Name: HEBREW LETTER GIMEL WITH DAGESH
+Category: Lo
+Decomposition: 05D2 05BC
+
+[U+FB33]
+Name: HEBREW LETTER DALET WITH DAGESH
+Category: Lo
+Decomposition: 05D3 05BC
+[U+05D3+05BC]
+Name: HEBREW LETTER DALET WITH DAGESH
+Category: Lo
+Decomposition: 05D3 05BC
+
+[U+FB34]
+Name: HEBREW LETTER HE WITH MAPIQ
+Category: Lo
+Decomposition: 05D4 05BC
+[U+05D4+05BC]
+Name: HEBREW LETTER HE WITH MAPIQ
+Category: Lo
+Decomposition: 05D4 05BC
+
+[U+FB35]
+Name: HEBREW LETTER VAV WITH DAGESH
+Category: Lo
+Decomposition: 05D5 05BC
+[U+05D5+05BC]
+Name: HEBREW LETTER VAV WITH DAGESH
+Category: Lo
+Decomposition: 05D5 05BC
+
+[U+FB36]
+Name: HEBREW LETTER ZAYIN WITH DAGESH
+Category: Lo
+Decomposition: 05D6 05BC
+[U+05D6+05BC]
+Name: HEBREW LETTER ZAYIN WITH DAGESH
+Category: Lo
+Decomposition: 05D6 05BC
+
+[U+FB38]
+Name: HEBREW LETTER TET WITH DAGESH
+Category: Lo
+Decomposition: 05D8 05BC
+[U+05D8+05BC]
+Name: HEBREW LETTER TET WITH DAGESH
+Category: Lo
+Decomposition: 05D8 05BC
+
+[U+FB39]
+Name: HEBREW LETTER YOD WITH DAGESH
+Category: Lo
+Decomposition: 05D9 05BC
+[U+05D9+05BC]
+Name: HEBREW LETTER YOD WITH DAGESH
+Category: Lo
+Decomposition: 05D9 05BC
+
+[U+FB3A]
+Name: HEBREW LETTER FINAL KAF WITH DAGESH
+Category: Lo
+Decomposition: 05DA 05BC
+[U+05DA+05BC]
+Name: HEBREW LETTER FINAL KAF WITH DAGESH
+Category: Lo
+Decomposition: 05DA 05BC
+
+[U+FB3B]
+Name: HEBREW LETTER KAF WITH DAGESH
+Category: Lo
+Decomposition: 05DB 05BC
+[U+05DB+05BC]
+Name: HEBREW LETTER KAF WITH DAGESH
+Category: Lo
+Decomposition: 05DB 05BC
+
+[U+FB3C]
+Name: HEBREW LETTER LAMED WITH DAGESH
+Category: Lo
+Decomposition: 05DC 05BC
+[U+05DC+05BC]
+Name: HEBREW LETTER LAMED WITH DAGESH
+Category: Lo
+Decomposition: 05DC 05BC
+
+[U+FB3E]
+Name: HEBREW LETTER MEM WITH DAGESH
+Category: Lo
+Decomposition: 05DE 05BC
+[U+05DE+05BC]
+Name: HEBREW LETTER MEM WITH DAGESH
+Category: Lo
+Decomposition: 05DE 05BC
+
+[U+FB40]
+Name: HEBREW LETTER NUN WITH DAGESH
+Category: Lo
+Decomposition: 05E0 05BC
+[U+05E0+05BC]
+Name: HEBREW LETTER NUN WITH DAGESH
+Category: Lo
+Decomposition: 05E0 05BC
+
+[U+FB41]
+Name: HEBREW LETTER SAMEKH WITH DAGESH
+Category: Lo
+Decomposition: 05E1 05BC
+[U+05E1+05BC]
+Name: HEBREW LETTER SAMEKH WITH DAGESH
+Category: Lo
+Decomposition: 05E1 05BC
+
+[U+FB43]
+Name: HEBREW LETTER FINAL PE WITH DAGESH
+Category: Lo
+Decomposition: 05E3 05BC
+[U+05E3+05BC]
+Name: HEBREW LETTER FINAL PE WITH DAGESH
+Category: Lo
+Decomposition: 05E3 05BC
+
+[U+FB44]
+Name: HEBREW LETTER PE WITH DAGESH
+Category: Lo
+Decomposition: 05E4 05BC
+[U+05E4+05BC]
+Name: HEBREW LETTER PE WITH DAGESH
+Category: Lo
+Decomposition: 05E4 05BC
+
+[U+FB46]
+Name: HEBREW LETTER TSADI WITH DAGESH
+Category: Lo
+Decomposition: 05E6 05BC
+[U+05E6+05BC]
+Name: HEBREW LETTER TSADI WITH DAGESH
+Category: Lo
+Decomposition: 05E6 05BC
+
+[U+FB47]
+Name: HEBREW LETTER QOF WITH DAGESH
+Category: Lo
+Decomposition: 05E7 05BC
+[U+05E7+05BC]
+Name: HEBREW LETTER QOF WITH DAGESH
+Category: Lo
+Decomposition: 05E7 05BC
+
+[U+FB48]
+Name: HEBREW LETTER RESH WITH DAGESH
+Category: Lo
+Decomposition: 05E8 05BC
+[U+05E8+05BC]
+Name: HEBREW LETTER RESH WITH DAGESH
+Category: Lo
+Decomposition: 05E8 05BC
+
+[U+FB49]
+Name: HEBREW LETTER SHIN WITH DAGESH
+Category: Lo
+Decomposition: 05E9 05BC
+[U+05E9+05BC]
+Name: HEBREW LETTER SHIN WITH DAGESH
+Category: Lo
+Decomposition: 05E9 05BC
+
+[U+FB4A]
+Name: HEBREW LETTER TAV WITH DAGESH
+Category: Lo
+Decomposition: 05EA 05BC
+[U+05EA+05BC]
+Name: HEBREW LETTER TAV WITH DAGESH
+Category: Lo
+Decomposition: 05EA 05BC
+
+[U+FB4B]
+Name: HEBREW LETTER VAV WITH HOLAM
+Category: Lo
+Decomposition: 05D5 05B9
+[U+05D5+05B9]
+Name: HEBREW LETTER VAV WITH HOLAM
+Category: Lo
+Decomposition: 05D5 05B9
+
+[U+FB4C]
+Name: HEBREW LETTER BET WITH RAFE
+Category: Lo
+Decomposition: 05D1 05BF
+[U+05D1+05BF]
+Name: HEBREW LETTER BET WITH RAFE
+Category: Lo
+Decomposition: 05D1 05BF
+
+[U+FB4D]
+Name: HEBREW LETTER KAF WITH RAFE
+Category: Lo
+Decomposition: 05DB 05BF
+[U+05DB+05BF]
+Name: HEBREW LETTER KAF WITH RAFE
+Category: Lo
+Decomposition: 05DB 05BF
+
+[U+FB4E]
+Name: HEBREW LETTER PE WITH RAFE
+Category: Lo
+Decomposition: 05E4 05BF
+[U+05E4+05BF]
+Name: HEBREW LETTER PE WITH RAFE
+Category: Lo
+Decomposition: 05E4 05BF
+
+[U+FB4F]
+Name: HEBREW LIGATURE ALEF LAMED
+Category: Lo
+Decomposition: <compat> 05D0 05DC

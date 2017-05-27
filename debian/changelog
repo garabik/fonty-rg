@@ -1,0 +1,46 @@
+fonty-rg (0.6) unstable; urgency=low
+
+  * do not save gzip timestamp, allowing reproducible build (closes: #777061)
+  * recommend console-tools (closes: #487514)
+  * update debian build (closes: #800164)
+
+ -- Radovan Garabík <garabik@kassiopeia.juls.savba.sk>  Tue, 27 Oct 2015 19:13:28 +0100
+
+fonty-rg (0.5) unstable; urgency=high
+
+  * fix typo in README (closes: #163661)
+  * capitalize Unicode (closes: #172059)
+  * fix typo in manpage (closes: #301890)
+  * rename uni to utf8 (closes: #308246). High urgency, since it is a grave bug
+  * change my e-mail
+
+ -- Radovan Garabík <garabik@kassiopeia.juls.savba.sk>  Thu, 12 May 2005 10:10:34 +0200
+
+fonty-rg (0.4) unstable; urgency=low
+
+  * install changelog (oops). (closes: #167026)
+
+ -- Radovan Garabík <garabik@melkor.dnp.fmph.uniba.sk>  Tue,  5 Nov 2002 10:49:03 +0100
+
+fonty-rg (0.3) unstable; urgency=low
+
+  * changed Description: (closes: #162085)
+  * added ./ in front of build.sh command (closes: #164835)
+
+ -- Radovan Garabik <garabik@melkor.dnp.fmph.uniba.sk>  Tue, 24 Sep 2002 20:04:18 +0200
+
+fonty-rg (0.2) unstable; urgency=low
+
+  * changed Architecture: any into Architecture: all
+
+ -- Radovan Garabik <garabik@melkor.dnp.fmph.uniba.sk>  Thu, 12 Sep 2002 16:10:24 +0200
+
+fonty-rg (0.1) unstable; urgency=low
+
+  * Initial Release (closes: #159010)
+
+ -- Radovan Garabik <garabik@melkor.dnp.fmph.uniba.sk>  Wed, 21 Aug 2002 13:08:38 +0200
+
+Local variables:
+mode: debian-changelog
+End:

@@ -1,0 +1,1067 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>fonty-rg</title>
+	<base target="_self">
+</head>
+<body>
+
+<a name="toc"><b>contents</b></a>
+<ol>
+	<li><a href="#required">other programs you need</a></li>
+	<li><a href="#download">sources for other programs</a></li>
+	<li><a href="#contents">contents of fonty-rg</a></li>
+	<li><a href="#prepare">preparations</a></li>
+	<li><a href="#createfont">creating your own font definition file</a>
+	<ol>
+		<li><a href="#txt-explain">how a definition line looks like</a></li>
+		<li><a href="#limit-explain">how many definitions are allowed</a></li>
+		<li><a href="#hexcount-explain">how hexadecimal counting works</a></li>
+		<li><a href="#ranges-explain">what ranges we might meet</a></li>
+		<li><a href="#hex2uni-rules">rules for some HEX ranges</a></li>
+		<li><a href="#txt-contents">contents of the definition file</a></li>
+		<li><a href="#position-explain">how font positions and limits are
+			created</a></li>
+		<li><a href="#create-summary">summary</a></li>
+		<li><a href="#create-hints">practical hints</a></li>
+	</ol>
+	</li>
+	<li><a href="#buildfont">(re)building fonts</a></li>
+	<li><a href="#buildacm">creating your userdefined acm kernel map</a>
+	<ol>
+		<li><a href="#acm-explain">how an acm map looks like</a></li>
+		<li><a href="#256acm-simple">256 positions, simple definitions</a></li>
+		<li><a href="#512acm-merge">512 positions, merged definitions</a></li>
+	</ol>
+	</li>
+	<li><a href="#usefont">using your font on console</a>
+	<ol>
+		<li><a href="#usefont-all">general procedure to use a font</a></li>
+		<li><a href="#usefont-off">procedure for official combinations</a></li>
+		<li><a href="#usefont-mix">procedure for own mixtures</a></li>
+		<li><a href="#usefont-switch">switching between font contents</a></li>
+	</ol>
+	</li>
+	<li><a href="#conventions">names for files dealing with fonts</a></li>
+	<li><a href="#chain">how the whole chain works</a></li>
+	<li><a href="#startsystem">how your system looks like after booting</a></li>
+	<li><a href="#messages">error and other messages</a>
+	<ol>
+		<li><a href="#build-9thcol">9th column displayed incorrectly</a></li>
+	</ol>
+	</li>
+</ol>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="required"><b>other programs you need</b></a>
+<br>the first three are usually already present on your system
+<br><b>comment</b>
+<ol>
+	<li>a shell working as /bin/sh</li>
+	<li>kbd or console-tools/console-data</li>
+	<li>perl-5.001 or later (expected as /usr/bin/perl)</li>
+<!-- 
+	<li>python-2.x for extra (expected as /usr/bin/python)</li>
+-->
+</ol>
+
+<!-- ******************************************************************* -->
+<a name="download"><b>where to get the sources for other programs</b></a>
+<br>if you are running a distribution, search at their ftp server
+<br>if you are compiling from source here the home
+<ul>
+	<li><b>bash-2.05a</b>
+		<br><a href="ftp://ftp.gnu.org/gnu/bash/">
+			ftp://ftp.gnu.org/gnu/bash/</a>
+	</li>
+	<li><b>kbd-1.06</b>
+		<br><a href="ftp://ftp.win.tue.nl/pub/linux-local/utils/kbd/">
+			ftp://win.tue.nl/pub/linux-local/utils/kbd/</a>
+		<br><a href="ftp://sunsite.unc.edu/pub/Linux/system/keyboards/">
+			ftp://sunsite.unc.edu/pub/Linux/system/keyboards/</a>
+	</li>
+	<li><b>console-tools-0.2.3</b>
+		<br><b>console-data-1999.08.29</b>
+		<br><a href="ftp://sunsite.unc.edu/pub/Linux/system/keyboards/">
+			ftp://sunsite.unc.edu/pub/Linux/system/keyboards/</a>
+		<br><a href="ftp://ftp.debian.org/debian/pool/main/c/console-tools/">
+			ftp://ftp.debian.org/debian/pool/main/c/console-tools/</a>
+		<br><a href="ftp://ftp.debian.org/debian/pool/main/c/console-data/">
+			ftp://ftp.debian.org/debian/pool/main/c/console-data/</a>
+	</li>
+	<li><b>perl-5.6.1</b>
+		<br><a href="http://www.perl.com/">
+			http://www.perl/com/</a>
+	</li>
+	</li>
+	<li><b>fonty-1.0</b>
+		<br><a href="http://qrczak.home.ml.org/programy/linux/fonty/">
+			http://qrczak.home.ml.org/programy/linux/fonty/</a>
+		<br><a href="ftp://ftp.debian.org/fonty-1.0.orig.tar.gz">
+			ftp://ftp.debian.org/fonty-1.0.orig.tar.gz</a>
+	</li>
+<!-- 
+	<li><b>python-2.2</b>
+		<br><a href="ftp://ftp.python.org/pub/python/2.2/">
+			ftp://ftp.python.org/pub/python/2.2/</a>
+-->
+</ul>
+<br><b>comment</b>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="contents"><b>contents of fonty-rg</b></a>
+<ol>
+	<li><b>top directory</b>
+		<br>build.sh (shell)
+			<br>&nbsp;&nbsp;wrapper for building the fonts
+		<br>choose (perl)
+			<br>&nbsp;&nbsp;select needed pictures for a font
+		<br>compact (perl)
+			<br>&nbsp;&nbsp;putting same pictures in the font together
+		<br>vga (perl)
+			<br>&nbsp;&nbsp;sorting characters according to pixels in the 8th
+				column
+		<br>*.psf.gz
+			<br>&nbsp;&nbsp;precompiled compressed, ready-to-use console fonts
+<br><b>comment</b>
+<!-- 
+		<br>hex2bdf.pl (perl) unused
+			<br>&nbsp;&nbsp;making the .bdf font files
+		<br>hex2sbf.py (python) unused
+			<br>&nbsp;&nbsp;making the .sbf font files
+		<br>mergehex.py (python) unused
+			<br>&nbsp;&nbsp;putting the same characters together
+		<br>sbf-filter-nochars.py (python) unused
+			<br>&nbsp;&nbsp;
+		<br>sbf2hex.py (python) unused
+			<br>&nbsp;&nbsp;extracting hex values from sbf fonts 
+-->
+	</li>
+<!-- ................................................................... -->
+	<li><b>subdirectory /charsets</b>
+		<br>cz2t.sh (shell)
+			<br>&nbsp;&nbsp;remove colums from given file
+		<br>LatCyrGr (contains Latin, Cyrillic, Greek)
+			<br>&nbsp;&nbsp;table hex to Unicode
+		<br>*.txt (contains what the filename says)
+			<br>&nbsp;&nbsp;=xx U+xxxx OFFICIAL NAME: table hex to Unicode
+		<br>chavo.chars (contains special mixture East Europe, Esperanto)
+			<br>&nbsp;&nbsp;=xx U+xxxx OFFICIAL NAME: table hex to Unicode
+		<br>graphics
+			<br>&nbsp;&nbsp;U+xxxx: Unicode values for creating a box 
+	</li>
+<!-- ................................................................... -->
+	<li><b>subdirectory /source</b>
+		<br>*.sbf
+			<br>&nbsp;&nbsp;glyphs: pictures how each Unicode value looks
+			<br>&nbsp;&nbsp;contains the range of values the filename says
+	</li>
+</ol>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="prepare"><b>preparations</b></a>
+<ol>
+	<li>unpack the fonty-rg package into your desired directory
+		<br>you will get a directory called fonty-rg
+	<li>unpack the fonty-1.0 package
+<br><b>comment</b>
+<!--
+	<li>for extras check you have an executable /usr/bin/python
+		<br>alternately check the first line in the python scripts
+-->
+</ol>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="createfont"><b>creating your own font definition file</b></a>
+<br>font defintion files are simple text files in /charsets
+<br>&nbsp;
+
+<!-- ................................................................... -->
+<br><a name="txt-explain"><b>how a definition line looks like</b></a>
+<br>&nbsp;
+<pre>
+=HEX  | U+number | # OFFICIAL NAME
+------+----------+--------------------
+=20   | U+0020   | # SPACE
+=21   | U+0021   | # EXCLAMATION MARK
+</pre>
+<ol>
+	<li><b>=</b>
+		<br>is only a mark helping to catch this number in scripts
+	</li>
+	<li><b>20</b> and <b>21</b>
+		<br>are the hexadecimal values as `man ascii` or `man iso8859_x` show
+	</li>
+	<li><b>U+</b>
+		<br>the signal that this plus the following number is a Unicode value
+	</li>
+	<li><b>0020</b> and <b>0021</b>
+		<br>Unicode numbers, always together with <b>U+</b> they make the
+		Unicode values associated with a picture/glyph
+	</li>
+	<li><b>#</b>
+		<br>comment sign for the following description
+	</li>
+	<li><b>SPACE</b> and <b>EXCLAMATION MARK</b>
+		<br>are the official names of those characters
+		<br>Such comments help if you are dealing with characters for a
+			foreign language or seldom used ones, so you do not know their
+			meaning by heart.
+	</li>
+</ol>
+
+<!-- ................................................................... -->
+<a name="limit-explain"><b>how many definitions are allowed</b></a>
+<br>Every line in such a text file which is not beginning with a #
+	 comment sign is a definition line and you can have either maximal
+	 256 or maximal 512 of different definitions. Finally a defintion
+	 always ends up in a picture, the glyph. And the lines in your
+	 text file are only roughly an estimation whether you are within the
+	 limit or already exeeding it. If you want to define for example a
+	 font which contains iso8859-1 and also cyrillic letters, somewhere
+	 in your text file you will have these 2 lines:
+	<br>&nbsp;&nbsp;1 line for latin capital letter A (which is U+0041)
+	<br>&nbsp;&nbsp;1 line for cyrillic capital letter A (which is U+0410)
+<br>&nbsp;
+<br>There are separate pictures for both of them, but when you see them
+	 you will realize that both pictures are the same and therefore
+	 your 2 lines only count as 1 defintion. Later, when you call the
+	 build.sh script to build your font, the compact script will take
+	 care, that all lines which have the same picture are put into one
+	 defintion; in our example it will do something like this
+	<br>&nbsp;&nbsp;instead of [U+0041] picture and [U+0410] picture
+	<br>&nbsp;&nbsp;do [U+0041] [U+0410] picture (both is capital A)
+<br>&nbsp;
+<br>Usually you will not need more than 256 definitions. But in case you
+	 have put a lot into it and suddenly realize that you are beyond
+	 256, don't worry, then it will make a 512-table. After 512, however,
+	 is the end with this kind of tables.
+<br><b>comment</b>
+<!-- We should have more than 512 somehow -->
+<br>&nbsp;
+
+<!-- ................................................................... -->
+<br><a name="hexcount-explain"><b>how hexadecimal counting works</b></a>
+<br>Now lets have a short look onto the hexadecimal values
+	 (the HEX in our examples above). They are counted like this:
+<br>&nbsp;
+<pre>
+00   ___10   ___20              from 00 to 09 and 0A to 0F (end of 0)
+01  |   11  |   21              from 10 to 19 and 1A to 1F (end of 1)
+..  |   ..  |   ..              from 20 to 29 and 2A to 2F (end of 2)
+09  |   19  |   29
+0A  |   1A  |   2A              you can best remember if you just speak
+..  |   ..  |   ..              the numbers separately, like this:
+0F  |   1F  |   2F              one E, one F, two zero, two one ....
+|___|   |___|   |__ and so on
+</pre>
+
+<!-- ................................................................... -->
+<br><a name="ranges-explain"><b>what ranges we might meet</b></a>
+<br>Counting down in this way we can now split the long row into several
+	 parts which have special meanings/purposes, and doing this we get
+	 ranges. (Those ranges make it just a bit easier if we want to speak
+	 about a certain number of values which are treated equally). Ranges
+	 which are quite famous are these:
+<br>&nbsp;
+<pre>
+00  # NUL             --+ control characters (essential terminal
+..    ..                | controlling characters like bell, carriage
+1F  # UNIT SEPARATOR  --+ return, end of transmission ...)
+20  # SPACE           --+
+..    ..                | ascii characters
+7F  # DELETE          --+
+80  # blink           --+ control characters (additional terminal
+..    ..                | controlling characters like bold, underline,
+9F  #                 --+ reverse ...)
+A0  # NO-BREAK SPACE  --+
+..    ..                | iso8859 characters
+FF  # subset dependend--+
+</pre>
+
+<!-- ................................................................... -->
+<br><a name="hex2uni-rules"><b>rules for some HEX ranges</b></a>
+<br>For ascii and parts of iso8859 range the Unicode number is equal
+	 to the HEX number, just put two zeros in front of it, so your lines
+	 would look like this:
+<br>&nbsp;
+<pre>
+=20  U+0020 -+
+=21  U+0021  |
+  ...        | the ascii range is the same everywhere
+=7E  U+007E  |
+=7F  U+007F -+
+=A0  U+00A0 -+
+=A1  U+00A1  |
+  ... no     | in the iso range it does not always continue like this;
+             | here the Unicode number depends on what the subset says
+             | it should look like. For example
+=A4  U+00A4  # CURRENCY  in iso8859-1
+=A4  U+20AC  # EURO SIGN in iso8859-15
+               Unicode values for a subset can for example be
+               looked up in the other .txt files in /charsets
+=00  U+0000 -+ the range of essential controls
+ ...         | 
+=1E  U+001E  | 
+=1F  U+001F -+ 
+<br><b>comment</b>
+<!--
+as far as I got it essential controls are never displayed, because
+these characters are producing actions which conflict with displaying.
+It is for example impossible to show a character if the command is
+to make a beep.
+-->
+=80  U+     -+ the range of additional controls
+ ...         | 
+=9F  U+     -+ 
+<!--
+as far as I got it these can be used to display whatever special symbols
+you want, but usually some symbols for drawing lines and boxes are placed
+here.
+-->
+</pre>
+
+<!-- ................................................................... -->
+<br><a name="txt-contents"><b>contents of the definition file</b></a>
+<br>Your font file can keep whatever pictures (glyphs) you like to have
+	 produced; but please remember that people outside are mostly using
+	 official character maps like iso8859-1 or iso8859-15. And if you go
+	 and mix the characters of different sets those outside will see only
+	 strange rubbish. You can for example only replace the currency sign
+	 by the euro sign in iso8859-1 and make your myfont.psf from that.
+	 If you now create a text containing "1/4 euro" and send it off to
+	 other people, those who use the -1 subset will see "1/4 currency"
+	 and those with the -15 subset see "capital OE ligature euro".
+	 These are called conflicting characters, because the same HEX value
+	 has a different Unicode value (and therefore a different picture) in
+	 another iso8859 subset.
+<br>But you can of course have both full character sets in your font with
+	 lines for all conflicting characters. In our example here it means,
+	 you first write all defintions for the -1 subset and then write all
+	 definitions for the conflicting characters of the -15 subset. (in that
+	 case you would already see when creating your text that the combination
+	 "1/4 euro" is not possible and you would end up in "0.25 cent").
+<br>&nbsp;
+
+<!-- ................................................................... -->
+<br><a name="position-explain"><b>how font positions and limits are created</b>
+</a>
+<br>Now uncompress the chavo.psf.gz font in the top directory of fonty-rg;
+	 this is a nearly completely filled up font. Then extract the builtin
+	 Unicode character table with this command:
+<br>&nbsp;&nbsp;psfgettable chavo.psf chavo.builtin.table
+<br>&nbsp;
+<br>Open the chavo.builtin.table in your editor. Note, it has 259 lines,
+	 the first 3 lines are comments so they do not count: 259-3=256 lines,
+	 yes this is the first limit. Now scroll down with your eyes on the
+	 first column and you will see, that this follows the counting you
+	 already learned - but here we have in front of it 0x0.
+<br>We need the 0x0 in front here because, if this would be a simple
+	 hexadecimal notation with only 0x in front, there would be a definite
+	 end at 0xFF (F is the last one we have) and we would never be able to
+	 make a font with more than 256 definitions. But the next limit was 512,
+	 and such a font going beyond 256 definitions would continue now like
+	 this: 0x0FF and then 0x100, 0x101, 0x102 ..
+	 So the first 256 have 0 as first number, the second 256 have 1 as
+	 first number (the counting sheme is the same as we learned, it just
+	 has one number more in front).
+<br>&nbsp;
+<br>This first column is also called the font position and it is needed
+	 to find the picture (glyph). If your program tells the screen driver,
+	 now spit out the word "error" you expect the screen driver does not
+	 need ages for searching "where the heck in this file might be the o,
+	 ah here, no this looks more like a zero, just hold on ..."
+<br>&nbsp;
+
+<!-- ................................................................... -->
+<br><a name="create-summary"><b>summary</b></a>
+<br>With the lines which you write in your font definition text, you tell
+	 what Unicode value should be associated whith the HEX value of
+	 that character, and the comments behind it describe its official
+	 name (and if you know this character you also know how the glyph
+	 looks). Unicode values which turn out to have glyphs looking the
+	 same, will later be put together to make a single definition from your
+	 two defintion lines. So this single definition occupies only a single
+	 font position. You can either have a font with maximal 256 font
+	 positions or a font with maximal 512 font positions.
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="create-hints"><b>practical hints</b></a>
+<ol>
+	<li>take an already existing defintion file as starting point
+	</li>
+	<li>copy that one to a file with your desired name
+	</li>
+	<li>at the bottom of your new definition file add additional lines
+		<br>you might consider inserting a # comment line with description
+		<br>this way it is easier to take it as template for new ones
+	</li>
+	<li>all iso8859 text files can be easily examined with diff
+	</li>
+	<li>definition lines which are identical must not be repeated
+		<br>you need for example the ascii range only once
+		<br>some of the general ones from iso range are also identical
+	</li>
+</ol>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="buildfont"><b>(re)building the fonts</b></a>
+<ol>
+	<li>change into the fonty-rg/ directory and execute
+	</li>
+	<li>&nbsp;&nbsp;./build.sh
+		<br>it might take a while until you see some messages
+<!-- at least on my slow P200 system, so don't CTRL+C -->
+		<br>you will get the new built fonts in this directory
+		<br>the are named &lt;purpose&gt;.psf.gz
+		<br>they will be written over the ones comming with this package
+	</li>
+</ol>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="buildacm"><b>creating your userdefined acm kernel map</b>
+<br>If your font mixes just all characters which you find nice looking and
+	 you want to display them besides eachother, you can not use an acm
+	 kernel map which only contains ranges of official characters. So you
+	 need to make your own acm map.
+<br>&nbsp;
+<br>There are basically two ways what the kernel makes out of the bytes
+	 it receives from a program when looking up values in the acm map.
+<ol>
+	<li>it simply displays what the font has for that value
+		<br>this is called direct-to-font
+		<br>and it looks like: (for) 0x8F (display) 0x8F
+		<br>an example is ..consoletrans/trivial
+	</li>
+	<li>it displays the glyph of the Unicode value for that value
+		<br>this is called user-to-unicode, where user means program
+		<br>and it looks like: (for) 0x8f (display the) U+008f (glyph)
+		<br>examples are ..consoletrans/8859-x_to_uni.trans
+	</li>
+</ol>
+We would not need all the Unicode numbers if we simply want the kernel to
+	 display direct-to-font, so this case is less interesting for us.
+<br>&nbsp;
+
+<!-- ................................................................... -->
+<br><a name="acm-explain"><b>how an acm map looks like</b></a>
+<br>As a general rule for our acm map we can use lines like these, which
+	 are the most flexible way of writing (as they allow comments):
+<pre>
+0x000   U+fffd  -+     this is the default for "unknown character"
+ ...             | for 256 positions
+0x0ff   U+      -+
+0x100   U+      -+
+ ...             | for 512 positions
+0x1ff   U+      -+
+^----------------- internal value which a program sends to be displayed
+  ^--------------- 3 digits for 512 positions but don't harm for 256
+        ^--------- Unicode value for the glyph which is printed
+</pre>
+
+<!-- ................................................................... -->
+<a name="256acm-simple"><b>256 positions, simple definitions</b></a>
+<br>for an acm map which deals with 256 positions and only have definition
+	 lines which are not merged into one definition, you can do this
+<ol>
+	<li>take the text file you created in the /charsets directory
+	</li>
+	<li>replace all "=" signs with "0x0"
+	</li>
+	<li>delete the official name explanation
+	</li>
+	<li>fill up the missing counting values in the first column
+		<br>these might be the essential and additional control ranges
+	</li>
+	<li>give the first value the Unicode value for unknown character
+		<br>like this: 0x000 U+FFFD
+		<br>you always see this if a requested character is not in the font
+	</li>
+	<li>you can specify an alternate if the font does not have the glyph
+		 <br>in the line in question just add a second Unicode value
+		 <br>like this: 0x04a U+20AC U+004A
+		 <br>means if you don't find the euro sign display the currency sign
+	</li>
+	<li>HEX values which you did not define must stand alone
+		<br>like this: 0x003
+		<br>means no picture if the program sends these bytes
+		<br>this is necessary to keep the order according to your font
+	</li>
+	<li>save it under a name related to your font like &lt;your_font&gt;.acm
+		<br>the .acm will reflect that this is an acm kernel mapping
+		<br>for kbd this will finally go to unimaps/
+		<br>for console-tools it finally goes to consoletrans/
+	</li>
+</ol>
+
+<!-- ................................................................... -->
+<a name="512acm-merge"><b>512 positions, merged definitions</b></a>
+<br>If you have up to 512 definitions which are all pointing to a different
+	 picture/glyph, you just continue according to what you did with the
+	 first 256 positions. So: go down the whole HEX counting, leave the
+	 Unicode value empty if you did not specify a glyph, and maybe add an
+	 alternate Unicode value to display if the glyph is not in the font.
+<br>&nbsp;
+<br>If you have definition lines which will be merged into one line, this
+	 means that you want to alternately display two different character sets.
+	 And this again means you must change the acm kernel map first.
+<br><b>comment</b>
+<!--
+I am really not sure about how to write the acm for merged lines.
+Chavo did not help as it is not designed for this weird kind of display.
+-->
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="usefont"><b>using your font on console</b></a>
+<br>for the first test you can keep the font in the fonty-rg directory
+<br>&nbsp;
+
+<br><a name="usefont-all"><b>general procedure to use a font</b>
+<!-- ................................................................... -->
+<br>This assumes you did not put the screen driver in utf8 mode
+<br>To get your own font working you might need the following components
+<ol>
+	<li>your font of course
+		<br>- with kbd: setfont &lt;your_font&gt;.psf.gz
+		<br>- with console-tools: consolechars &lt;your_font&gt;.psf.gz
+	</li>
+	<li>a screen driver translation map hex to Unicode to find the glyph
+		<br>only needed if the font does not have a builtin Unicode map
+		<br>- with kbd: setfont -u &lt;fitting&gt;.trans
+		<br>- with console-tools: consolechars -u &lt;fitting&gt;.sfm
+	</li>
+	<li>a userdefined acm kernel map for the (sub)set you want to use
+		<br>- with kbd: setfont -m &lt;desired_set&gt;.uni
+		<br>- with console-tools: consolechars -m &lt;desired_set&gt;.acm
+	</li>
+	<li>the command to switch to the userdefined kernel acm map
+		<br>general for defining G0 to keep it: echo -e "\033(K"
+		<br>general for defining G1 to keep it: echo -e "\033)K"
+		<br>- kbd: not needed for G0 (included in "-m") 
+<br><b>comment</b>
+<!--
+if I see that correctly a G1 defining needs extra steps
+0. setfont -m ... [which auto-defines G0 for userdefined]
+1. G1 echo
+2. G0 echo to the one we want have for G0 then like latin1
+-->
+		<br>- console-tools: not needed for G0, G1 defining with --g1
+	</li>
+</ol>
+
+<br><a name="usefont-off"><b>procedure for official combinations</b></a>
+<!-- ................................................................... -->
+<br>if your font contains a combination of official character sets
+<br>like chavo combines the officials latin1,2,3 and koi8-r
+<ol>
+	<li>- load your font: consolechars or setfont &lt;your_font&gt;.psf.gz
+	<li>fonty-rg fonts have a hex to Unicode screen driver map builtin
+		<br>means you normally do not need an external screen driver map
+		<br>with kbd: -u ..consoletrans/&lt;fitting&gt;.trans
+		<br>with console-tools: -u ..consoletrans/&lt;fitting&gt;.sfm
+	</li>
+	<li>- load the momentarily desired userdefined acm kernel map
+		<br>- kbd: setfont -m ..unimaps/&lt;desired&gt;.uni
+		<br>- console-tools: consolechars -m ..consoletrans/&lt;desired&gt;.acm
+		<br>for example to get the koi8-r from the chavo font: koi8-r.uni|.acm
+		<br>Notes:
+		<br>Some kbd .uni maps like the iso0x.uni do not work, to get this work
+			 correctly you can download console-data and copy the .acm files
+			 from /consoletrans to the share/kbd/unimaps/ directory.
+		<br>This is unique for all ttyX terminals of the system which means
+			 you can't activate another userdefined map at the same time
+	</li>
+	<li>kbd and console-tools include the G0 defining when using "-m .."
+		<br>so G0 defining in an extra step is not needed
+		<br>console-tools have an option "--g1" to define G1 instead of	G0
+	</li>
+</ol>
+
+<!-- ................................................................... -->
+<br><a name="usefont-mix"><b>procedure for own mixtures</b></a>
+<br>if your font is a mixture not corresponding to official sets
+<br>like exchange in iso8859-1 only the currency by euro
+<ol>
+	<li>- load your font: consolechars or setfont &lt;your_font&gt;.psf.gz
+	<li>fonty-rg fonts have a hex to Unicode screen driver map builtin
+		<br>means you normally do not need an external screen driver map
+		<br>with kbd: -u ..consoletrans/&lt;fitting&gt;.trans
+		<br>with console-tools: - ..consoletrans/&lt;fitting&gt;.sfm
+	</li>
+	<li>then you need to load your special extracted acm kernel map
+		<br>- kbd: setfont -m &lt;your_font&gt;.uni
+		<br>- console-tools: consolechars -m &lt;your_font&gt;.acm
+	</li>
+	<li>kbd and console-tools include the G0 defining when using "-m .."
+		<br>so G0 defining in an extra step is not needed
+	</li>
+</ol>
+
+<!-- ................................................................... -->
+<br><a name="usefont-switch"><b>switching between font contents</b></a>
+<br>You might have a font which contains characters for several
+	 different character sets, like the chavo font is able to display
+	 4 character sets. With the command for your userdefined acm kernel
+	 map you already said which of those character sets should be used
+	 in the beginning. Now we see how to get our font display another
+	 character set. 
+<br>&nbsp;
+<br>In all we have 4 acm kernel maps which we can switch to
+<br>and 2 (kind of) variables which hold the defined acm kernel map.
+<br>Those 2 variables are G0 and G1 and their initial value is predefined,
+	 but that is just for convenience and we can always define them new.
+<br>&nbsp;
+<ol>
+	<li>predefined value for G0: latin1
+		<br>defining G0 variable to hold a special acm map
+		<br>G0 to ISO latin1&nbsp; with `echo -en "\033(B"`
+		<br>G0 to IBM PC 743&nbsp; with `echo -en "\033(U"`
+		<br>G0 to DEC VT100&nbsp;&nbsp; with `echo -en "\033(0"`
+		<br>G0 to userdefined with `echo -en "\033(K"`
+	</li>
+	<li>predefined value for G1: DEC VT100
+		<br>defining G1 variable to hold a special acm map
+		<br>G1 to ISO latin1&nbsp; with `echo -en "\033)B"`
+		<br>G1 to IBM PC 743&nbsp; with `echo -en "\033)U"`
+		<br>G1 to DEC VT100&nbsp;&nbsp; with `echo -en "\033)0"`
+		<br>G1 to userdefined with `echo -en "\033)K"`
+	</li>
+</ol>
+
+<br>A terminal always starts with the predifined G0 value, if we don't
+	 like that value we define the variable to hold another acm map.
+	 Once our two G0 and G1 values are ok, we can switch between them with
+<br>&nbsp;
+<ol>
+	<li>switch to G0 with key press: CTRL+O (ctrl and capital O together)</li>
+	<li>switch to G1 with key press: CTRL+N (ctrl and capital N together)</li>
+</ol>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<br><a name="system-save"><b>final system adjustments</b></a>
+<!-- ................................................................... -->
+<br>if your tests succeeded and you want to keep your versions
+<ol>
+	<li>separating them from your systems fonts you might use /usr/local
+	</li>
+	<li>make directories corresponding to your systems shared ones
+	</li>
+	<li>copy your new font to the consolefonts/ directory
+		<br>you might consider to use the .psf and .psfu naming sheme
+		<br>it is easier to see from the fonts name whether a table is builtin
+		<br>if you stripped out some builtin hex to Unicode tables
+	</li>
+	<li>copy your new translation maps to consoletrans/ and/or unimaps/
+		<br>you might consider to use the .acm and .sfm naming sheme
+		<br>it is easier to see from the maps name when it is used
+	</li>
+</ol>
+
+<!-- ................................................................... -->
+<br>if you decide to work with fonty-rg more often
+<ol>
+	<li>copy fonty-rgs scripts to bin/
+	</li>
+	<li>if not yet present add this directory to your PATH variable
+	</li>
+	<li>in share/ make a directory called fonty-rg
+	</li>
+	<li>copy fonty-rgs directory /source to share/fonty-rg/
+	</li>
+	<li>if you like do alike for the /charset directory
+	</li>
+</ol>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="conventions"><b>names for files dealing with fonts</b></a>
+<ul>
+	<li>.<b>acm</b> map
+		<br>application charset map, also screen map or console map
+		<br>translation table hex|dec|oct value to Unicode value
+		<br>used by the kernel to translate the bytes received from programs
+		<br>stored by console-tools in ..consoletrans/*.acm
+		<br>stored by kbd in ..consoletrans/*.trans or without .trans
+	</li>
+	<hr noshade>
+	<br>formats depend on which program was used to create the file
+	<li><b>.bdf</b>
+		<br>contains glyphs (pictures) for each Unicode value
+		<br>used by uni-vga package as base file to create fonts
+	</li>
+	<li><b>.sbf</b>
+		<br>contains glyphs (pictures) for each Unicode value
+		<br>used by the fonty packages as base file to create fonts
+	</li>
+	<hr noshade>
+	<li><b>.sfm</b>
+		<br>Unicode screen font map, also unciode(-to-font) map or unimap
+		<br>table with tranlations from hex|dec value into Unicode value
+		<br>used by the screen driver for fonts without a builtin table
+		<br>stored by console-tools in ..consoletrans/*.sfm
+		<br>stored by kbd in ..unimaps/*.uni or without .uni
+	</li>
+	<hr noshade>
+	<li><b>.psf</b>
+		<br>the ready-to-use console font, uncompressed
+		<br>kbd package uses this for fonts without builtin translation map
+		<br>fonty-rg uses this for fonts with builtin maps
+		<br>stored by console-tools and kbd in ..consolefonts/
+	</li>
+	<li><b>.psfu</b>
+		<br>special for kbd package to indicate a builting translation map
+		<br>stored by kbd in ..consolefonts/*.psfu.gz
+	</li>
+	<li><b>?</b>
+		<br>raw font in binary format
+		<br>used if you start your system with a frambuffer supporting kernel
+		<br>can not be saved and reloaded with the old.font options 
+		<br>raw fonts can be converted by font2psf (Martin Lohner, SUSE)
+	</li>
+</ul>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<pre>
+<a name="chain"><b>how the whole chain works</b></a>
+<br>kernel = lot of other things + console driver
+<br>console driver = keyboard driver + screen driver
+<br>&nbsp;
+<ol>
+	<li>fingers press keys
+	</li>
+	<li>keyboard hardware sends scancodes to kernel
+		<br>[programs for scancodes: getkeycodes and setkeycodes]
+	</li>
+	<br>&nbsp;
+	<li>kernel looks up keycode for the scancode in a table
+	</li>
+	<li>kernel sends keycode to keyboard driver
+	</li>
+	<li>keyboard driver looks up character for keycode in keytable
+		<br>[programs for keytables: dumpkeys and loadkeys]
+		<br>[programs for special keys: setmetamode]
+	</li>
+	<br>&nbsp;
+	<li>keyboard driver is in one of 4 modes
+		<br>to send the characters to programs
+		<br>1. raw mode sends scancode
+		<br>&nbsp;&nbsp; for programs with an own keyboard driver (X11)
+		<br>2. keycode mode sends keycode
+		<br>&nbsp;&nbsp; for unknown purpose
+		<br>3. ascii mode sends character as 8-bit encoding
+		<br>&nbsp;&nbsp; (only 256 available)
+		<br>4. utf8 mode sends character as prefixed 8-bit encoding
+		<br>&nbsp;&nbsp; which makes multi-bytes
+<br><b>comment</b>
+<!-- might be too special
+   first byte range: 0xC0 - 0xFD telling how many will follow
+   next bytes range: 0x80 - 0xBF
+   never used      : 0xFE + 0xFF
+   note, this has nothing to do with the characters in the fonts,
+   we are converting utf8 character sequences into multi-byte here
+-->
+		<br>[programs for keyboard (driver) mode: kbd_mode and showkey]
+	</li>
+	<br>&nbsp;
+	<li>keyboard driver sends characters to program
+	</li>
+	<li>program works until result
+	</li>
+    <li>program sends characters to display to screen driver
+	</li>
+	<br>&nbsp;
+	<li>screen driver is in one of 2 modes
+		<br>to receive characters from programs
+		<br>1. utf mode interpretes received bytes as utf8 sequence
+		<br>&nbsp;&nbsp; converts it into (UCS-2) 16-bit sequences
+<br><b>comment</b>
+<!--
+This seems a bit wrong, I always thought we are using UTF-8 on linux
+because exactely these 16-bit UCS-2 sequences don't work on linux.
+-->
+		<br>&nbsp;&nbsp; looks up the glyph to display in the sfm screen
+			font map
+		<br>2. byte mode interpretes received bytes as byte sequences
+		<br>&nbsp;&nbsp; looks up the bytes in the acm application charset map
+		<br>&nbsp;&nbsp; converts it into utf8 sequences, than into 16-bit
+			sequences
+		<br>&nbsp;&nbsp; than looks up the glyph in the sfm screen font map
+		<br>[program for screen driver mode: vt-is-UTF8 (not in kbd package)]
+		<br>[switch to utf mode&nbsp; with `echo -en "\033%G"`]
+		<br>[switch to utf mode&nbsp; with `echo "\x1b%G"`]
+		<br>[switch to byte mode with `echo -en "\033%@"`]
+		<br>[switch to byte mode with `echo "\x1b%@"`]
+		<br>[programs for Unicode tables in fonts: psf{get,add,strip}table]
+<br><b>comment</b>
+<!--
+Did anyone ever think describing in clear words how to produce
+this on a command line, how many tries do we have to take for
+finding out which keys exactely how to press to get that result?
+-->
+		<br>&nbsp;
+		<br>acm application charset map is one of 4 maps,
+		<br>3 of them built into kernel (also called console maps)
+		<br>1. default IBM codepage 437 character set
+		<br>&nbsp;&nbsp; for i386 other architectures (also called PC code)
+<br><b>comment</b>
+<!--
+and additionally a lot of other names I have seen - E.P.
+-->
+		<br>2. DEC VT100 character set
+		<br>3. ISO latin1 character set
+		<br>4. user definable which is at boot time straight-to-font
+		<br>&nbsp;
+		<br>U+FFFD mostly font position 0 is the replacement character
+		<br>displayed if a character is not found in the sfm screen font map
+		<br>control ranges with Unicode values from U+F000 to U+F1FF
+		<br>(straight-to-font range) directly display what the font has
+<br><b>comment</b>
+<!--
+console-tools in doc/console1.txt:322
+codes C from U+F000 to U+F1FF are not looked-up in the SFM, and
+directly accesses the character in font-position C & 0x01FF (yes, a
+font can be 512-chars on many hardware platforms, like VGA).  This
+is refered to as the straight to font zone.
+(whatever "codes C" now might be - E.P)
+-->
+		<br>[acm maps are in /usr/src/linux/drivers/char/console.c]
+		<br>[program for acm application charset map: none]
+		<br>&nbsp;
+		<br>a terminal can switch between two modes with G0 and G1
+		<br>1. G0 is by default ISO latin1
+		<br>2. G1 is by default DEC VT100
+<br><b>comment</b>
+<!--
+how the heck is that exactely done? Everywhere is just standing
+^O and ^N. Ok ^ means control but CTRL+o pressing does not work, nor
+does CTRL+SHIFT+o work, also echo -e "\033o" or "\033O" does not work.
+Termcap does not know si= and so= nor ls0= or ls1= and SI and SO are
+only described as ^O and ^N. Hell, times where keyboards only had a
+CTRL and a ESC key are long over. - E.P.
+-->
+		<br>[switch to G0 with ]
+		<br>[switch to G1 with ]
+		<br>&nbsp;&nbsp; example: on tty1=cp437 builtin with G0 switch
+		<br>&nbsp;&nbsp; example: on tty1=vt100 builtin with G1 switch
+		<br>&nbsp;&nbsp; example: on tty2=iso01 builtin with G0 switch
+		<br>&nbsp;&nbsp; example: on tty2=iso02 user with G1 switch
+		<br>but on all tty's there can only be one user-defined at the time
+		<br>&nbsp;&nbsp; example: on tty3=myown user with G0 impossible
+		<br>[adjust G0 to ISO latin1&nbsp; with `echo -en '\033(B'`]
+		<br>[adjust G0 to IBM PC 743&nbsp; with `echo -en '\033(U'`]
+		<br>[adjust G0 to DEC VT100&nbsp;&nbsp; with `echo -en '\033(0'`]
+		<br>[adjust G0 to userdefined with `echo -en '\033(K'`]
+		<br>[adjust G1 to ISO latin1&nbsp; with `echo -en '\033)B'`]
+		<br>[adjust G1 to IBM PC 743&nbsp; with `echo -en '\033)U'`]
+		<br>[adjust G1 to DEC VT100&nbsp;&nbsp; with `echo -en '\033)0'`]
+		<br>[adjust G1 to userdefined with `echo -en '\033)K'`]
+<br><b>comment</b>
+<!--
+No, don't think that G0 and G1 are the only ones.
+`man charsets(7)` describes under ISO 2022 AND ISO 4873, second paragraph
+G0-G4 as if that is the standard set. Rest is anyways not to understand- E.P.
+-->
+	<br>&nbsp;
+	<li>screen driver interpretes received character due to mode it is in
+	</li>
+    <li>screen driver converts character to USC-2 16-bit
+	</li>
+    <li>screen driver looks up glyph for the character in font map
+	</li>
+    <li>screen driver prints the glyph to the screen
+	</li>
+</ol>
+</pre>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="startsystem"><b>how your system looks like after booting</b></a>
+<br>If you start your linux system and do not run special initscripts
+	 which change settings your system will have this status:
+<br>&nbsp;
+<ol>
+	<li>your keymap is the US keymap (qwerty/defkeymap)
+		<br>an initscript uses loadkeys to change the map for your keyboard
+	</li>
+	<li>the keyboard driver is in the default ASCII mode
+		<br>normally no initscript uses kbd_mode to change to utf8 mode
+	</li>
+	<li>so all your programs receive 8-bit ascii characters
+	</li>
+	<li>the screen driver is in the default byte mode
+		<br>normally no initscript uses the %@ echo to change to utf8 mode 
+	</li>
+	<li>so all characters from programs will be treated as byte sequences
+	</li>
+<!--
+THIS is not equal in all docs. Some say it starts in IBM cp437 consequently
+using the cp437.uni (which is used in the linux/drivers/char/Makefile. Some
+say it starts in latin1 one - which might mean it has changed from former
+cp437 to latin1 now. But how do we find out if there is no program we can
+use to query the maps in G0 and G1?
+-->
+	<li>the acm application character map is the default G0 ISO latin1
+		<br>normally no initscript changes this
+	</li>
+	<li>so the cp437.uni map will be used as base for transforming
+<br><b>comment</b>
+	</li>
+	<li>the console font is the default8x16.psfu.gz in /consolefonts/
+		<br>maybe an initscript uses setfont | consolechars to change the font
+	</li>
+</ol>
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<br><a name="datadirs"><b>shared directories and what they contain</b></a>
+<br>all those are usually in /usr/share/ (formerly in /usr/lib/)
+<br>subdirectories are up to distribution/install options
+<ol>
+	<li><b>consolefonts/</b>
+		<br>used by <b>console-tools</b> and <b>kbd</b>
+		<br>with command "consolechars ..." or "setfont ..."
+		<br>contains compiled fonts in the linux default psf format
+		
+	</li>
+	<li><b>consoletrans/</b>
+		<br>used by <b>console-tools</b> and <b>kbd</b>
+		<br>contains mapping tables
+		<ol>
+			<li><b>console-tools</b>
+			<br>with command "consolechars -m ..."
+			<br>contains acm kernel mapping tables as *.acm or *.trans
+			<br>with command "consolechars -u ..."
+			<br>contains font mapping tables as *.sfm
+			</li>
+			<li><b>kbd</b>
+			<br>with the command "setfont -m ..."
+			<br>contains acm kernel mapping tables as *.trans or without
+			</li>
+		</ol>
+	</li>
+	<li><b>unimaps/</b>
+		<br>used by <b>kbd</b>
+		<br>with command "setfont -u ..." or "loadunimap"
+		<br>contains non-builtin font mapping tables as *.uni or without
+	</li>
+</ol>
+<br><b>comment</b>
+<!--
+ascii.20-7f.uni (kbd/unimaps/) begins like this
+# font positions 0-95: positions 32-127 in ASCII
+0x000  U+0020  #
+0x001  U+0021  # !
+What the heck is a font position, is a glyph and an associated unicode
+number not enough?
+And why do we compare apples with bananas in the comment, 0-95 is line 0
+to line 95 and 32-127 is the decimal value for the ascii range.
+And what about explaining idem, what the hell does it point to?? - E.P.
+-->
+<hr noshade>
+
+<!-- ******************************************************************* -->
+<a name="messages"><b>error and other messages</b></a>
+<br>These are some messages which you might see and what to make of them.
+<br>&nbsp;
+<br><a name="build-9thcol"><b>9th column displayed incorrectly</b></a>
+	<br>- occurs during building a font
+	<br>- message sent by vga script
+	<br>&nbsp;
+	<br>Open one of the .sbf files containing the glyphs and look at the
+		 lines which show a picture of a character. You will count 16
+		 lines for the height and 9 dots for the width. We deal with a
+		 font here which is described as 8x16 font, with 8 referring to
+		 the width and 16 to the height. So the 8th and 9th column of
+		 the width are the ones of interest here.
+	<br>&nbsp;
+	<br>The video memory has space for 8 pixels (8 pixels = 1 byte).
+		 The normal VGA hardware has space for 9 pixels and this one is
+		 responsible how it will look like on the screen if all those
+		 pictures are finally put after eachother. You would for
+		 example expect letters to be separated by a little space so they
+		 are readable, but at the same time expect a box you create to
+		 have the lines as one piece and not interrupted by little spaces.
+	<br>&nbsp;
+	<br>So from the 8 pixels of the video memory the VGA driver has to
+		 make 9 pixels to bring everything correctly onto screen by either
+		 adding the 9th pixels as blanks or by repeating the 8th pixels.
+		 The "blankings" are in the graphics area (letter) and the
+		 "repeatings" are in the pseudographics area (box), just the other 
+		 way round you would assume from the word "graphic".
+		 BUT the pseudographics area is hardweired into your graphic card,
+		 and if we have a picture which would actually need to be here but
+		 is not, it will be treated like one of the graphic area and instead
+		 of repeat it will blank.
+	<br>&nbsp;
+	<br>Now the pictures in the glyph files have all 9 columns, they are
+		 allowed to have 9 although the video memory will only keep 8. So
+		 those pictures should give us the idea how the final result might
+		 look like. And the vga script will look at their 8th and 9th
+		 column to find out whether it is a letter, so it can put into
+		 the graphics area (remember the pseudographics was hardcoded).
+	<br>&nbsp;
+	<br>Knowing all this now, look at these lines and note how the last
+		 one will give a different result on screen than the glyph will
+		 make you believe (simply because 8th and 9th column are not
+		 equal. So having unequal things in column 8 and 9 in the glyph
+		 might be a reason for such a message.
+	<br>&nbsp;
+<pre>
+glyph says   video memory  VGA does  on screen    description
+        +-+          +-+                     +-+
+00...00.|.|  00...00.| |   . append  00...00.|.|  graphic (letter)
+        | |          | |                     | |
+...00000|0|  ...00000| |   0 repeat  ...00000|0|  pseudographic (box)
+        | |          | |                     | |
+.......0|0|  ........| |   0 repeat  .......0|0|  pseudographics
+.......0|.|  ........| |   0 repeat  .......0|0|  with different
+........|0|  ........| |   . repeat  ........|.|  8th/9th column
+        +-+          +-+                     +-+
+         ^----what----^---happens with the----^---9th pixel
+       ^--if the 8th pixel is treated according to this area--^
+</pre>
+<br><b>comment</b>
+<!--
+THIS is still speculation, I did not yet verify by building a test
+font. 
+-->
+<!-- ................................................................... -->
+	<br>If you run into this with the koi8-r and koi8-u fonts, the
+		 reason is a different one. With no locale specified running
+		 build.sh will announce 234 characters in the font for both files;
+		 but 8r has 7 of them and 8u has 3 of them displayed incorrectly.
+		 So the difference between 8r and 8u must eliminate 4 offending
+		 characters.
+	<br>&nbsp;
+	<br>Finding the difference is done simply with diff-ing their text
+		 source files. Generally spoken 8r has drawings and 8u replaces
+		 all drawings with letters. Now looking into the glyph files for
+		 all the drawings show that 4 of them will be recognized as
+		 pseudographics (8/9 being equally zero like box) and the other
+		 4 of them will be recognized as graphics (8/9 being equally dot,
+		 so letter).
+	<br>&nbsp;
+	<br>As we only deal with column 8/9 here, we can also say, 4 replace
+		 graphic with graphic, so there is no change; and 4 replace
+		 pseudographic with graphic and the offending ones are gone. So
+		 pseudographics (these are the drawings which continue straight
+		 to next one) will be displayed incorrectly (like normal letters).
+	<br>&nbsp;
+	<br>Now we have a look at the definition lines in whole and we see
+		 that all Unicode values are connected to the HEX values of the
+		 characters which are somehow between =Cx and =Dx. These belong
+		 to the iso range and are assumed to be letters and no drawings.
+	<br>&nbsp;
+</body>
+</html>

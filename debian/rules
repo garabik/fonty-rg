@@ -1,0 +1,78 @@
+#!/usr/bin/make -f
+# Sample debian/rules that uses debhelper.
+# GNU copyright 1997 to 1999 by Joey Hess.
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+configure: configure-stamp
+configure-stamp:
+	dh_testdir
+	# Add here commands to configure the package.
+	touch configure-stamp
+
+build: build-arch build-indep
+build-arch: build-stamp
+build-indep: build-stamp
+
+build-stamp:
+	dh_testdir
+	GZIP=-9n ./build.sh
+	touch build-stamp
+
+clean:
+	dh_testdir
+	dh_testroot
+	rm -f build-stamp configure-stamp
+
+	# Add here commands to clean up after the build process.
+	rm -f *.psf.gz *.acm.gz *.sbf.gz *.sbf
+
+	dh_clean
+
+install: build
+	dh_testdir
+	dh_testroot
+	dh_installdirs
+
+	# Add here commands to install the package into debian/fonty-rg.
+	#$(MAKE) install DESTDIR=$(CURDIR)/debian/fonty-rg
+	cp -v -f *psf.gz $(CURDIR)/debian/fonty-rg/usr/share/consolefonts
+	cp -v -f *acm.gz $(CURDIR)/debian/fonty-rg/usr/share/consoletrans
+	cp -v -f fallbacks/sameglyph.fallback $(CURDIR)/debian/fonty-rg/usr/share/consoletrans
+	cp -v -f fallbacks/rg.fallback $(CURDIR)/debian/fonty-rg/usr/share/consoletrans
+	cp -v -f iso utf8 $(CURDIR)/debian/fonty-rg/usr/bin
+
+
+# Build architecture-independent files here.
+binary-arch: build install
+# We have nothing to do by default.
+
+# Build architecture-dependent files here.
+binary-indep: build install
+	dh_testdir
+	dh_testroot
+#	dh_installdebconf
+	dh_installdocs
+	#dh_installexamples
+	#dh_installmenu
+#	dh_installlogrotate
+#	dh_installemacsen
+#	dh_installpam
+#	dh_installmime
+#	dh_installinit
+	dh_installman iso.1 utf8.1
+	dh_installchangelogs 
+	dh_link
+	dh_compress
+	dh_fixperms
+#	dh_makeshlibs
+	dh_installdeb
+#	dh_perl
+	dh_shlibdeps
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+binary: binary-indep binary-arch
+.PHONY: build clean binary-indep binary-arch binary install configure

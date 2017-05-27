@@ -1,0 +1,96 @@
+#!/usr/bin/perl
+
+# sbf2psf (c) Marcin Kowalczyk <qrczak@knm.org.pl>
+# This software is under GPL
+
+open PLIK, @ARGV ? shift : "-";
+open WYJSCIE, @ARGV ? ">".shift : ">-";
+
+while (! eof PLIK)
+{
+	$_ = <PLIK>; s/\s+$//;
+	last unless defined;
+	if (/^\[(.*)\]$/)
+	{
+		push @znaki, $1;
+	}
+	elsif (/^$/)
+	{
+		if (@znaki)
+		{
+			if (@znak)
+			{
+				if (@font)
+				{
+					die "Different character heights in line $.\n"
+						if @znak != $wysokosc
+				}
+				else
+				{
+					$wysokosc = @znak;
+				}
+				push @font,
+				{
+					ZNAKI => [@znaki],
+					ZNAK => [@znak],
+				};
+				@znak = ();
+			}
+			@znaki = ();
+		}
+	}
+	else
+	{
+		if (@znaki)
+		{
+			if (/^[.0]+$/)
+			{
+				@linia = split //;
+				die "Character width must be 8 or 9 in line $.\n"
+					if @linia != 8 && @linia != 9;
+				$linia = 0;
+				for (0 .. 7) {$linia <<= 1; $linia++ if $linia[$_] eq "0"}
+				push @znak, $linia;
+			}
+		}
+	}
+}
+
+if (@font == 0)
+{
+	die "No characters found\n";
+}
+if (@font <= 256)
+{
+	$typpsf = "\2";
+	$znakow = 256;
+}
+elsif (@font <= 512)
+{
+	$typpsf = "\3";
+	$znakow = 512;
+}
+else
+{
+	die "Too many characters (", scalar @font, " > 512)\n";
+}
+
+print WYJSCIE "6\4$typpsf", chr $wysokosc;
+
+foreach (@font)
+{
+	foreach (@{$$_{ZNAK}}) {print WYJSCIE chr $_}
+}
+
+print WYJSCIE "\0" x (($znakow - @font) * $wysokosc);
+
+foreach (@font)
+{
+	foreach (@{$$_{ZNAKI}})
+	{
+		s/^U\+// and print WYJSCIE pack "S", hex;
+	}
+	print WYJSCIE pack "s", -1;
+}
+
+print WYJSCIE +(pack "s", -1) x ($znakow - @font);

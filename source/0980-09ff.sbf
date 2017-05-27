@@ -1,0 +1,394 @@
+[U+0981]
+Name: BENGALI SIGN CANDRABINDU
+Category: Mn
+Combining-Class: 50
+
+[U+0982]
+Name: BENGALI SIGN ANUSVARA
+Category: Mc
+
+[U+0983]
+Name: BENGALI SIGN VISARGA
+Category: Mc
+
+[U+0985]
+Name: BENGALI LETTER A
+Category: Lo
+
+[U+0986]
+Name: BENGALI LETTER AA
+Category: Lo
+
+[U+0987]
+Name: BENGALI LETTER I
+Category: Lo
+
+[U+0988]
+Name: BENGALI LETTER II
+Category: Lo
+
+[U+0989]
+Name: BENGALI LETTER U
+Category: Lo
+
+[U+098A]
+Name: BENGALI LETTER UU
+Category: Lo
+
+[U+098B]
+Name: BENGALI LETTER VOCALIC R
+Category: Lo
+
+[U+098C]
+Name: BENGALI LETTER VOCALIC L
+Category: Lo
+
+[U+098F]
+Name: BENGALI LETTER E
+Category: Lo
+
+[U+0990]
+Name: BENGALI LETTER AI
+Category: Lo
+
+[U+0993]
+Name: BENGALI LETTER O
+Category: Lo
+
+[U+0994]
+Name: BENGALI LETTER AU
+Category: Lo
+
+[U+0995]
+Name: BENGALI LETTER KA
+Category: Lo
+
+[U+0996]
+Name: BENGALI LETTER KHA
+Category: Lo
+
+[U+0997]
+Name: BENGALI LETTER GA
+Category: Lo
+
+[U+0998]
+Name: BENGALI LETTER GHA
+Category: Lo
+
+[U+0999]
+Name: BENGALI LETTER NGA
+Category: Lo
+
+[U+099A]
+Name: BENGALI LETTER CA
+Category: Lo
+
+[U+099B]
+Name: BENGALI LETTER CHA
+Category: Lo
+
+[U+099C]
+Name: BENGALI LETTER JA
+Category: Lo
+
+[U+099D]
+Name: BENGALI LETTER JHA
+Category: Lo
+
+[U+099E]
+Name: BENGALI LETTER NYA
+Category: Lo
+
+[U+099F]
+Name: BENGALI LETTER TTA
+Category: Lo
+
+[U+09A0]
+Name: BENGALI LETTER TTHA
+Category: Lo
+
+[U+09A1]
+Name: BENGALI LETTER DDA
+Category: Lo
+
+[U+09A2]
+Name: BENGALI LETTER DDHA
+Category: Lo
+
+[U+09A3]
+Name: BENGALI LETTER NNA
+Category: Lo
+
+[U+09A4]
+Name: BENGALI LETTER TA
+Category: Lo
+
+[U+09A5]
+Name: BENGALI LETTER THA
+Category: Lo
+
+[U+09A6]
+Name: BENGALI LETTER DA
+Category: Lo
+
+[U+09A7]
+Name: BENGALI LETTER DHA
+Category: Lo
+
+[U+09A8]
+Name: BENGALI LETTER NA
+Category: Lo
+
+[U+09AA]
+Name: BENGALI LETTER PA
+Category: Lo
+
+[U+09AB]
+Name: BENGALI LETTER PHA
+Category: Lo
+
+[U+09AC]
+Name: BENGALI LETTER BA
+Category: Lo
+
+[U+09AD]
+Name: BENGALI LETTER BHA
+Category: Lo
+
+[U+09AE]
+Name: BENGALI LETTER MA
+Category: Lo
+
+[U+09AF]
+Name: BENGALI LETTER YA
+Category: Lo
+
+[U+09B0]
+Name: BENGALI LETTER RA
+Category: Lo
+Decomposition: 09AC 09BC
+[U+09AC+09BC]
+Name: BENGALI LETTER RA
+Category: Lo
+Decomposition: 09AC 09BC
+
+[U+09B2]
+Name: BENGALI LETTER LA
+Category: Lo
+
+[U+09B6]
+Name: BENGALI LETTER SHA
+Category: Lo
+
+[U+09B7]
+Name: BENGALI LETTER SSA
+Category: Lo
+
+[U+09B8]
+Name: BENGALI LETTER SA
+Category: Lo
+
+[U+09B9]
+Name: BENGALI LETTER HA
+Category: Lo
+
+[U+09BC]
+Name: BENGALI SIGN NUKTA
+Category: Mn
+Combining-Class: 7
+
+[U+09BE]
+Name: BENGALI VOWEL SIGN AA
+Category: Mc
+
+[U+09BF]
+Name: BENGALI VOWEL SIGN I
+Category: Mc
+
+[U+09C0]
+Name: BENGALI VOWEL SIGN II
+Category: Mc
+
+[U+09C1]
+Name: BENGALI VOWEL SIGN U
+Category: Mn
+Combining-Class: 51
+
+[U+09C2]
+Name: BENGALI VOWEL SIGN UU
+Category: Mn
+Combining-Class: 52
+
+[U+09C3]
+Name: BENGALI VOWEL SIGN VOCALIC R
+Category: Mn
+Combining-Class: 53
+
+[U+09C4]
+Name: BENGALI VOWEL SIGN VOCALIC RR
+Category: Mn
+Combining-Class: 54
+
+[U+09C7]
+Name: BENGALI VOWEL SIGN E
+Category: Mc
+
+[U+09C8]
+Name: BENGALI VOWEL SIGN AI
+Category: Mc
+
+[U+09CB]
+Name: BENGALI VOWEL SIGN O
+Category: Mc
+Decomposition: 09C7 09BE
+[U+09C7+09BE]
+Name: BENGALI VOWEL SIGN O
+Category: Mc
+Decomposition: 09C7 09BE
+
+[U+09CC]
+Name: BENGALI VOWEL SIGN AU
+Category: Mc
+Decomposition: 09C7 09D7
+[U+09C7+09D7]
+Name: BENGALI VOWEL SIGN AU
+Category: Mc
+Decomposition: 09C7 09D7
+
+[U+09CD]
+Name: BENGALI SIGN VIRAMA
+Category: Mn
+Combining-Class: 9
+
+[U+09D7]
+Name: BENGALI AU LENGTH MARK
+Category: Mc
+
+[U+09DC]
+Name: BENGALI LETTER RRA
+Category: Lo
+Decomposition: 09A1 09BC
+[U+09A1+09BC]
+Name: BENGALI LETTER RRA
+Category: Lo
+Decomposition: 09A1 09BC
+
+[U+09DD]
+Name: BENGALI LETTER RHA
+Category: Lo
+Decomposition: 09A2 09BC
+[U+09A2+09BC]
+Name: BENGALI LETTER RHA
+Category: Lo
+Decomposition: 09A2 09BC
+
+[U+09DF]
+Name: BENGALI LETTER YYA
+Category: Lo
+Decomposition: 09AF 09BC
+[U+09AF+09BC]
+Name: BENGALI LETTER YYA
+Category: Lo
+Decomposition: 09AF 09BC
+
+[U+09E0]
+Name: BENGALI LETTER VOCALIC RR
+Category: Lo
+
+[U+09E1]
+Name: BENGALI LETTER VOCALIC LL
+Category: Lo
+
+[U+09E2]
+Name: BENGALI VOWEL SIGN VOCALIC L
+Category: Mn
+Combining-Class: 55
+
+[U+09E3]
+Name: BENGALI VOWEL SIGN VOCALIC LL
+Category: Mn
+Combining-Class: 56
+
+[U+09E6]
+Name: BENGALI DIGIT ZERO
+Category: Nd
+
+[U+09E7]
+Name: BENGALI DIGIT ONE
+Category: Nd
+
+[U+09E8]
+Name: BENGALI DIGIT TWO
+Category: Nd
+
+[U+09E9]
+Name: BENGALI DIGIT THREE
+Category: Nd
+
+[U+09EA]
+Name: BENGALI DIGIT FOUR
+Category: Nd
+
+[U+09EB]
+Name: BENGALI DIGIT FIVE
+Category: Nd
+
+[U+09EC]
+Name: BENGALI DIGIT SIX
+Category: Nd
+
+[U+09ED]
+Name: BENGALI DIGIT SEVEN
+Category: Nd
+
+[U+09EE]
+Name: BENGALI DIGIT EIGHT
+Category: Nd
+
+[U+09EF]
+Name: BENGALI DIGIT NINE
+Category: Nd
+
+[U+09F0]
+Name: BENGALI LETTER RA WITH MIDDLE DIAGONAL
+Category: Lo
+
+[U+09F1]
+Name: BENGALI LETTER RA WITH LOWER DIAGONAL
+Category: Lo
+
+[U+09F2]
+Name: BENGALI RUPEE MARK
+Category: Sc
+
+[U+09F3]
+Name: BENGALI RUPEE SIGN
+Category: Sc
+
+[U+09F4]
+Name: BENGALI CURRENCY NUMERATOR ONE
+Category: No
+
+[U+09F5]
+Name: BENGALI CURRENCY NUMERATOR TWO
+Category: No
+
+[U+09F6]
+Name: BENGALI CURRENCY NUMERATOR THREE
+Category: No
+
+[U+09F7]
+Name: BENGALI CURRENCY NUMERATOR FOUR
+Category: No
+
+[U+09F8]
+Name: BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR
+Category: No
+
+[U+09F9]
+Name: BENGALI CURRENCY DENOMINATOR SIXTEEN
+Category: No
+
+[U+09FA]
+Name: BENGALI ISSHAR
+Category: So

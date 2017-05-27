@@ -1,0 +1,4260 @@
+[U+3000]
+Name: IDEOGRAPHIC SPACE
+Category: Zs
+Decomposition: <wide> 0020
+
+[U+3001]
+Name: IDEOGRAPHIC COMMA
+Category: Po
+
+[U+3002]
+Name: IDEOGRAPHIC FULL STOP
+Category: Po
+
+[U+3003]
+Name: DITTO MARK
+Category: Po
+
+[U+3004]
+Name: JAPANESE INDUSTRIAL STANDARD SYMBOL
+Category: So
+
+[U+3005]
+Name: IDEOGRAPHIC ITERATION MARK
+Category: Lm
+
+[U+3006]
+Name: IDEOGRAPHIC CLOSING MARK
+Category: Po
+
+[U+3007]
+Name: IDEOGRAPHIC NUMBER ZERO
+Category: Nl
+
+[U+300A]
+Name: LEFT DOUBLE ANGLE BRACKET
+Category: Ps
+
+[U+300B]
+Name: RIGHT DOUBLE ANGLE BRACKET
+Category: Pe
+
+[U+300C]
+Name: LEFT CORNER BRACKET
+Category: Ps
+
+[U+300D]
+Name: RIGHT CORNER BRACKET
+Category: Pe
+
+[U+300E]
+Name: LEFT WHITE CORNER BRACKET
+Category: Ps
+
+[U+300F]
+Name: RIGHT WHITE CORNER BRACKET
+Category: Pe
+
+[U+3010]
+Name: LEFT BLACK LENTICULAR BRACKET
+Category: Ps
+
+[U+3011]
+Name: RIGHT BLACK LENTICULAR BRACKET
+Category: Pe
+
+[U+3012]
+Name: POSTAL MARK
+Category: So
+
+[U+3013]
+Name: GETA MARK
+Category: So
+
+[U+3014]
+Name: LEFT TORTOISE SHELL BRACKET
+Category: Ps
+
+[U+3015]
+Name: RIGHT TORTOISE SHELL BRACKET
+Category: Pe
+
+[U+3016]
+Name: LEFT WHITE LENTICULAR BRACKET
+Category: Ps
+
+[U+3017]
+Name: RIGHT WHITE LENTICULAR BRACKET
+Category: Pe
+
+[U+3018]
+Name: LEFT WHITE TORTOISE SHELL BRACKET
+Category: Ps
+
+[U+3019]
+Name: RIGHT WHITE TORTOISE SHELL BRACKET
+Category: Pe
+
+[U+301A]
+Name: LEFT WHITE SQUARE BRACKET
+Category: Ps
+
+[U+301B]
+Name: RIGHT WHITE SQUARE BRACKET
+Category: Pe
+
+[U+301C]
+Name: WAVE DASH
+Category: Pd
+
+[U+301D]
+Name: REVERSED DOUBLE PRIME QUOTATION MARK
+Category: Ps
+
+[U+301E]
+Name: DOUBLE PRIME QUOTATION MARK
+Category: Pe
+
+[U+301F]
+Name: LOW DOUBLE PRIME QUOTATION MARK
+Category: Pe
+
+[U+3020]
+Name: POSTAL MARK FACE
+Category: So
+
+[U+3021]
+Name: HANGZHOU NUMERAL ONE
+Category: Nl
+
+[U+3022]
+Name: HANGZHOU NUMERAL TWO
+Category: Nl
+
+[U+3023]
+Name: HANGZHOU NUMERAL THREE
+Category: Nl
+
+[U+3024]
+Name: HANGZHOU NUMERAL FOUR
+Category: Nl
+
+[U+3025]
+Name: HANGZHOU NUMERAL FIVE
+Category: Nl
+
+[U+3026]
+Name: HANGZHOU NUMERAL SIX
+Category: Nl
+
+[U+3027]
+Name: HANGZHOU NUMERAL SEVEN
+Category: Nl
+
+[U+3028]
+Name: HANGZHOU NUMERAL EIGHT
+Category: Nl
+
+[U+3029]
+Name: HANGZHOU NUMERAL NINE
+Category: Nl
+
+[U+302A]
+Name: IDEOGRAPHIC LEVEL TONE MARK
+Category: Mn
+Combining-Class: 218
+
+[U+302B]
+Name: IDEOGRAPHIC RISING TONE MARK
+Category: Mn
+Combining-Class: 228
+
+[U+302C]
+Name: IDEOGRAPHIC DEPARTING TONE MARK
+Category: Mn
+Combining-Class: 232
+
+[U+302D]
+Name: IDEOGRAPHIC ENTERING TONE MARK
+Category: Mn
+Combining-Class: 222
+
+[U+302E]
+Name: HANGUL SINGLE DOT TONE MARK
+Category: Mn
+Combining-Class: 224
+
+[U+302F]
+Name: HANGUL DOUBLE DOT TONE MARK
+Category: Mn
+Combining-Class: 224
+
+[U+3030]
+Name: WAVY DASH
+Category: Pd
+
+[U+3031]
+Name: VERTICAL KANA REPEAT MARK
+Category: Lm
+
+[U+3032]
+Name: VERTICAL KANA REPEAT WITH VOICED SOUND MARK
+Category: Lm
+
+[U+3033]
+Name: VERTICAL KANA REPEAT MARK UPPER HALF
+Category: Lm
+
+[U+3034]
+Name: VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF
+Category: Lm
+
+[U+3035]
+Name: VERTICAL KANA REPEAT MARK LOWER HALF
+Category: Lm
+
+[U+3036]
+Name: CIRCLED POSTAL MARK
+Category: So
+Decomposition: <compat> 3012
+
+[U+3037]
+Name: IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL
+Category: So
+
+[U+303F]
+Name: IDEOGRAPHIC HALF FILL SPACE
+Category: So
+
+[U+3041]
+Name: HIRAGANA LETTER SMALL A
+Category: Lo
+
+[U+3042]
+Name: HIRAGANA LETTER A
+Category: Lo
+
+[U+3043]
+Name: HIRAGANA LETTER SMALL I
+Category: Lo
+
+[U+3044]
+Name: HIRAGANA LETTER I
+Category: Lo
+
+[U+3045]
+Name: HIRAGANA LETTER SMALL U
+Category: Lo
+
+[U+3046]
+Name: HIRAGANA LETTER U
+Category: Lo
+
+[U+3047]
+Name: HIRAGANA LETTER SMALL E
+Category: Lo
+
+[U+3048]
+Name: HIRAGANA LETTER E
+Category: Lo
+
+[U+3049]
+Name: HIRAGANA LETTER SMALL O
+Category: Lo
+
+[U+304A]
+Name: HIRAGANA LETTER O
+Category: Lo
+
+[U+304B]
+Name: HIRAGANA LETTER KA
+Category: Lo
+
+[U+304C]
+Name: HIRAGANA LETTER GA
+Category: Lo
+Decomposition: 304B 3099
+[U+304B+3099]
+Name: HIRAGANA LETTER GA
+Category: Lo
+Decomposition: 304B 3099
+
+[U+304D]
+Name: HIRAGANA LETTER KI
+Category: Lo
+
+[U+304E]
+Name: HIRAGANA LETTER GI
+Category: Lo
+Decomposition: 304D 3099
+[U+304D+3099]
+Name: HIRAGANA LETTER GI
+Category: Lo
+Decomposition: 304D 3099
+
+[U+304F]
+Name: HIRAGANA LETTER KU
+Category: Lo
+
+[U+3050]
+Name: HIRAGANA LETTER GU
+Category: Lo
+Decomposition: 304F 3099
+[U+304F+3099]
+Name: HIRAGANA LETTER GU
+Category: Lo
+Decomposition: 304F 3099
+
+[U+3051]
+Name: HIRAGANA LETTER KE
+Category: Lo
+
+[U+3052]
+Name: HIRAGANA LETTER GE
+Category: Lo
+Decomposition: 3051 3099
+[U+3051+3099]
+Name: HIRAGANA LETTER GE
+Category: Lo
+Decomposition: 3051 3099
+
+[U+3053]
+Name: HIRAGANA LETTER KO
+Category: Lo
+
+[U+3054]
+Name: HIRAGANA LETTER GO
+Category: Lo
+Decomposition: 3053 3099
+[U+3053+3099]
+Name: HIRAGANA LETTER GO
+Category: Lo
+Decomposition: 3053 3099
+
+[U+3055]
+Name: HIRAGANA LETTER SA
+Category: Lo
+
+[U+3056]
+Name: HIRAGANA LETTER ZA
+Category: Lo
+Decomposition: 3055 3099
+[U+3055+3099]
+Name: HIRAGANA LETTER ZA
+Category: Lo
+Decomposition: 3055 3099
+
+[U+3057]
+Name: HIRAGANA LETTER SI
+Category: Lo
+
+[U+3058]
+Name: HIRAGANA LETTER ZI
+Category: Lo
+Decomposition: 3057 3099
+[U+3057+3099]
+Name: HIRAGANA LETTER ZI
+Category: Lo
+Decomposition: 3057 3099
+
+[U+3059]
+Name: HIRAGANA LETTER SU
+Category: Lo
+
+[U+305A]
+Name: HIRAGANA LETTER ZU
+Category: Lo
+Decomposition: 3059 3099
+[U+3059+3099]
+Name: HIRAGANA LETTER ZU
+Category: Lo
+Decomposition: 3059 3099
+
+[U+305B]
+Name: HIRAGANA LETTER SE
+Category: Lo
+
+[U+305C]
+Name: HIRAGANA LETTER ZE
+Category: Lo
+Decomposition: 305B 3099
+[U+305B+3099]
+Name: HIRAGANA LETTER ZE
+Category: Lo
+Decomposition: 305B 3099
+
+[U+305D]
+Name: HIRAGANA LETTER SO
+Category: Lo
+
+[U+305E]
+Name: HIRAGANA LETTER ZO
+Category: Lo
+Decomposition: 305D 3099
+[U+305D+3099]
+Name: HIRAGANA LETTER ZO
+Category: Lo
+Decomposition: 305D 3099
+
+[U+305F]
+Name: HIRAGANA LETTER TA
+Category: Lo
+
+[U+3060]
+Name: HIRAGANA LETTER DA
+Category: Lo
+Decomposition: 305F 3099
+[U+305F+3099]
+Name: HIRAGANA LETTER DA
+Category: Lo
+Decomposition: 305F 3099
+
+[U+3061]
+Name: HIRAGANA LETTER TI
+Category: Lo
+
+[U+3062]
+Name: HIRAGANA LETTER DI
+Category: Lo
+Decomposition: 3061 3099
+[U+3061+3099]
+Name: HIRAGANA LETTER DI
+Category: Lo
+Decomposition: 3061 3099
+
+[U+3063]
+Name: HIRAGANA LETTER SMALL TU
+Category: Lo
+
+[U+3064]
+Name: HIRAGANA LETTER TU
+Category: Lo
+
+[U+3065]
+Name: HIRAGANA LETTER DU
+Category: Lo
+Decomposition: 3064 3099
+[U+3064+3099]
+Name: HIRAGANA LETTER DU
+Category: Lo
+Decomposition: 3064 3099
+
+[U+3066]
+Name: HIRAGANA LETTER TE
+Category: Lo
+
+[U+3067]
+Name: HIRAGANA LETTER DE
+Category: Lo
+Decomposition: 3066 3099
+[U+3066+3099]
+Name: HIRAGANA LETTER DE
+Category: Lo
+Decomposition: 3066 3099
+
+[U+3068]
+Name: HIRAGANA LETTER TO
+Category: Lo
+
+[U+3069]
+Name: HIRAGANA LETTER DO
+Category: Lo
+Decomposition: 3068 3099
+[U+3068+3099]
+Name: HIRAGANA LETTER DO
+Category: Lo
+Decomposition: 3068 3099
+
+[U+306A]
+Name: HIRAGANA LETTER NA
+Category: Lo
+
+[U+306B]
+Name: HIRAGANA LETTER NI
+Category: Lo
+
+[U+306C]
+Name: HIRAGANA LETTER NU
+Category: Lo
+
+[U+306D]
+Name: HIRAGANA LETTER NE
+Category: Lo
+
+[U+306E]
+Name: HIRAGANA LETTER NO
+Category: Lo
+
+[U+306F]
+Name: HIRAGANA LETTER HA
+Category: Lo
+
+[U+3070]
+Name: HIRAGANA LETTER BA
+Category: Lo
+Decomposition: 306F 3099
+[U+306F+3099]
+Name: HIRAGANA LETTER BA
+Category: Lo
+Decomposition: 306F 3099
+
+[U+3071]
+Name: HIRAGANA LETTER PA
+Category: Lo
+Decomposition: 306F 309A
+[U+306F+309A]
+Name: HIRAGANA LETTER PA
+Category: Lo
+Decomposition: 306F 309A
+
+[U+3072]
+Name: HIRAGANA LETTER HI
+Category: Lo
+
+[U+3073]
+Name: HIRAGANA LETTER BI
+Category: Lo
+Decomposition: 3072 3099
+[U+3072+3099]
+Name: HIRAGANA LETTER BI
+Category: Lo
+Decomposition: 3072 3099
+
+[U+3074]
+Name: HIRAGANA LETTER PI
+Category: Lo
+Decomposition: 3072 309A
+[U+3072+309A]
+Name: HIRAGANA LETTER PI
+Category: Lo
+Decomposition: 3072 309A
+
+[U+3075]
+Name: HIRAGANA LETTER HU
+Category: Lo
+
+[U+3076]
+Name: HIRAGANA LETTER BU
+Category: Lo
+Decomposition: 3075 3099
+[U+3075+3099]
+Name: HIRAGANA LETTER BU
+Category: Lo
+Decomposition: 3075 3099
+
+[U+3077]
+Name: HIRAGANA LETTER PU
+Category: Lo
+Decomposition: 3075 309A
+[U+3075+309A]
+Name: HIRAGANA LETTER PU
+Category: Lo
+Decomposition: 3075 309A
+
+[U+3078]
+Name: HIRAGANA LETTER HE
+Category: Lo
+
+[U+3079]
+Name: HIRAGANA LETTER BE
+Category: Lo
+Decomposition: 3078 3099
+[U+3078+3099]
+Name: HIRAGANA LETTER BE
+Category: Lo
+Decomposition: 3078 3099
+
+[U+307A]
+Name: HIRAGANA LETTER PE
+Category: Lo
+Decomposition: 3078 309A
+[U+3078+309A]
+Name: HIRAGANA LETTER PE
+Category: Lo
+Decomposition: 3078 309A
+
+[U+307B]
+Name: HIRAGANA LETTER HO
+Category: Lo
+
+[U+307C]
+Name: HIRAGANA LETTER BO
+Category: Lo
+Decomposition: 307B 3099
+[U+307B+3099]
+Name: HIRAGANA LETTER BO
+Category: Lo
+Decomposition: 307B 3099
+
+[U+307D]
+Name: HIRAGANA LETTER PO
+Category: Lo
+Decomposition: 307B 309A
+[U+307B+309A]
+Name: HIRAGANA LETTER PO
+Category: Lo
+Decomposition: 307B 309A
+
+[U+307E]
+Name: HIRAGANA LETTER MA
+Category: Lo
+
+[U+307F]
+Name: HIRAGANA LETTER MI
+Category: Lo
+
+[U+3080]
+Name: HIRAGANA LETTER MU
+Category: Lo
+
+[U+3081]
+Name: HIRAGANA LETTER ME
+Category: Lo
+
+[U+3082]
+Name: HIRAGANA LETTER MO
+Category: Lo
+
+[U+3083]
+Name: HIRAGANA LETTER SMALL YA
+Category: Lo
+
+[U+3084]
+Name: HIRAGANA LETTER YA
+Category: Lo
+
+[U+3085]
+Name: HIRAGANA LETTER SMALL YU
+Category: Lo
+
+[U+3086]
+Name: HIRAGANA LETTER YU
+Category: Lo
+
+[U+3087]
+Name: HIRAGANA LETTER SMALL YO
+Category: Lo
+
+[U+3088]
+Name: HIRAGANA LETTER YO
+Category: Lo
+
+[U+3089]
+Name: HIRAGANA LETTER RA
+Category: Lo
+
+[U+308A]
+Name: HIRAGANA LETTER RI
+Category: Lo
+
+[U+308B]
+Name: HIRAGANA LETTER RU
+Category: Lo
+
+[U+308C]
+Name: HIRAGANA LETTER RE
+Category: Lo
+
+[U+308D]
+Name: HIRAGANA LETTER RO
+Category: Lo
+
+[U+308E]
+Name: HIRAGANA LETTER SMALL WA
+Category: Lo
+
+[U+308F]
+Name: HIRAGANA LETTER WA
+Category: Lo
+
+[U+3090]
+Name: HIRAGANA LETTER WI
+Category: Lo
+
+[U+3091]
+Name: HIRAGANA LETTER WE
+Category: Lo
+
+[U+3092]
+Name: HIRAGANA LETTER WO
+Category: Lo
+
+[U+3093]
+Name: HIRAGANA LETTER N
+Category: Lo
+
+[U+3094]
+Name: HIRAGANA LETTER VU
+Category: Lo
+Decomposition: 3046 3099
+[U+3046+3099]
+Name: HIRAGANA LETTER VU
+Category: Lo
+Decomposition: 3046 3099
+
+[U+3099]
+Name: COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK
+Category: Mn
+Combining-Class: 8
+
+[U+309A]
+Name: COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK
+Category: Mn
+Combining-Class: 8
+
+[U+309B]
+Name: KATAKANA-HIRAGANA VOICED SOUND MARK
+Category: Lm
+Decomposition: <compat> 0020 3099
+
+[U+309C]
+Name: KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK
+Category: Lm
+Decomposition: <compat> 0020 309A
+
+[U+309D]
+Name: HIRAGANA ITERATION MARK
+Category: Lm
+
+[U+309E]
+Name: HIRAGANA VOICED ITERATION MARK
+Category: Lm
+Decomposition: 309D 3099
+[U+309D+3099]
+Name: HIRAGANA VOICED ITERATION MARK
+Category: Lm
+Decomposition: 309D 3099
+
+[U+30A1]
+Name: KATAKANA LETTER SMALL A
+Category: Lo
+
+[U+30A2]
+Name: KATAKANA LETTER A
+Category: Lo
+
+[U+30A3]
+Name: KATAKANA LETTER SMALL I
+Category: Lo
+
+[U+30A4]
+Name: KATAKANA LETTER I
+Category: Lo
+
+[U+30A5]
+Name: KATAKANA LETTER SMALL U
+Category: Lo
+
+[U+30A6]
+Name: KATAKANA LETTER U
+Category: Lo
+
+[U+30A7]
+Name: KATAKANA LETTER SMALL E
+Category: Lo
+
+[U+30A8]
+Name: KATAKANA LETTER E
+Category: Lo
+
+[U+30A9]
+Name: KATAKANA LETTER SMALL O
+Category: Lo
+
+[U+30AA]
+Name: KATAKANA LETTER O
+Category: Lo
+
+[U+30AB]
+Name: KATAKANA LETTER KA
+Category: Lo
+
+[U+30AC]
+Name: KATAKANA LETTER GA
+Category: Lo
+Decomposition: 30AB 3099
+[U+30AB+3099]
+Name: KATAKANA LETTER GA
+Category: Lo
+Decomposition: 30AB 3099
+
+[U+30AD]
+Name: KATAKANA LETTER KI
+Category: Lo
+
+[U+30AE]
+Name: KATAKANA LETTER GI
+Category: Lo
+Decomposition: 30AD 3099
+[U+30AD+3099]
+Name: KATAKANA LETTER GI
+Category: Lo
+Decomposition: 30AD 3099
+
+[U+30AF]
+Name: KATAKANA LETTER KU
+Category: Lo
+
+[U+30B0]
+Name: KATAKANA LETTER GU
+Category: Lo
+Decomposition: 30AF 3099
+[U+30AF+3099]
+Name: KATAKANA LETTER GU
+Category: Lo
+Decomposition: 30AF 3099
+
+[U+30B1]
+Name: KATAKANA LETTER KE
+Category: Lo
+
+[U+30B2]
+Name: KATAKANA LETTER GE
+Category: Lo
+Decomposition: 30B1 3099
+[U+30B1+3099]
+Name: KATAKANA LETTER GE
+Category: Lo
+Decomposition: 30B1 3099
+
+[U+30B3]
+Name: KATAKANA LETTER KO
+Category: Lo
+
+[U+30B4]
+Name: KATAKANA LETTER GO
+Category: Lo
+Decomposition: 30B3 3099
+[U+30B3+3099]
+Name: KATAKANA LETTER GO
+Category: Lo
+Decomposition: 30B3 3099
+
+[U+30B5]
+Name: KATAKANA LETTER SA
+Category: Lo
+
+[U+30B6]
+Name: KATAKANA LETTER ZA
+Category: Lo
+Decomposition: 30B5 3099
+[U+30B5+3099]
+Name: KATAKANA LETTER ZA
+Category: Lo
+Decomposition: 30B5 3099
+
+[U+30B7]
+Name: KATAKANA LETTER SI
+Category: Lo
+
+[U+30B8]
+Name: KATAKANA LETTER ZI
+Category: Lo
+Decomposition: 30B7 3099
+[U+30B7+3099]
+Name: KATAKANA LETTER ZI
+Category: Lo
+Decomposition: 30B7 3099
+
+[U+30B9]
+Name: KATAKANA LETTER SU
+Category: Lo
+
+[U+30BA]
+Name: KATAKANA LETTER ZU
+Category: Lo
+Decomposition: 30B9 3099
+[U+30B9+3099]
+Name: KATAKANA LETTER ZU
+Category: Lo
+Decomposition: 30B9 3099
+
+[U+30BB]
+Name: KATAKANA LETTER SE
+Category: Lo
+
+[U+30BC]
+Name: KATAKANA LETTER ZE
+Category: Lo
+Decomposition: 30BB 3099
+[U+30BB+3099]
+Name: KATAKANA LETTER ZE
+Category: Lo
+Decomposition: 30BB 3099
+
+[U+30BD]
+Name: KATAKANA LETTER SO
+Category: Lo
+
+[U+30BE]
+Name: KATAKANA LETTER ZO
+Category: Lo
+Decomposition: 30BD 3099
+[U+30BD+3099]
+Name: KATAKANA LETTER ZO
+Category: Lo
+Decomposition: 30BD 3099
+
+[U+30BF]
+Name: KATAKANA LETTER TA
+Category: Lo
+
+[U+30C0]
+Name: KATAKANA LETTER DA
+Category: Lo
+Decomposition: 30BF 3099
+[U+30BF+3099]
+Name: KATAKANA LETTER DA
+Category: Lo
+Decomposition: 30BF 3099
+
+[U+30C1]
+Name: KATAKANA LETTER TI
+Category: Lo
+
+[U+30C2]
+Name: KATAKANA LETTER DI
+Category: Lo
+Decomposition: 30C1 3099
+[U+30C1+3099]
+Name: KATAKANA LETTER DI
+Category: Lo
+Decomposition: 30C1 3099
+
+[U+30C3]
+Name: KATAKANA LETTER SMALL TU
+Category: Lo
+
+[U+30C4]
+Name: KATAKANA LETTER TU
+Category: Lo
+
+[U+30C5]
+Name: KATAKANA LETTER DU
+Category: Lo
+Decomposition: 30C4 3099
+[U+30C4+3099]
+Name: KATAKANA LETTER DU
+Category: Lo
+Decomposition: 30C4 3099
+
+[U+30C6]
+Name: KATAKANA LETTER TE
+Category: Lo
+
+[U+30C7]
+Name: KATAKANA LETTER DE
+Category: Lo
+Decomposition: 30C6 3099
+[U+30C6+3099]
+Name: KATAKANA LETTER DE
+Category: Lo
+Decomposition: 30C6 3099
+
+[U+30C8]
+Name: KATAKANA LETTER TO
+Category: Lo
+
+[U+30C9]
+Name: KATAKANA LETTER DO
+Category: Lo
+Decomposition: 30C8 3099
+[U+30C8+3099]
+Name: KATAKANA LETTER DO
+Category: Lo
+Decomposition: 30C8 3099
+
+[U+30CA]
+Name: KATAKANA LETTER NA
+Category: Lo
+
+[U+30CB]
+Name: KATAKANA LETTER NI
+Category: Lo
+
+[U+30CC]
+Name: KATAKANA LETTER NU
+Category: Lo
+
+[U+30CD]
+Name: KATAKANA LETTER NE
+Category: Lo
+
+[U+30CE]
+Name: KATAKANA LETTER NO
+Category: Lo
+
+[U+30CF]
+Name: KATAKANA LETTER HA
+Category: Lo
+
+[U+30D0]
+Name: KATAKANA LETTER BA
+Category: Lo
+Decomposition: 30CF 3099
+[U+30CF+3099]
+Name: KATAKANA LETTER BA
+Category: Lo
+Decomposition: 30CF 3099
+
+[U+30D1]
+Name: KATAKANA LETTER PA
+Category: Lo
+Decomposition: 30CF 309A
+[U+30CF+309A]
+Name: KATAKANA LETTER PA
+Category: Lo
+Decomposition: 30CF 309A
+
+[U+30D2]
+Name: KATAKANA LETTER HI
+Category: Lo
+
+[U+30D3]
+Name: KATAKANA LETTER BI
+Category: Lo
+Decomposition: 30D2 3099
+[U+30D2+3099]
+Name: KATAKANA LETTER BI
+Category: Lo
+Decomposition: 30D2 3099
+
+[U+30D4]
+Name: KATAKANA LETTER PI
+Category: Lo
+Decomposition: 30D2 309A
+[U+30D2+309A]
+Name: KATAKANA LETTER PI
+Category: Lo
+Decomposition: 30D2 309A
+
+[U+30D5]
+Name: KATAKANA LETTER HU
+Category: Lo
+
+[U+30D6]
+Name: KATAKANA LETTER BU
+Category: Lo
+Decomposition: 30D5 3099
+[U+30D5+3099]
+Name: KATAKANA LETTER BU
+Category: Lo
+Decomposition: 30D5 3099
+
+[U+30D7]
+Name: KATAKANA LETTER PU
+Category: Lo
+Decomposition: 30D5 309A
+[U+30D5+309A]
+Name: KATAKANA LETTER PU
+Category: Lo
+Decomposition: 30D5 309A
+
+[U+30D8]
+Name: KATAKANA LETTER HE
+Category: Lo
+
+[U+30D9]
+Name: KATAKANA LETTER BE
+Category: Lo
+Decomposition: 30D8 3099
+[U+30D8+3099]
+Name: KATAKANA LETTER BE
+Category: Lo
+Decomposition: 30D8 3099
+
+[U+30DA]
+Name: KATAKANA LETTER PE
+Category: Lo
+Decomposition: 30D8 309A
+[U+30D8+309A]
+Name: KATAKANA LETTER PE
+Category: Lo
+Decomposition: 30D8 309A
+
+[U+30DB]
+Name: KATAKANA LETTER HO
+Category: Lo
+
+[U+30DC]
+Name: KATAKANA LETTER BO
+Category: Lo
+Decomposition: 30DB 3099
+[U+30DB+3099]
+Name: KATAKANA LETTER BO
+Category: Lo
+Decomposition: 30DB 3099
+
+[U+30DD]
+Name: KATAKANA LETTER PO
+Category: Lo
+Decomposition: 30DB 309A
+[U+30DB+309A]
+Name: KATAKANA LETTER PO
+Category: Lo
+Decomposition: 30DB 309A
+
+[U+30DE]
+Name: KATAKANA LETTER MA
+Category: Lo
+
+[U+30DF]
+Name: KATAKANA LETTER MI
+Category: Lo
+
+[U+30E0]
+Name: KATAKANA LETTER MU
+Category: Lo
+
+[U+30E1]
+Name: KATAKANA LETTER ME
+Category: Lo
+
+[U+30E2]
+Name: KATAKANA LETTER MO
+Category: Lo
+
+[U+30E3]
+Name: KATAKANA LETTER SMALL YA
+Category: Lo
+
+[U+30E4]
+Name: KATAKANA LETTER YA
+Category: Lo
+
+[U+30E5]
+Name: KATAKANA LETTER SMALL YU
+Category: Lo
+
+[U+30E6]
+Name: KATAKANA LETTER YU
+Category: Lo
+
+[U+30E7]
+Name: KATAKANA LETTER SMALL YO
+Category: Lo
+
+[U+30E8]
+Name: KATAKANA LETTER YO
+Category: Lo
+
+[U+30E9]
+Name: KATAKANA LETTER RA
+Category: Lo
+
+[U+30EA]
+Name: KATAKANA LETTER RI
+Category: Lo
+
+[U+30EB]
+Name: KATAKANA LETTER RU
+Category: Lo
+
+[U+30EC]
+Name: KATAKANA LETTER RE
+Category: Lo
+
+[U+30ED]
+Name: KATAKANA LETTER RO
+Category: Lo
+
+[U+30EE]
+Name: KATAKANA LETTER SMALL WA
+Category: Lo
+
+[U+30EF]
+Name: KATAKANA LETTER WA
+Category: Lo
+
+[U+30F0]
+Name: KATAKANA LETTER WI
+Category: Lo
+
+[U+30F1]
+Name: KATAKANA LETTER WE
+Category: Lo
+
+[U+30F2]
+Name: KATAKANA LETTER WO
+Category: Lo
+
+[U+30F3]
+Name: KATAKANA LETTER N
+Category: Lo
+
+[U+30F4]
+Name: KATAKANA LETTER VU
+Category: Lo
+Decomposition: 30A6 3099
+[U+30A6+3099]
+Name: KATAKANA LETTER VU
+Category: Lo
+Decomposition: 30A6 3099
+
+[U+30F5]
+Name: KATAKANA LETTER SMALL KA
+Category: Lo
+
+[U+30F6]
+Name: KATAKANA LETTER SMALL KE
+Category: Lo
+
+[U+30F7]
+Name: KATAKANA LETTER VA
+Category: Lo
+Decomposition: 30EF 3099
+[U+30EF+3099]
+Name: KATAKANA LETTER VA
+Category: Lo
+Decomposition: 30EF 3099
+
+[U+30F8]
+Name: KATAKANA LETTER VI
+Category: Lo
+Decomposition: 30F0 3099
+[U+30F0+3099]
+Name: KATAKANA LETTER VI
+Category: Lo
+Decomposition: 30F0 3099
+
+[U+30F9]
+Name: KATAKANA LETTER VE
+Category: Lo
+Decomposition: 30F1 3099
+[U+30F1+3099]
+Name: KATAKANA LETTER VE
+Category: Lo
+Decomposition: 30F1 3099
+
+[U+30FA]
+Name: KATAKANA LETTER VO
+Category: Lo
+Decomposition: 30F2 3099
+[U+30F2+3099]
+Name: KATAKANA LETTER VO
+Category: Lo
+Decomposition: 30F2 3099
+
+[U+30FB]
+Name: KATAKANA MIDDLE DOT
+Category: Po
+
+[U+30FC]
+Name: KATAKANA-HIRAGANA PROLONGED SOUND MARK
+Category: Lm
+
+[U+30FD]
+Name: KATAKANA ITERATION MARK
+Category: Lm
+
+[U+30FE]
+Name: KATAKANA VOICED ITERATION MARK
+Category: Lm
+Decomposition: 30FD 3099
+[U+30FD+3099]
+Name: KATAKANA VOICED ITERATION MARK
+Category: Lm
+Decomposition: 30FD 3099
+
+[U+3105]
+Name: BOPOMOFO LETTER B
+Category: Lo
+
+[U+3106]
+Name: BOPOMOFO LETTER P
+Category: Lo
+
+[U+3107]
+Name: BOPOMOFO LETTER M
+Category: Lo
+
+[U+3108]
+Name: BOPOMOFO LETTER F
+Category: Lo
+
+[U+3109]
+Name: BOPOMOFO LETTER D
+Category: Lo
+
+[U+310A]
+Name: BOPOMOFO LETTER T
+Category: Lo
+
+[U+310B]
+Name: BOPOMOFO LETTER N
+Category: Lo
+
+[U+310C]
+Name: BOPOMOFO LETTER L
+Category: Lo
+
+[U+310D]
+Name: BOPOMOFO LETTER G
+Category: Lo
+
+[U+310E]
+Name: BOPOMOFO LETTER K
+Category: Lo
+
+[U+310F]
+Name: BOPOMOFO LETTER H
+Category: Lo
+
+[U+3110]
+Name: BOPOMOFO LETTER J
+Category: Lo
+
+[U+3111]
+Name: BOPOMOFO LETTER Q
+Category: Lo
+
+[U+3112]
+Name: BOPOMOFO LETTER X
+Category: Lo
+
+[U+3113]
+Name: BOPOMOFO LETTER ZH
+Category: Lo
+
+[U+3114]
+Name: BOPOMOFO LETTER CH
+Category: Lo
+
+[U+3115]
+Name: BOPOMOFO LETTER SH
+Category: Lo
+
+[U+3116]
+Name: BOPOMOFO LETTER R
+Category: Lo
+
+[U+3117]
+Name: BOPOMOFO LETTER Z
+Category: Lo
+
+[U+3118]
+Name: BOPOMOFO LETTER C
+Category: Lo
+
+[U+3119]
+Name: BOPOMOFO LETTER S
+Category: Lo
+
+[U+311A]
+Name: BOPOMOFO LETTER A
+Category: Lo
+
+[U+311B]
+Name: BOPOMOFO LETTER O
+Category: Lo
+
+[U+311C]
+Name: BOPOMOFO LETTER E
+Category: Lo
+
+[U+311D]
+Name: BOPOMOFO LETTER EH
+Category: Lo
+
+[U+311E]
+Name: BOPOMOFO LETTER AI
+Category: Lo
+
+[U+311F]
+Name: BOPOMOFO LETTER EI
+Category: Lo
+
+[U+3120]
+Name: BOPOMOFO LETTER AU
+Category: Lo
+
+[U+3121]
+Name: BOPOMOFO LETTER OU
+Category: Lo
+
+[U+3122]
+Name: BOPOMOFO LETTER AN
+Category: Lo
+
+[U+3123]
+Name: BOPOMOFO LETTER EN
+Category: Lo
+
+[U+3124]
+Name: BOPOMOFO LETTER ANG
+Category: Lo
+
+[U+3125]
+Name: BOPOMOFO LETTER ENG
+Category: Lo
+
+[U+3126]
+Name: BOPOMOFO LETTER ER
+Category: Lo
+
+[U+3127]
+Name: BOPOMOFO LETTER I
+Category: Lo
+
+[U+3128]
+Name: BOPOMOFO LETTER U
+Category: Lo
+
+[U+3129]
+Name: BOPOMOFO LETTER IU
+Category: Lo
+
+[U+312A]
+Name: BOPOMOFO LETTER V
+Category: Lo
+
+[U+312B]
+Name: BOPOMOFO LETTER NG
+Category: Lo
+
+[U+312C]
+Name: BOPOMOFO LETTER GN
+Category: Lo
+
+[U+3131]
+Name: HANGUL LETTER KIYEOK
+Category: Lo
+Decomposition: <compat> 1100
+
+[U+3132]
+Name: HANGUL LETTER SSANGKIYEOK
+Category: Lo
+Decomposition: <compat> 1101
+
+[U+3133]
+Name: HANGUL LETTER KIYEOK-SIOS
+Category: Lo
+Decomposition: <compat> 11AA
+
+[U+3134]
+Name: HANGUL LETTER NIEUN
+Category: Lo
+Decomposition: <compat> 1102
+
+[U+3135]
+Name: HANGUL LETTER NIEUN-CIEUC
+Category: Lo
+Decomposition: <compat> 11AC
+
+[U+3136]
+Name: HANGUL LETTER NIEUN-HIEUH
+Category: Lo
+Decomposition: <compat> 11AD
+
+[U+3137]
+Name: HANGUL LETTER TIKEUT
+Category: Lo
+Decomposition: <compat> 1103
+
+[U+3138]
+Name: HANGUL LETTER SSANGTIKEUT
+Category: Lo
+Decomposition: <compat> 1104
+
+[U+3139]
+Name: HANGUL LETTER RIEUL
+Category: Lo
+Decomposition: <compat> 1105
+
+[U+313A]
+Name: HANGUL LETTER RIEUL-KIYEOK
+Category: Lo
+Decomposition: <compat> 11B0
+
+[U+313B]
+Name: HANGUL LETTER RIEUL-MIEUM
+Category: Lo
+Decomposition: <compat> 11B1
+
+[U+313C]
+Name: HANGUL LETTER RIEUL-PIEUP
+Category: Lo
+Decomposition: <compat> 11B2
+
+[U+313D]
+Name: HANGUL LETTER RIEUL-SIOS
+Category: Lo
+Decomposition: <compat> 11B3
+
+[U+313E]
+Name: HANGUL LETTER RIEUL-THIEUTH
+Category: Lo
+Decomposition: <compat> 11B4
+
+[U+313F]
+Name: HANGUL LETTER RIEUL-PHIEUPH
+Category: Lo
+Decomposition: <compat> 11B5
+
+[U+3140]
+Name: HANGUL LETTER RIEUL-HIEUH
+Category: Lo
+Decomposition: <compat> 111A
+
+[U+3141]
+Name: HANGUL LETTER MIEUM
+Category: Lo
+Decomposition: <compat> 1106
+
+[U+3142]
+Name: HANGUL LETTER PIEUP
+Category: Lo
+Decomposition: <compat> 1107
+
+[U+3143]
+Name: HANGUL LETTER SSANGPIEUP
+Category: Lo
+Decomposition: <compat> 1108
+
+[U+3144]
+Name: HANGUL LETTER PIEUP-SIOS
+Category: Lo
+Decomposition: <compat> 1121
+
+[U+3145]
+Name: HANGUL LETTER SIOS
+Category: Lo
+Decomposition: <compat> 1109
+
+[U+3146]
+Name: HANGUL LETTER SSANGSIOS
+Category: Lo
+Decomposition: <compat> 110A
+
+[U+3147]
+Name: HANGUL LETTER IEUNG
+Category: Lo
+Decomposition: <compat> 110B
+
+[U+3148]
+Name: HANGUL LETTER CIEUC
+Category: Lo
+Decomposition: <compat> 110C
+
+[U+3149]
+Name: HANGUL LETTER SSANGCIEUC
+Category: Lo
+Decomposition: <compat> 110D
+
+[U+314A]
+Name: HANGUL LETTER CHIEUCH
+Category: Lo
+Decomposition: <compat> 110E
+
+[U+314B]
+Name: HANGUL LETTER KHIEUKH
+Category: Lo
+Decomposition: <compat> 110F
+
+[U+314C]
+Name: HANGUL LETTER THIEUTH
+Category: Lo
+Decomposition: <compat> 1110
+
+[U+314D]
+Name: HANGUL LETTER PHIEUPH
+Category: Lo
+Decomposition: <compat> 1111
+
+[U+314E]
+Name: HANGUL LETTER HIEUH
+Category: Lo
+Decomposition: <compat> 1112
+
+[U+314F]
+Name: HANGUL LETTER A
+Category: Lo
+Decomposition: <compat> 1161
+
+[U+3150]
+Name: HANGUL LETTER AE
+Category: Lo
+Decomposition: <compat> 1162
+
+[U+3151]
+Name: HANGUL LETTER YA
+Category: Lo
+Decomposition: <compat> 1163
+
+[U+3152]
+Name: HANGUL LETTER YAE
+Category: Lo
+Decomposition: <compat> 1164
+
+[U+3153]
+Name: HANGUL LETTER EO
+Category: Lo
+Decomposition: <compat> 1165
+
+[U+3154]
+Name: HANGUL LETTER E
+Category: Lo
+Decomposition: <compat> 1166
+
+[U+3155]
+Name: HANGUL LETTER YEO
+Category: Lo
+Decomposition: <compat> 1167
+
+[U+3156]
+Name: HANGUL LETTER YE
+Category: Lo
+Decomposition: <compat> 1168
+
+[U+3157]
+Name: HANGUL LETTER O
+Category: Lo
+Decomposition: <compat> 1169
+
+[U+3158]
+Name: HANGUL LETTER WA
+Category: Lo
+Decomposition: <compat> 116A
+
+[U+3159]
+Name: HANGUL LETTER WAE
+Category: Lo
+Decomposition: <compat> 116B
+
+[U+315A]
+Name: HANGUL LETTER OE
+Category: Lo
+Decomposition: <compat> 116C
+
+[U+315B]
+Name: HANGUL LETTER YO
+Category: Lo
+Decomposition: <compat> 116D
+
+[U+315C]
+Name: HANGUL LETTER U
+Category: Lo
+Decomposition: <compat> 116E
+
+[U+315D]
+Name: HANGUL LETTER WEO
+Category: Lo
+Decomposition: <compat> 116F
+
+[U+315E]
+Name: HANGUL LETTER WE
+Category: Lo
+Decomposition: <compat> 1170
+
+[U+315F]
+Name: HANGUL LETTER WI
+Category: Lo
+Decomposition: <compat> 1171
+
+[U+3160]
+Name: HANGUL LETTER YU
+Category: Lo
+Decomposition: <compat> 1172
+
+[U+3161]
+Name: HANGUL LETTER EU
+Category: Lo
+Decomposition: <compat> 1173
+
+[U+3162]
+Name: HANGUL LETTER YI
+Category: Lo
+Decomposition: <compat> 1174
+
+[U+3163]
+Name: HANGUL LETTER I
+Category: Lo
+Decomposition: <compat> 1175
+
+[U+3164]
+Name: HANGUL FILLER
+Category: Lo
+Decomposition: <compat> 1160
+
+[U+3165]
+Name: HANGUL LETTER SSANGNIEUN
+Category: Lo
+Decomposition: <compat> 1114
+
+[U+3166]
+Name: HANGUL LETTER NIEUN-TIKEUT
+Category: Lo
+Decomposition: <compat> 1115
+
+[U+3167]
+Name: HANGUL LETTER NIEUN-SIOS
+Category: Lo
+Decomposition: <compat> 11C7
+
+[U+3168]
+Name: HANGUL LETTER NIEUN-PANSIOS
+Category: Lo
+Decomposition: <compat> 11C8
+
+[U+3169]
+Name: HANGUL LETTER RIEUL-KIYEOK-SIOS
+Category: Lo
+Decomposition: <compat> 11CC
+
+[U+316A]
+Name: HANGUL LETTER RIEUL-TIKEUT
+Category: Lo
+Decomposition: <compat> 11CE
+
+[U+316B]
+Name: HANGUL LETTER RIEUL-PIEUP-SIOS
+Category: Lo
+Decomposition: <compat> 11D3
+
+[U+316C]
+Name: HANGUL LETTER RIEUL-PANSIOS
+Category: Lo
+Decomposition: <compat> 11D7
+
+[U+316D]
+Name: HANGUL LETTER RIEUL-YEORINHIEUH
+Category: Lo
+Decomposition: <compat> 11D9
+
+[U+316E]
+Name: HANGUL LETTER MIEUM-PIEUP
+Category: Lo
+Decomposition: <compat> 111C
+
+[U+316F]
+Name: HANGUL LETTER MIEUM-SIOS
+Category: Lo
+Decomposition: <compat> 11DD
+
+[U+3170]
+Name: HANGUL LETTER MIEUM-PANSIOS
+Category: Lo
+Decomposition: <compat> 11DF
+
+[U+3171]
+Name: HANGUL LETTER KAPYEOUNMIEUM
+Category: Lo
+Decomposition: <compat> 111D
+
+[U+3172]
+Name: HANGUL LETTER PIEUP-KIYEOK
+Category: Lo
+Decomposition: <compat> 111E
+
+[U+3173]
+Name: HANGUL LETTER PIEUP-TIKEUT
+Category: Lo
+Decomposition: <compat> 1120
+
+[U+3174]
+Name: HANGUL LETTER PIEUP-SIOS-KIYEOK
+Category: Lo
+Decomposition: <compat> 1122
+
+[U+3175]
+Name: HANGUL LETTER PIEUP-SIOS-TIKEUT
+Category: Lo
+Decomposition: <compat> 1123
+
+[U+3176]
+Name: HANGUL LETTER PIEUP-CIEUC
+Category: Lo
+Decomposition: <compat> 1127
+
+[U+3177]
+Name: HANGUL LETTER PIEUP-THIEUTH
+Category: Lo
+Decomposition: <compat> 1129
+
+[U+3178]
+Name: HANGUL LETTER KAPYEOUNPIEUP
+Category: Lo
+Decomposition: <compat> 112B
+
+[U+3179]
+Name: HANGUL LETTER KAPYEOUNSSANGPIEUP
+Category: Lo
+Decomposition: <compat> 112C
+
+[U+317A]
+Name: HANGUL LETTER SIOS-KIYEOK
+Category: Lo
+Decomposition: <compat> 112D
+
+[U+317B]
+Name: HANGUL LETTER SIOS-NIEUN
+Category: Lo
+Decomposition: <compat> 112E
+
+[U+317C]
+Name: HANGUL LETTER SIOS-TIKEUT
+Category: Lo
+Decomposition: <compat> 112F
+
+[U+317D]
+Name: HANGUL LETTER SIOS-PIEUP
+Category: Lo
+Decomposition: <compat> 1132
+
+[U+317E]
+Name: HANGUL LETTER SIOS-CIEUC
+Category: Lo
+Decomposition: <compat> 1136
+
+[U+317F]
+Name: HANGUL LETTER PANSIOS
+Category: Lo
+Decomposition: <compat> 1140
+
+[U+3180]
+Name: HANGUL LETTER SSANGIEUNG
+Category: Lo
+Decomposition: <compat> 1147
+
+[U+3181]
+Name: HANGUL LETTER YESIEUNG
+Category: Lo
+Decomposition: <compat> 114C
+
+[U+3182]
+Name: HANGUL LETTER YESIEUNG-SIOS
+Category: Lo
+Decomposition: <compat> 11F1
+
+[U+3183]
+Name: HANGUL LETTER YESIEUNG-PANSIOS
+Category: Lo
+Decomposition: <compat> 11F2
+
+[U+3184]
+Name: HANGUL LETTER KAPYEOUNPHIEUPH
+Category: Lo
+Decomposition: <compat> 1157
+
+[U+3185]
+Name: HANGUL LETTER SSANGHIEUH
+Category: Lo
+Decomposition: <compat> 1158
+
+[U+3186]
+Name: HANGUL LETTER YEORINHIEUH
+Category: Lo
+Decomposition: <compat> 1159
+
+[U+3187]
+Name: HANGUL LETTER YO-YA
+Category: Lo
+Decomposition: <compat> 1184
+
+[U+3188]
+Name: HANGUL LETTER YO-YAE
+Category: Lo
+Decomposition: <compat> 1185
+
+[U+3189]
+Name: HANGUL LETTER YO-I
+Category: Lo
+Decomposition: <compat> 1188
+
+[U+318A]
+Name: HANGUL LETTER YU-YEO
+Category: Lo
+Decomposition: <compat> 1191
+
+[U+318B]
+Name: HANGUL LETTER YU-YE
+Category: Lo
+Decomposition: <compat> 1192
+
+[U+318C]
+Name: HANGUL LETTER YU-I
+Category: Lo
+Decomposition: <compat> 1194
+
+[U+318D]
+Name: HANGUL LETTER ARAEA
+Category: Lo
+Decomposition: <compat> 119E
+
+[U+318E]
+Name: HANGUL LETTER ARAEAE
+Category: Lo
+Decomposition: <compat> 11A1
+
+[U+3190]
+Name: IDEOGRAPHIC ANNOTATION LINKING MARK
+Category: So
+
+[U+3191]
+Name: IDEOGRAPHIC ANNOTATION REVERSE MARK
+Category: So
+
+[U+3192]
+Name: IDEOGRAPHIC ANNOTATION ONE MARK
+Category: No
+Decomposition: <super> 4E00
+
+[U+3193]
+Name: IDEOGRAPHIC ANNOTATION TWO MARK
+Category: No
+Decomposition: <super> 4E8C
+
+[U+3194]
+Name: IDEOGRAPHIC ANNOTATION THREE MARK
+Category: No
+Decomposition: <super> 4E09
+
+[U+3195]
+Name: IDEOGRAPHIC ANNOTATION FOUR MARK
+Category: No
+Decomposition: <super> 56DB
+
+[U+3196]
+Name: IDEOGRAPHIC ANNOTATION TOP MARK
+Category: So
+Decomposition: <super> 4E0A
+
+[U+3197]
+Name: IDEOGRAPHIC ANNOTATION MIDDLE MARK
+Category: So
+Decomposition: <super> 4E2D
+
+[U+3198]
+Name: IDEOGRAPHIC ANNOTATION BOTTOM MARK
+Category: So
+Decomposition: <super> 4E0B
+
+[U+3199]
+Name: IDEOGRAPHIC ANNOTATION FIRST MARK
+Category: So
+Decomposition: <super> 7532
+
+[U+319A]
+Name: IDEOGRAPHIC ANNOTATION SECOND MARK
+Category: So
+Decomposition: <super> 4E59
+
+[U+319B]
+Name: IDEOGRAPHIC ANNOTATION THIRD MARK
+Category: So
+Decomposition: <super> 4E19
+
+[U+319C]
+Name: IDEOGRAPHIC ANNOTATION FOURTH MARK
+Category: So
+Decomposition: <super> 4E01
+
+[U+319D]
+Name: IDEOGRAPHIC ANNOTATION HEAVEN MARK
+Category: So
+Decomposition: <super> 5929
+
+[U+319E]
+Name: IDEOGRAPHIC ANNOTATION EARTH MARK
+Category: So
+Decomposition: <super> 5730
+
+[U+319F]
+Name: IDEOGRAPHIC ANNOTATION MAN MARK
+Category: So
+Decomposition: <super> 4EBA
+
+[U+3200]
+Name: PARENTHESIZED HANGUL KIYEOK
+Category: So
+Decomposition: <compat> 0028 1100 0029
+
+[U+3201]
+Name: PARENTHESIZED HANGUL NIEUN
+Category: So
+Decomposition: <compat> 0028 1102 0029
+
+[U+3202]
+Name: PARENTHESIZED HANGUL TIKEUT
+Category: So
+Decomposition: <compat> 0028 1103 0029
+
+[U+3203]
+Name: PARENTHESIZED HANGUL RIEUL
+Category: So
+Decomposition: <compat> 0028 1105 0029
+
+[U+3204]
+Name: PARENTHESIZED HANGUL MIEUM
+Category: So
+Decomposition: <compat> 0028 1106 0029
+
+[U+3205]
+Name: PARENTHESIZED HANGUL PIEUP
+Category: So
+Decomposition: <compat> 0028 1107 0029
+
+[U+3206]
+Name: PARENTHESIZED HANGUL SIOS
+Category: So
+Decomposition: <compat> 0028 1109 0029
+
+[U+3207]
+Name: PARENTHESIZED HANGUL IEUNG
+Category: So
+Decomposition: <compat> 0028 110B 0029
+
+[U+3208]
+Name: PARENTHESIZED HANGUL CIEUC
+Category: So
+Decomposition: <compat> 0028 110C 0029
+
+[U+3209]
+Name: PARENTHESIZED HANGUL CHIEUCH
+Category: So
+Decomposition: <compat> 0028 110E 0029
+
+[U+320A]
+Name: PARENTHESIZED HANGUL KHIEUKH
+Category: So
+Decomposition: <compat> 0028 110F 0029
+
+[U+320B]
+Name: PARENTHESIZED HANGUL THIEUTH
+Category: So
+Decomposition: <compat> 0028 1110 0029
+
+[U+320C]
+Name: PARENTHESIZED HANGUL PHIEUPH
+Category: So
+Decomposition: <compat> 0028 1111 0029
+
+[U+320D]
+Name: PARENTHESIZED HANGUL HIEUH
+Category: So
+Decomposition: <compat> 0028 1112 0029
+
+[U+320E]
+Name: PARENTHESIZED HANGUL KIYEOK A
+Category: So
+Decomposition: <compat> 0028 1100 1161 0029
+
+[U+320F]
+Name: PARENTHESIZED HANGUL NIEUN A
+Category: So
+Decomposition: <compat> 0028 1102 1161 0029
+
+[U+3210]
+Name: PARENTHESIZED HANGUL TIKEUT A
+Category: So
+Decomposition: <compat> 0028 1103 1161 0029
+
+[U+3211]
+Name: PARENTHESIZED HANGUL RIEUL A
+Category: So
+Decomposition: <compat> 0028 1105 1161 0029
+
+[U+3212]
+Name: PARENTHESIZED HANGUL MIEUM A
+Category: So
+Decomposition: <compat> 0028 1106 1161 0029
+
+[U+3213]
+Name: PARENTHESIZED HANGUL PIEUP A
+Category: So
+Decomposition: <compat> 0028 1107 1161 0029
+
+[U+3214]
+Name: PARENTHESIZED HANGUL SIOS A
+Category: So
+Decomposition: <compat> 0028 1109 1161 0029
+
+[U+3215]
+Name: PARENTHESIZED HANGUL IEUNG A
+Category: So
+Decomposition: <compat> 0028 110B 1161 0029
+
+[U+3216]
+Name: PARENTHESIZED HANGUL CIEUC A
+Category: So
+Decomposition: <compat> 0028 110C 1161 0029
+
+[U+3217]
+Name: PARENTHESIZED HANGUL CHIEUCH A
+Category: So
+Decomposition: <compat> 0028 110E 1161 0029
+
+[U+3218]
+Name: PARENTHESIZED HANGUL KHIEUKH A
+Category: So
+Decomposition: <compat> 0028 110F 1161 0029
+
+[U+3219]
+Name: PARENTHESIZED HANGUL THIEUTH A
+Category: So
+Decomposition: <compat> 0028 1110 1161 0029
+
+[U+321A]
+Name: PARENTHESIZED HANGUL PHIEUPH A
+Category: So
+Decomposition: <compat> 0028 1111 1161 0029
+
+[U+321B]
+Name: PARENTHESIZED HANGUL HIEUH A
+Category: So
+Decomposition: <compat> 0028 1112 1161 0029
+
+[U+321C]
+Name: PARENTHESIZED HANGUL CIEUC U
+Category: So
+Decomposition: <compat> 0028 110C 116E 0029
+
+[U+3220]
+Name: PARENTHESIZED IDEOGRAPH ONE
+Category: No
+Decomposition: <compat> 0028 4E00 0029
+
+[U+3221]
+Name: PARENTHESIZED IDEOGRAPH TWO
+Category: No
+Decomposition: <compat> 0028 4E8C 0029
+
+[U+3222]
+Name: PARENTHESIZED IDEOGRAPH THREE
+Category: No
+Decomposition: <compat> 0028 4E09 0029
+
+[U+3223]
+Name: PARENTHESIZED IDEOGRAPH FOUR
+Category: No
+Decomposition: <compat> 0028 56DB 0029
+
+[U+3224]
+Name: PARENTHESIZED IDEOGRAPH FIVE
+Category: No
+Decomposition: <compat> 0028 4E94 0029
+
+[U+3225]
+Name: PARENTHESIZED IDEOGRAPH SIX
+Category: No
+Decomposition: <compat> 0028 516D 0029
+
+[U+3226]
+Name: PARENTHESIZED IDEOGRAPH SEVEN
+Category: No
+Decomposition: <compat> 0028 4E03 0029
+
+[U+3227]
+Name: PARENTHESIZED IDEOGRAPH EIGHT
+Category: No
+Decomposition: <compat> 0028 516B 0029
+
+[U+3228]
+Name: PARENTHESIZED IDEOGRAPH NINE
+Category: No
+Decomposition: <compat> 0028 4E5D 0029
+
+[U+3229]
+Name: PARENTHESIZED IDEOGRAPH TEN
+Category: No
+Decomposition: <compat> 0028 5341 0029
+
+[U+322A]
+Name: PARENTHESIZED IDEOGRAPH MOON
+Category: So
+Decomposition: <compat> 0028 6708 0029
+
+[U+322B]
+Name: PARENTHESIZED IDEOGRAPH FIRE
+Category: So
+Decomposition: <compat> 0028 706B 0029
+
+[U+322C]
+Name: PARENTHESIZED IDEOGRAPH WATER
+Category: So
+Decomposition: <compat> 0028 6C34 0029
+
+[U+322D]
+Name: PARENTHESIZED IDEOGRAPH WOOD
+Category: So
+Decomposition: <compat> 0028 6728 0029
+
+[U+322E]
+Name: PARENTHESIZED IDEOGRAPH METAL
+Category: So
+Decomposition: <compat> 0028 91D1 0029
+
+[U+322F]
+Name: PARENTHESIZED IDEOGRAPH EARTH
+Category: So
+Decomposition: <compat> 0028 571F 0029
+
+[U+3230]
+Name: PARENTHESIZED IDEOGRAPH SUN
+Category: So
+Decomposition: <compat> 0028 65E5 0029
+
+[U+3231]
+Name: PARENTHESIZED IDEOGRAPH STOCK
+Category: So
+Decomposition: <compat> 0028 682A 0029
+
+[U+3232]
+Name: PARENTHESIZED IDEOGRAPH HAVE
+Category: So
+Decomposition: <compat> 0028 6709 0029
+
+[U+3233]
+Name: PARENTHESIZED IDEOGRAPH SOCIETY
+Category: So
+Decomposition: <compat> 0028 793E 0029
+
+[U+3234]
+Name: PARENTHESIZED IDEOGRAPH NAME
+Category: So
+Decomposition: <compat> 0028 540D 0029
+
+[U+3235]
+Name: PARENTHESIZED IDEOGRAPH SPECIAL
+Category: So
+Decomposition: <compat> 0028 7279 0029
+
+[U+3236]
+Name: PARENTHESIZED IDEOGRAPH FINANCIAL
+Category: So
+Decomposition: <compat> 0028 8CA1 0029
+
+[U+3237]
+Name: PARENTHESIZED IDEOGRAPH CONGRATULATION
+Category: So
+Decomposition: <compat> 0028 795D 0029
+
+[U+3238]
+Name: PARENTHESIZED IDEOGRAPH LABOR
+Category: So
+Decomposition: <compat> 0028 52B4 0029
+
+[U+3239]
+Name: PARENTHESIZED IDEOGRAPH REPRESENT
+Category: So
+Decomposition: <compat> 0028 4EE3 0029
+
+[U+323A]
+Name: PARENTHESIZED IDEOGRAPH CALL
+Category: So
+Decomposition: <compat> 0028 547C 0029
+
+[U+323B]
+Name: PARENTHESIZED IDEOGRAPH STUDY
+Category: So
+Decomposition: <compat> 0028 5B66 0029
+
+[U+323C]
+Name: PARENTHESIZED IDEOGRAPH SUPERVISE
+Category: So
+Decomposition: <compat> 0028 76E3 0029
+
+[U+323D]
+Name: PARENTHESIZED IDEOGRAPH ENTERPRISE
+Category: So
+Decomposition: <compat> 0028 4F01 0029
+
+[U+323E]
+Name: PARENTHESIZED IDEOGRAPH RESOURCE
+Category: So
+Decomposition: <compat> 0028 8CC7 0029
+
+[U+323F]
+Name: PARENTHESIZED IDEOGRAPH ALLIANCE
+Category: So
+Decomposition: <compat> 0028 5354 0029
+
+[U+3240]
+Name: PARENTHESIZED IDEOGRAPH FESTIVAL
+Category: So
+Decomposition: <compat> 0028 796D 0029
+
+[U+3241]
+Name: PARENTHESIZED IDEOGRAPH REST
+Category: So
+Decomposition: <compat> 0028 4F11 0029
+
+[U+3242]
+Name: PARENTHESIZED IDEOGRAPH SELF
+Category: So
+Decomposition: <compat> 0028 81EA 0029
+
+[U+3243]
+Name: PARENTHESIZED IDEOGRAPH REACH
+Category: So
+Decomposition: <compat> 0028 81F3 0029
+
+[U+3260]
+Name: CIRCLED HANGUL KIYEOK
+Category: So
+Decomposition: <circle> 1100
+
+[U+3261]
+Name: CIRCLED HANGUL NIEUN
+Category: So
+Decomposition: <circle> 1102
+
+[U+3262]
+Name: CIRCLED HANGUL TIKEUT
+Category: So
+Decomposition: <circle> 1103
+
+[U+3263]
+Name: CIRCLED HANGUL RIEUL
+Category: So
+Decomposition: <circle> 1105
+
+[U+3264]
+Name: CIRCLED HANGUL MIEUM
+Category: So
+Decomposition: <circle> 1106
+
+[U+3265]
+Name: CIRCLED HANGUL PIEUP
+Category: So
+Decomposition: <circle> 1107
+
+[U+3266]
+Name: CIRCLED HANGUL SIOS
+Category: So
+Decomposition: <circle> 1109
+
+[U+3267]
+Name: CIRCLED HANGUL IEUNG
+Category: So
+Decomposition: <circle> 110B
+
+[U+3268]
+Name: CIRCLED HANGUL CIEUC
+Category: So
+Decomposition: <circle> 110C
+
+[U+3269]
+Name: CIRCLED HANGUL CHIEUCH
+Category: So
+Decomposition: <circle> 110E
+
+[U+326A]
+Name: CIRCLED HANGUL KHIEUKH
+Category: So
+Decomposition: <circle> 110F
+
+[U+326B]
+Name: CIRCLED HANGUL THIEUTH
+Category: So
+Decomposition: <circle> 1110
+
+[U+326C]
+Name: CIRCLED HANGUL PHIEUPH
+Category: So
+Decomposition: <circle> 1111
+
+[U+326D]
+Name: CIRCLED HANGUL HIEUH
+Category: So
+Decomposition: <circle> 1112
+
+[U+326E]
+Name: CIRCLED HANGUL KIYEOK A
+Category: So
+Decomposition: <circle> 1100 1161
+
+[U+326F]
+Name: CIRCLED HANGUL NIEUN A
+Category: So
+Decomposition: <circle> 1102 1161
+
+[U+3270]
+Name: CIRCLED HANGUL TIKEUT A
+Category: So
+Decomposition: <circle> 1103 1161
+
+[U+3271]
+Name: CIRCLED HANGUL RIEUL A
+Category: So
+Decomposition: <circle> 1105 1161
+
+[U+3272]
+Name: CIRCLED HANGUL MIEUM A
+Category: So
+Decomposition: <circle> 1106 1161
+
+[U+3273]
+Name: CIRCLED HANGUL PIEUP A
+Category: So
+Decomposition: <circle> 1107 1161
+
+[U+3274]
+Name: CIRCLED HANGUL SIOS A
+Category: So
+Decomposition: <circle> 1109 1161
+
+[U+3275]
+Name: CIRCLED HANGUL IEUNG A
+Category: So
+Decomposition: <circle> 110B 1161
+
+[U+3276]
+Name: CIRCLED HANGUL CIEUC A
+Category: So
+Decomposition: <circle> 110C 1161
+
+[U+3277]
+Name: CIRCLED HANGUL CHIEUCH A
+Category: So
+Decomposition: <circle> 110E 1161
+
+[U+3278]
+Name: CIRCLED HANGUL KHIEUKH A
+Category: So
+Decomposition: <circle> 110F 1161
+
+[U+3279]
+Name: CIRCLED HANGUL THIEUTH A
+Category: So
+Decomposition: <circle> 1110 1161
+
+[U+327A]
+Name: CIRCLED HANGUL PHIEUPH A
+Category: So
+Decomposition: <circle> 1111 1161
+
+[U+327B]
+Name: CIRCLED HANGUL HIEUH A
+Category: So
+Decomposition: <circle> 1112 1161
+
+[U+327F]
+Name: KOREAN STANDARD SYMBOL
+Category: So
+
+[U+3280]
+Name: CIRCLED IDEOGRAPH ONE
+Category: No
+Decomposition: <circle> 4E00
+
+[U+3281]
+Name: CIRCLED IDEOGRAPH TWO
+Category: No
+Decomposition: <circle> 4E8C
+
+[U+3282]
+Name: CIRCLED IDEOGRAPH THREE
+Category: No
+Decomposition: <circle> 4E09
+
+[U+3283]
+Name: CIRCLED IDEOGRAPH FOUR
+Category: No
+Decomposition: <circle> 56DB
+
+[U+3284]
+Name: CIRCLED IDEOGRAPH FIVE
+Category: No
+Decomposition: <circle> 4E94
+
+[U+3285]
+Name: CIRCLED IDEOGRAPH SIX
+Category: No
+Decomposition: <circle> 516D
+
+[U+3286]
+Name: CIRCLED IDEOGRAPH SEVEN
+Category: No
+Decomposition: <circle> 4E03
+
+[U+3287]
+Name: CIRCLED IDEOGRAPH EIGHT
+Category: No
+Decomposition: <circle> 516B
+
+[U+3288]
+Name: CIRCLED IDEOGRAPH NINE
+Category: No
+Decomposition: <circle> 4E5D
+
+[U+3289]
+Name: CIRCLED IDEOGRAPH TEN
+Category: No
+Decomposition: <circle> 5341
+
+[U+328A]
+Name: CIRCLED IDEOGRAPH MOON
+Category: So
+Decomposition: <circle> 6708
+
+[U+328B]
+Name: CIRCLED IDEOGRAPH FIRE
+Category: So
+Decomposition: <circle> 706B
+
+[U+328C]
+Name: CIRCLED IDEOGRAPH WATER
+Category: So
+Decomposition: <circle> 6C34
+
+[U+328D]
+Name: CIRCLED IDEOGRAPH WOOD
+Category: So
+Decomposition: <circle> 6728
+
+[U+328E]
+Name: CIRCLED IDEOGRAPH METAL
+Category: So
+Decomposition: <circle> 91D1
+
+[U+328F]
+Name: CIRCLED IDEOGRAPH EARTH
+Category: So
+Decomposition: <circle> 571F
+
+[U+3290]
+Name: CIRCLED IDEOGRAPH SUN
+Category: So
+Decomposition: <circle> 65E5
+
+[U+3291]
+Name: CIRCLED IDEOGRAPH STOCK
+Category: So
+Decomposition: <circle> 682A
+
+[U+3292]
+Name: CIRCLED IDEOGRAPH HAVE
+Category: So
+Decomposition: <circle> 6709
+
+[U+3293]
+Name: CIRCLED IDEOGRAPH SOCIETY
+Category: So
+Decomposition: <circle> 793E
+
+[U+3294]
+Name: CIRCLED IDEOGRAPH NAME
+Category: So
+Decomposition: <circle> 540D
+
+[U+3295]
+Name: CIRCLED IDEOGRAPH SPECIAL
+Category: So
+Decomposition: <circle> 7279
+
+[U+3296]
+Name: CIRCLED IDEOGRAPH FINANCIAL
+Category: So
+Decomposition: <circle> 8CA1
+
+[U+3297]
+Name: CIRCLED IDEOGRAPH CONGRATULATION
+Category: So
+Decomposition: <circle> 795D
+
+[U+3298]
+Name: CIRCLED IDEOGRAPH LABOR
+Category: So
+Decomposition: <circle> 52B4
+
+[U+3299]
+Name: CIRCLED IDEOGRAPH SECRET
+Category: So
+Decomposition: <circle> 79D8
+
+[U+329A]
+Name: CIRCLED IDEOGRAPH MALE
+Category: So
+Decomposition: <circle> 7537
+
+[U+329B]
+Name: CIRCLED IDEOGRAPH FEMALE
+Category: So
+Decomposition: <circle> 5973
+
+[U+329C]
+Name: CIRCLED IDEOGRAPH SUITABLE
+Category: So
+Decomposition: <circle> 9069
+
+[U+329D]
+Name: CIRCLED IDEOGRAPH EXCELLENT
+Category: So
+Decomposition: <circle> 512A
+
+[U+329E]
+Name: CIRCLED IDEOGRAPH PRINT
+Category: So
+Decomposition: <circle> 5370
+
+[U+329F]
+Name: CIRCLED IDEOGRAPH ATTENTION
+Category: So
+Decomposition: <circle> 6CE8
+
+[U+32A0]
+Name: CIRCLED IDEOGRAPH ITEM
+Category: So
+Decomposition: <circle> 9805
+
+[U+32A1]
+Name: CIRCLED IDEOGRAPH REST
+Category: So
+Decomposition: <circle> 4F11
+
+[U+32A2]
+Name: CIRCLED IDEOGRAPH COPY
+Category: So
+Decomposition: <circle> 5199
+
+[U+32A3]
+Name: CIRCLED IDEOGRAPH CORRECT
+Category: So
+Decomposition: <circle> 6B63
+
+[U+32A4]
+Name: CIRCLED IDEOGRAPH HIGH
+Category: So
+Decomposition: <circle> 4E0A
+
+[U+32A5]
+Name: CIRCLED IDEOGRAPH CENTRE
+Category: So
+Decomposition: <circle> 4E2D
+
+[U+32A6]
+Name: CIRCLED IDEOGRAPH LOW
+Category: So
+Decomposition: <circle> 4E0B
+
+[U+32A7]
+Name: CIRCLED IDEOGRAPH LEFT
+Category: So
+Decomposition: <circle> 5DE6
+
+[U+32A8]
+Name: CIRCLED IDEOGRAPH RIGHT
+Category: So
+Decomposition: <circle> 53F3
+
+[U+32A9]
+Name: CIRCLED IDEOGRAPH MEDICINE
+Category: So
+Decomposition: <circle> 533B
+
+[U+32AA]
+Name: CIRCLED IDEOGRAPH RELIGION
+Category: So
+Decomposition: <circle> 5B97
+
+[U+32AB]
+Name: CIRCLED IDEOGRAPH STUDY
+Category: So
+Decomposition: <circle> 5B66
+
+[U+32AC]
+Name: CIRCLED IDEOGRAPH SUPERVISE
+Category: So
+Decomposition: <circle> 76E3
+
+[U+32AD]
+Name: CIRCLED IDEOGRAPH ENTERPRISE
+Category: So
+Decomposition: <circle> 4F01
+
+[U+32AE]
+Name: CIRCLED IDEOGRAPH RESOURCE
+Category: So
+Decomposition: <circle> 8CC7
+
+[U+32AF]
+Name: CIRCLED IDEOGRAPH ALLIANCE
+Category: So
+Decomposition: <circle> 5354
+
+[U+32B0]
+Name: CIRCLED IDEOGRAPH NIGHT
+Category: So
+Decomposition: <circle> 591C
+
+[U+32C0]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY
+Category: So
+Decomposition: <compat> 0031 6708
+
+[U+32C1]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR FEBRUARY
+Category: So
+Decomposition: <compat> 0032 6708
+
+[U+32C2]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR MARCH
+Category: So
+Decomposition: <compat> 0033 6708
+
+[U+32C3]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR APRIL
+Category: So
+Decomposition: <compat> 0034 6708
+
+[U+32C4]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR MAY
+Category: So
+Decomposition: <compat> 0035 6708
+
+[U+32C5]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR JUNE
+Category: So
+Decomposition: <compat> 0036 6708
+
+[U+32C6]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR JULY
+Category: So
+Decomposition: <compat> 0037 6708
+
+[U+32C7]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR AUGUST
+Category: So
+Decomposition: <compat> 0038 6708
+
+[U+32C8]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR SEPTEMBER
+Category: So
+Decomposition: <compat> 0039 6708
+
+[U+32C9]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR OCTOBER
+Category: So
+Decomposition: <compat> 0031 0030 6708
+
+[U+32CA]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER
+Category: So
+Decomposition: <compat> 0031 0031 6708
+
+[U+32CB]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER
+Category: So
+Decomposition: <compat> 0031 0032 6708
+
+[U+32D0]
+Name: CIRCLED KATAKANA A
+Category: So
+Decomposition: <circle> 30A2
+
+[U+32D1]
+Name: CIRCLED KATAKANA I
+Category: So
+Decomposition: <circle> 30A4
+
+[U+32D2]
+Name: CIRCLED KATAKANA U
+Category: So
+Decomposition: <circle> 30A6
+
+[U+32D3]
+Name: CIRCLED KATAKANA E
+Category: So
+Decomposition: <circle> 30A8
+
+[U+32D4]
+Name: CIRCLED KATAKANA O
+Category: So
+Decomposition: <circle> 30AA
+
+[U+32D5]
+Name: CIRCLED KATAKANA KA
+Category: So
+Decomposition: <circle> 30AB
+
+[U+32D6]
+Name: CIRCLED KATAKANA KI
+Category: So
+Decomposition: <circle> 30AD
+
+[U+32D7]
+Name: CIRCLED KATAKANA KU
+Category: So
+Decomposition: <circle> 30AF
+
+[U+32D8]
+Name: CIRCLED KATAKANA KE
+Category: So
+Decomposition: <circle> 30B1
+
+[U+32D9]
+Name: CIRCLED KATAKANA KO
+Category: So
+Decomposition: <circle> 30B3
+
+[U+32DA]
+Name: CIRCLED KATAKANA SA
+Category: So
+Decomposition: <circle> 30B5
+
+[U+32DB]
+Name: CIRCLED KATAKANA SI
+Category: So
+Decomposition: <circle> 30B7
+
+[U+32DC]
+Name: CIRCLED KATAKANA SU
+Category: So
+Decomposition: <circle> 30B9
+
+[U+32DD]
+Name: CIRCLED KATAKANA SE
+Category: So
+Decomposition: <circle> 30BB
+
+[U+32DE]
+Name: CIRCLED KATAKANA SO
+Category: So
+Decomposition: <circle> 30BD
+
+[U+32DF]
+Name: CIRCLED KATAKANA TA
+Category: So
+Decomposition: <circle> 30BF
+
+[U+32E0]
+Name: CIRCLED KATAKANA TI
+Category: So
+Decomposition: <circle> 30C1
+
+[U+32E1]
+Name: CIRCLED KATAKANA TU
+Category: So
+Decomposition: <circle> 30C4
+
+[U+32E2]
+Name: CIRCLED KATAKANA TE
+Category: So
+Decomposition: <circle> 30C6
+
+[U+32E3]
+Name: CIRCLED KATAKANA TO
+Category: So
+Decomposition: <circle> 30C8
+
+[U+32E4]
+Name: CIRCLED KATAKANA NA
+Category: So
+Decomposition: <circle> 30CA
+
+[U+32E5]
+Name: CIRCLED KATAKANA NI
+Category: So
+Decomposition: <circle> 30CB
+
+[U+32E6]
+Name: CIRCLED KATAKANA NU
+Category: So
+Decomposition: <circle> 30CC
+
+[U+32E7]
+Name: CIRCLED KATAKANA NE
+Category: So
+Decomposition: <circle> 30CD
+
+[U+32E8]
+Name: CIRCLED KATAKANA NO
+Category: So
+Decomposition: <circle> 30CE
+
+[U+32E9]
+Name: CIRCLED KATAKANA HA
+Category: So
+Decomposition: <circle> 30CF
+
+[U+32EA]
+Name: CIRCLED KATAKANA HI
+Category: So
+Decomposition: <circle> 30D2
+
+[U+32EB]
+Name: CIRCLED KATAKANA HU
+Category: So
+Decomposition: <circle> 30D5
+
+[U+32EC]
+Name: CIRCLED KATAKANA HE
+Category: So
+Decomposition: <circle> 30D8
+
+[U+32ED]
+Name: CIRCLED KATAKANA HO
+Category: So
+Decomposition: <circle> 30DB
+
+[U+32EE]
+Name: CIRCLED KATAKANA MA
+Category: So
+Decomposition: <circle> 30DE
+
+[U+32EF]
+Name: CIRCLED KATAKANA MI
+Category: So
+Decomposition: <circle> 30DF
+
+[U+32F0]
+Name: CIRCLED KATAKANA MU
+Category: So
+Decomposition: <circle> 30E0
+
+[U+32F1]
+Name: CIRCLED KATAKANA ME
+Category: So
+Decomposition: <circle> 30E1
+
+[U+32F2]
+Name: CIRCLED KATAKANA MO
+Category: So
+Decomposition: <circle> 30E2
+
+[U+32F3]
+Name: CIRCLED KATAKANA YA
+Category: So
+Decomposition: <circle> 30E4
+
+[U+32F4]
+Name: CIRCLED KATAKANA YU
+Category: So
+Decomposition: <circle> 30E6
+
+[U+32F5]
+Name: CIRCLED KATAKANA YO
+Category: So
+Decomposition: <circle> 30E8
+
+[U+32F6]
+Name: CIRCLED KATAKANA RA
+Category: So
+Decomposition: <circle> 30E9
+
+[U+32F7]
+Name: CIRCLED KATAKANA RI
+Category: So
+Decomposition: <circle> 30EA
+
+[U+32F8]
+Name: CIRCLED KATAKANA RU
+Category: So
+Decomposition: <circle> 30EB
+
+[U+32F9]
+Name: CIRCLED KATAKANA RE
+Category: So
+Decomposition: <circle> 30EC
+
+[U+32FA]
+Name: CIRCLED KATAKANA RO
+Category: So
+Decomposition: <circle> 30ED
+
+[U+32FB]
+Name: CIRCLED KATAKANA WA
+Category: So
+Decomposition: <circle> 30EF
+
+[U+32FC]
+Name: CIRCLED KATAKANA WI
+Category: So
+Decomposition: <circle> 30F0
+
+[U+32FD]
+Name: CIRCLED KATAKANA WE
+Category: So
+Decomposition: <circle> 30F1
+
+[U+32FE]
+Name: CIRCLED KATAKANA WO
+Category: So
+Decomposition: <circle> 30F2
+
+[U+3300]
+Name: SQUARE APAATO
+Category: So
+Decomposition: <square> 30A2 30D1 30FC 30C8
+
+[U+3301]
+Name: SQUARE ARUHUA
+Category: So
+Decomposition: <square> 30A2 30EB 30D5 30A1
+
+[U+3302]
+Name: SQUARE ANPEA
+Category: So
+Decomposition: <square> 30A2 30F3 30DA 30A2
+
+[U+3303]
+Name: SQUARE AARU
+Category: So
+Decomposition: <square> 30A2 30FC 30EB
+
+[U+3304]
+Name: SQUARE ININGU
+Category: So
+Decomposition: <square> 30A4 30CB 30F3 30B0
+
+[U+3305]
+Name: SQUARE INTI
+Category: So
+Decomposition: <square> 30A4 30F3 30C1
+
+[U+3306]
+Name: SQUARE UON
+Category: So
+Decomposition: <square> 30A6 30A9 30F3
+
+[U+3307]
+Name: SQUARE ESUKUUDO
+Category: So
+Decomposition: <square> 30A8 30B9 30AF 30FC 30C9
+
+[U+3308]
+Name: SQUARE EEKAA
+Category: So
+Decomposition: <square> 30A8 30FC 30AB 30FC
+
+[U+3309]
+Name: SQUARE ONSU
+Category: So
+Decomposition: <square> 30AA 30F3 30B9
+
+[U+330A]
+Name: SQUARE OOMU
+Category: So
+Decomposition: <square> 30AA 30FC 30E0
+
+[U+330B]
+Name: SQUARE KAIRI
+Category: So
+Decomposition: <square> 30AB 30A4 30EA
+
+[U+330C]
+Name: SQUARE KARATTO
+Category: So
+Decomposition: <square> 30AB 30E9 30C3 30C8
+
+[U+330D]
+Name: SQUARE KARORII
+Category: So
+Decomposition: <square> 30AB 30ED 30EA 30FC
+
+[U+330E]
+Name: SQUARE GARON
+Category: So
+Decomposition: <square> 30AC 30ED 30F3
+
+[U+330F]
+Name: SQUARE GANMA
+Category: So
+Decomposition: <square> 30AC 30F3 30DE
+
+[U+3310]
+Name: SQUARE GIGA
+Category: So
+Decomposition: <square> 30AE 30AC
+
+[U+3311]
+Name: SQUARE GINII
+Category: So
+Decomposition: <square> 30AE 30CB 30FC
+
+[U+3312]
+Name: SQUARE KYURII
+Category: So
+Decomposition: <square> 30AD 30E5 30EA 30FC
+
+[U+3313]
+Name: SQUARE GIRUDAA
+Category: So
+Decomposition: <square> 30AE 30EB 30C0 30FC
+
+[U+3314]
+Name: SQUARE KIRO
+Category: So
+Decomposition: <square> 30AD 30ED
+
+[U+3315]
+Name: SQUARE KIROGURAMU
+Category: So
+Decomposition: <square> 30AD 30ED 30B0 30E9 30E0
+
+[U+3316]
+Name: SQUARE KIROMEETORU
+Category: So
+Decomposition: <square> 30AD 30ED 30E1 30FC 30C8 30EB
+
+[U+3317]
+Name: SQUARE KIROWATTO
+Category: So
+Decomposition: <square> 30AD 30ED 30EF 30C3 30C8
+
+[U+3318]
+Name: SQUARE GURAMU
+Category: So
+Decomposition: <square> 30B0 30E9 30E0
+
+[U+3319]
+Name: SQUARE GURAMUTON
+Category: So
+Decomposition: <square> 30B0 30E9 30E0 30C8 30F3
+
+[U+331A]
+Name: SQUARE KURUZEIRO
+Category: So
+Decomposition: <square> 30AF 30EB 30BC 30A4 30ED
+
+[U+331B]
+Name: SQUARE KUROONE
+Category: So
+Decomposition: <square> 30AF 30ED 30FC 30CD
+
+[U+331C]
+Name: SQUARE KEESU
+Category: So
+Decomposition: <square> 30B1 30FC 30B9
+
+[U+331D]
+Name: SQUARE KORUNA
+Category: So
+Decomposition: <square> 30B3 30EB 30CA
+
+[U+331E]
+Name: SQUARE KOOPO
+Category: So
+Decomposition: <square> 30B3 30FC 30DD
+
+[U+331F]
+Name: SQUARE SAIKURU
+Category: So
+Decomposition: <square> 30B5 30A4 30AF 30EB
+
+[U+3320]
+Name: SQUARE SANTIIMU
+Category: So
+Decomposition: <square> 30B5 30F3 30C1 30FC 30E0
+
+[U+3321]
+Name: SQUARE SIRINGU
+Category: So
+Decomposition: <square> 30B7 30EA 30F3 30B0
+
+[U+3322]
+Name: SQUARE SENTI
+Category: So
+Decomposition: <square> 30BB 30F3 30C1
+
+[U+3323]
+Name: SQUARE SENTO
+Category: So
+Decomposition: <square> 30BB 30F3 30C8
+
+[U+3324]
+Name: SQUARE DAASU
+Category: So
+Decomposition: <square> 30C0 30FC 30B9
+
+[U+3325]
+Name: SQUARE DESI
+Category: So
+Decomposition: <square> 30C7 30B7
+
+[U+3326]
+Name: SQUARE DORU
+Category: So
+Decomposition: <square> 30C9 30EB
+
+[U+3327]
+Name: SQUARE TON
+Category: So
+Decomposition: <square> 30C8 30F3
+
+[U+3328]
+Name: SQUARE NANO
+Category: So
+Decomposition: <square> 30CA 30CE
+
+[U+3329]
+Name: SQUARE NOTTO
+Category: So
+Decomposition: <square> 30CE 30C3 30C8
+
+[U+332A]
+Name: SQUARE HAITU
+Category: So
+Decomposition: <square> 30CF 30A4 30C4
+
+[U+332B]
+Name: SQUARE PAASENTO
+Category: So
+Decomposition: <square> 30D1 30FC 30BB 30F3 30C8
+
+[U+332C]
+Name: SQUARE PAATU
+Category: So
+Decomposition: <square> 30D1 30FC 30C4
+
+[U+332D]
+Name: SQUARE BAARERU
+Category: So
+Decomposition: <square> 30D0 30FC 30EC 30EB
+
+[U+332E]
+Name: SQUARE PIASUTORU
+Category: So
+Decomposition: <square> 30D4 30A2 30B9 30C8 30EB
+
+[U+332F]
+Name: SQUARE PIKURU
+Category: So
+Decomposition: <square> 30D4 30AF 30EB
+
+[U+3330]
+Name: SQUARE PIKO
+Category: So
+Decomposition: <square> 30D4 30B3
+
+[U+3331]
+Name: SQUARE BIRU
+Category: So
+Decomposition: <square> 30D3 30EB
+
+[U+3332]
+Name: SQUARE HUARADDO
+Category: So
+Decomposition: <square> 30D5 30A1 30E9 30C3 30C9
+
+[U+3333]
+Name: SQUARE HUIITO
+Category: So
+Decomposition: <square> 30D5 30A3 30FC 30C8
+
+[U+3334]
+Name: SQUARE BUSSYERU
+Category: So
+Decomposition: <square> 30D6 30C3 30B7 30A7 30EB
+
+[U+3335]
+Name: SQUARE HURAN
+Category: So
+Decomposition: <square> 30D5 30E9 30F3
+
+[U+3336]
+Name: SQUARE HEKUTAARU
+Category: So
+Decomposition: <square> 30D8 30AF 30BF 30FC 30EB
+
+[U+3337]
+Name: SQUARE PESO
+Category: So
+Decomposition: <square> 30DA 30BD
+
+[U+3338]
+Name: SQUARE PENIHI
+Category: So
+Decomposition: <square> 30DA 30CB 30D2
+
+[U+3339]
+Name: SQUARE HERUTU
+Category: So
+Decomposition: <square> 30D8 30EB 30C4
+
+[U+333A]
+Name: SQUARE PENSU
+Category: So
+Decomposition: <square> 30DA 30F3 30B9
+
+[U+333B]
+Name: SQUARE PEEZI
+Category: So
+Decomposition: <square> 30DA 30FC 30B8
+
+[U+333C]
+Name: SQUARE BEETA
+Category: So
+Decomposition: <square> 30D9 30FC 30BF
+
+[U+333D]
+Name: SQUARE POINTO
+Category: So
+Decomposition: <square> 30DD 30A4 30F3 30C8
+
+[U+333E]
+Name: SQUARE BORUTO
+Category: So
+Decomposition: <square> 30DC 30EB 30C8
+
+[U+333F]
+Name: SQUARE HON
+Category: So
+Decomposition: <square> 30DB 30F3
+
+[U+3340]
+Name: SQUARE PONDO
+Category: So
+Decomposition: <square> 30DD 30F3 30C9
+
+[U+3341]
+Name: SQUARE HOORU
+Category: So
+Decomposition: <square> 30DB 30FC 30EB
+
+[U+3342]
+Name: SQUARE HOON
+Category: So
+Decomposition: <square> 30DB 30FC 30F3
+
+[U+3343]
+Name: SQUARE MAIKURO
+Category: So
+Decomposition: <square> 30DE 30A4 30AF 30ED
+
+[U+3344]
+Name: SQUARE MAIRU
+Category: So
+Decomposition: <square> 30DE 30A4 30EB
+
+[U+3345]
+Name: SQUARE MAHHA
+Category: So
+Decomposition: <square> 30DE 30C3 30CF
+
+[U+3346]
+Name: SQUARE MARUKU
+Category: So
+Decomposition: <square> 30DE 30EB 30AF
+
+[U+3347]
+Name: SQUARE MANSYON
+Category: So
+Decomposition: <square> 30DE 30F3 30B7 30E7 30F3
+
+[U+3348]
+Name: SQUARE MIKURON
+Category: So
+Decomposition: <square> 30DF 30AF 30ED 30F3
+
+[U+3349]
+Name: SQUARE MIRI
+Category: So
+Decomposition: <square> 30DF 30EA
+
+[U+334A]
+Name: SQUARE MIRIBAARU
+Category: So
+Decomposition: <square> 30DF 30EA 30D0 30FC 30EB
+
+[U+334B]
+Name: SQUARE MEGA
+Category: So
+Decomposition: <square> 30E1 30AC
+
+[U+334C]
+Name: SQUARE MEGATON
+Category: So
+Decomposition: <square> 30E1 30AC 30C8 30F3
+
+[U+334D]
+Name: SQUARE MEETORU
+Category: So
+Decomposition: <square> 30E1 30FC 30C8 30EB
+
+[U+334E]
+Name: SQUARE YAADO
+Category: So
+Decomposition: <square> 30E4 30FC 30C9
+
+[U+334F]
+Name: SQUARE YAARU
+Category: So
+Decomposition: <square> 30E4 30FC 30EB
+
+[U+3350]
+Name: SQUARE YUAN
+Category: So
+Decomposition: <square> 30E6 30A2 30F3
+
+[U+3351]
+Name: SQUARE RITTORU
+Category: So
+Decomposition: <square> 30EA 30C3 30C8 30EB
+
+[U+3352]
+Name: SQUARE RIRA
+Category: So
+Decomposition: <square> 30EA 30E9
+
+[U+3353]
+Name: SQUARE RUPII
+Category: So
+Decomposition: <square> 30EB 30D4 30FC
+
+[U+3354]
+Name: SQUARE RUUBURU
+Category: So
+Decomposition: <square> 30EB 30FC 30D6 30EB
+
+[U+3355]
+Name: SQUARE REMU
+Category: So
+Decomposition: <square> 30EC 30E0
+
+[U+3356]
+Name: SQUARE RENTOGEN
+Category: So
+Decomposition: <square> 30EC 30F3 30C8 30B2 30F3
+
+[U+3357]
+Name: SQUARE WATTO
+Category: So
+Decomposition: <square> 30EF 30C3 30C8
+
+[U+3358]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ZERO
+Category: So
+Decomposition: <compat> 0030 70B9
+
+[U+3359]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ONE
+Category: So
+Decomposition: <compat> 0031 70B9
+
+[U+335A]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWO
+Category: So
+Decomposition: <compat> 0032 70B9
+
+[U+335B]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THREE
+Category: So
+Decomposition: <compat> 0033 70B9
+
+[U+335C]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOUR
+Category: So
+Decomposition: <compat> 0034 70B9
+
+[U+335D]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIVE
+Category: So
+Decomposition: <compat> 0035 70B9
+
+[U+335E]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIX
+Category: So
+Decomposition: <compat> 0036 70B9
+
+[U+335F]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVEN
+Category: So
+Decomposition: <compat> 0037 70B9
+
+[U+3360]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHT
+Category: So
+Decomposition: <compat> 0038 70B9
+
+[U+3361]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINE
+Category: So
+Decomposition: <compat> 0039 70B9
+
+[U+3362]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TEN
+Category: So
+Decomposition: <compat> 0031 0030 70B9
+
+[U+3363]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ELEVEN
+Category: So
+Decomposition: <compat> 0031 0031 70B9
+
+[U+3364]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWELVE
+Category: So
+Decomposition: <compat> 0031 0032 70B9
+
+[U+3365]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THIRTEEN
+Category: So
+Decomposition: <compat> 0031 0033 70B9
+
+[U+3366]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOURTEEN
+Category: So
+Decomposition: <compat> 0031 0034 70B9
+
+[U+3367]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIFTEEN
+Category: So
+Decomposition: <compat> 0031 0035 70B9
+
+[U+3368]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIXTEEN
+Category: So
+Decomposition: <compat> 0031 0036 70B9
+
+[U+3369]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVENTEEN
+Category: So
+Decomposition: <compat> 0031 0037 70B9
+
+[U+336A]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHTEEN
+Category: So
+Decomposition: <compat> 0031 0038 70B9
+
+[U+336B]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINETEEN
+Category: So
+Decomposition: <compat> 0031 0039 70B9
+
+[U+336C]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY
+Category: So
+Decomposition: <compat> 0032 0030 70B9
+
+[U+336D]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-ONE
+Category: So
+Decomposition: <compat> 0032 0031 70B9
+
+[U+336E]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-TWO
+Category: So
+Decomposition: <compat> 0032 0032 70B9
+
+[U+336F]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-THREE
+Category: So
+Decomposition: <compat> 0032 0033 70B9
+
+[U+3370]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-FOUR
+Category: So
+Decomposition: <compat> 0032 0034 70B9
+
+[U+3371]
+Name: SQUARE HPA
+Category: So
+Decomposition: <square> 0068 0050 0061
+
+[U+3372]
+Name: SQUARE DA
+Category: So
+Decomposition: <square> 0064 0061
+
+[U+3373]
+Name: SQUARE AU
+Category: So
+Decomposition: <square> 0041 0055
+
+[U+3374]
+Name: SQUARE BAR
+Category: So
+Decomposition: <square> 0062 0061 0072
+
+[U+3375]
+Name: SQUARE OV
+Category: So
+Decomposition: <square> 006F 0056
+
+[U+3376]
+Name: SQUARE PC
+Category: So
+Decomposition: <square> 0070 0063
+
+[U+337B]
+Name: SQUARE ERA NAME HEISEI
+Category: So
+Decomposition: <square> 5E73 6210
+
+[U+337C]
+Name: SQUARE ERA NAME SYOUWA
+Category: So
+Decomposition: <square> 662D 548C
+
+[U+337D]
+Name: SQUARE ERA NAME TAISYOU
+Category: So
+Decomposition: <square> 5927 6B63
+
+[U+337E]
+Name: SQUARE ERA NAME MEIZI
+Category: So
+Decomposition: <square> 660E 6CBB
+
+[U+337F]
+Name: SQUARE CORPORATION
+Category: So
+Decomposition: <square> 682A 5F0F 4F1A 793E
+
+[U+3380]
+Name: SQUARE PA AMPS
+Category: So
+Decomposition: <square> 0070 0041
+
+[U+3381]
+Name: SQUARE NA
+Category: So
+Decomposition: <square> 006E 0041
+
+[U+3382]
+Name: SQUARE MU A
+Category: So
+Decomposition: <square> 03BC 0041
+
+[U+3383]
+Name: SQUARE MA
+Category: So
+Decomposition: <square> 006D 0041
+
+[U+3384]
+Name: SQUARE KA
+Category: So
+Decomposition: <square> 006B 0041
+
+[U+3385]
+Name: SQUARE KB
+Category: So
+Decomposition: <square> 004B 0042
+
+[U+3386]
+Name: SQUARE MB
+Category: So
+Decomposition: <square> 004D 0042
+
+[U+3387]
+Name: SQUARE GB
+Category: So
+Decomposition: <square> 0047 0042
+
+[U+3388]
+Name: SQUARE CAL
+Category: So
+Decomposition: <square> 0063 0061 006C
+
+[U+3389]
+Name: SQUARE KCAL
+Category: So
+Decomposition: <square> 006B 0063 0061 006C
+
+[U+338A]
+Name: SQUARE PF
+Category: So
+Decomposition: <square> 0070 0046
+
+[U+338B]
+Name: SQUARE NF
+Category: So
+Decomposition: <square> 006E 0046
+
+[U+338C]
+Name: SQUARE MU F
+Category: So
+Decomposition: <square> 03BC 0046
+
+[U+338D]
+Name: SQUARE MU G
+Category: So
+Decomposition: <square> 03BC 0067
+
+[U+338E]
+Name: SQUARE MG
+Category: So
+Decomposition: <square> 006D 0067
+
+[U+338F]
+Name: SQUARE KG
+Category: So
+Decomposition: <square> 006B 0067
+
+[U+3390]
+Name: SQUARE HZ
+Category: So
+Decomposition: <square> 0048 007A
+
+[U+3391]
+Name: SQUARE KHZ
+Category: So
+Decomposition: <square> 006B 0048 007A
+
+[U+3392]
+Name: SQUARE MHZ
+Category: So
+Decomposition: <square> 004D 0048 007A
+
+[U+3393]
+Name: SQUARE GHZ
+Category: So
+Decomposition: <square> 0047 0048 007A
+
+[U+3394]
+Name: SQUARE THZ
+Category: So
+Decomposition: <square> 0054 0048 007A
+
+[U+3395]
+Name: SQUARE MU L
+Category: So
+Decomposition: <square> 03BC 2113
+
+[U+3396]
+Name: SQUARE ML
+Category: So
+Decomposition: <square> 006D 2113
+
+[U+3397]
+Name: SQUARE DL
+Category: So
+Decomposition: <square> 0064 2113
+
+[U+3398]
+Name: SQUARE KL
+Category: So
+Decomposition: <square> 006B 2113
+
+[U+3399]
+Name: SQUARE FM
+Category: So
+Decomposition: <square> 0066 006D
+
+[U+339A]
+Name: SQUARE NM
+Category: So
+Decomposition: <square> 006E 006D
+
+[U+339B]
+Name: SQUARE MU M
+Category: So
+Decomposition: <square> 03BC 006D
+
+[U+339C]
+Name: SQUARE MM
+Category: So
+Decomposition: <square> 006D 006D
+
+[U+339D]
+Name: SQUARE CM
+Category: So
+Decomposition: <square> 0063 006D
+
+[U+339E]
+Name: SQUARE KM
+Category: So
+Decomposition: <square> 006B 006D
+
+[U+339F]
+Name: SQUARE MM SQUARED
+Category: So
+Decomposition: <square> 006D 006D 00B2
+
+[U+33A0]
+Name: SQUARE CM SQUARED
+Category: So
+Decomposition: <square> 0063 006D 00B2
+
+[U+33A1]
+Name: SQUARE M SQUARED
+Category: So
+Decomposition: <square> 006D 00B2
+
+[U+33A2]
+Name: SQUARE KM SQUARED
+Category: So
+Decomposition: <square> 006B 006D 00B2
+
+[U+33A3]
+Name: SQUARE MM CUBED
+Category: So
+Decomposition: <square> 006D 006D 00B3
+
+[U+33A4]
+Name: SQUARE CM CUBED
+Category: So
+Decomposition: <square> 0063 006D 00B3
+
+[U+33A5]
+Name: SQUARE M CUBED
+Category: So
+Decomposition: <square> 006D 00B3
+
+[U+33A6]
+Name: SQUARE KM CUBED
+Category: So
+Decomposition: <square> 006B 006D 00B3
+
+[U+33A7]
+Name: SQUARE M OVER S
+Category: So
+Decomposition: <square> 006D 2215 0073
+
+[U+33A8]
+Name: SQUARE M OVER S SQUARED
+Category: So
+Decomposition: <square> 006D 2215 0073 00B2
+
+[U+33A9]
+Name: SQUARE PA
+Category: So
+Decomposition: <square> 0050 0061
+
+[U+33AA]
+Name: SQUARE KPA
+Category: So
+Decomposition: <square> 006B 0050 0061
+
+[U+33AB]
+Name: SQUARE MPA
+Category: So
+Decomposition: <square> 004D 0050 0061
+
+[U+33AC]
+Name: SQUARE GPA
+Category: So
+Decomposition: <square> 0047 0050 0061
+
+[U+33AD]
+Name: SQUARE RAD
+Category: So
+Decomposition: <square> 0072 0061 0064
+
+[U+33AE]
+Name: SQUARE RAD OVER S
+Category: So
+Decomposition: <square> 0072 0061 0064 2215 0073
+
+[U+33AF]
+Name: SQUARE RAD OVER S SQUARED
+Category: So
+Decomposition: <square> 0072 0061 0064 2215 0073 00B2
+
+[U+33B0]
+Name: SQUARE PS
+Category: So
+Decomposition: <square> 0070 0073
+
+[U+33B1]
+Name: SQUARE NS
+Category: So
+Decomposition: <square> 006E 0073
+
+[U+33B2]
+Name: SQUARE MU S
+Category: So
+Decomposition: <square> 03BC 0073
+
+[U+33B3]
+Name: SQUARE MS
+Category: So
+Decomposition: <square> 006D 0073
+
+[U+33B4]
+Name: SQUARE PV
+Category: So
+Decomposition: <square> 0070 0056
+
+[U+33B5]
+Name: SQUARE NV
+Category: So
+Decomposition: <square> 006E 0056
+
+[U+33B6]
+Name: SQUARE MU V
+Category: So
+Decomposition: <square> 03BC 0056
+
+[U+33B7]
+Name: SQUARE MV
+Category: So
+Decomposition: <square> 006D 0056
+
+[U+33B8]
+Name: SQUARE KV
+Category: So
+Decomposition: <square> 006B 0056
+
+[U+33B9]
+Name: SQUARE MV MEGA
+Category: So
+Decomposition: <square> 004D 0056
+
+[U+33BA]
+Name: SQUARE PW
+Category: So
+Decomposition: <square> 0070 0057
+
+[U+33BB]
+Name: SQUARE NW
+Category: So
+Decomposition: <square> 006E 0057
+
+[U+33BC]
+Name: SQUARE MU W
+Category: So
+Decomposition: <square> 03BC 0057
+
+[U+33BD]
+Name: SQUARE MW
+Category: So
+Decomposition: <square> 006D 0057
+
+[U+33BE]
+Name: SQUARE KW
+Category: So
+Decomposition: <square> 006B 0057
+
+[U+33BF]
+Name: SQUARE MW MEGA
+Category: So
+Decomposition: <square> 004D 0057
+
+[U+33C0]
+Name: SQUARE K OHM
+Category: So
+Decomposition: <square> 006B 03A9
+
+[U+33C1]
+Name: SQUARE M OHM
+Category: So
+Decomposition: <square> 004D 03A9
+
+[U+33C2]
+Name: SQUARE AM
+Category: So
+Decomposition: <square> 0061 002E 006D 002E
+
+[U+33C3]
+Name: SQUARE BQ
+Category: So
+Decomposition: <square> 0042 0071
+
+[U+33C4]
+Name: SQUARE CC
+Category: So
+Decomposition: <square> 0063 0063
+
+[U+33C5]
+Name: SQUARE CD
+Category: So
+Decomposition: <square> 0063 0064
+
+[U+33C6]
+Name: SQUARE C OVER KG
+Category: So
+Decomposition: <square> 0043 2215 006B 0067
+
+[U+33C7]
+Name: SQUARE CO
+Category: So
+Decomposition: <square> 0043 006F 002E
+
+[U+33C8]
+Name: SQUARE DB
+Category: So
+Decomposition: <square> 0064 0042
+
+[U+33C9]
+Name: SQUARE GY
+Category: So
+Decomposition: <square> 0047 0079
+
+[U+33CA]
+Name: SQUARE HA
+Category: So
+Decomposition: <square> 0068 0061
+
+[U+33CB]
+Name: SQUARE HP
+Category: So
+Decomposition: <square> 0048 0050
+
+[U+33CC]
+Name: SQUARE IN
+Category: So
+Decomposition: <square> 0069 006E
+
+[U+33CD]
+Name: SQUARE KK
+Category: So
+Decomposition: <square> 004B 004B
+
+[U+33CE]
+Name: SQUARE KM CAPITAL
+Category: So
+Decomposition: <square> 004B 004D
+
+[U+33CF]
+Name: SQUARE KT
+Category: So
+Decomposition: <square> 006B 0074
+
+[U+33D0]
+Name: SQUARE LM
+Category: So
+Decomposition: <square> 006C 006D
+
+[U+33D1]
+Name: SQUARE LN
+Category: So
+Decomposition: <square> 006C 006E
+
+[U+33D2]
+Name: SQUARE LOG
+Category: So
+Decomposition: <square> 006C 006F 0067
+
+[U+33D3]
+Name: SQUARE LX
+Category: So
+Decomposition: <square> 006C 0078
+
+[U+33D4]
+Name: SQUARE MB SMALL
+Category: So
+Decomposition: <square> 006D 0062
+
+[U+33D5]
+Name: SQUARE MIL
+Category: So
+Decomposition: <square> 006D 0069 006C
+
+[U+33D6]
+Name: SQUARE MOL
+Category: So
+Decomposition: <square> 006D 006F 006C
+
+[U+33D7]
+Name: SQUARE PH
+Category: So
+Decomposition: <square> 0050 0048
+
+[U+33D8]
+Name: SQUARE PM
+Category: So
+Decomposition: <square> 0070 002E 006D 002E
+
+[U+33D9]
+Name: SQUARE PPM
+Category: So
+Decomposition: <square> 0050 0050 004D
+
+[U+33DA]
+Name: SQUARE PR
+Category: So
+Decomposition: <square> 0050 0052
+
+[U+33DB]
+Name: SQUARE SR
+Category: So
+Decomposition: <square> 0073 0072
+
+[U+33DC]
+Name: SQUARE SV
+Category: So
+Decomposition: <square> 0053 0076
+
+[U+33DD]
+Name: SQUARE WB
+Category: So
+Decomposition: <square> 0057 0062
+
+[U+33E0]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ONE
+Category: So
+Decomposition: <compat> 0031 65E5
+
+[U+33E1]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWO
+Category: So
+Decomposition: <compat> 0032 65E5
+
+[U+33E2]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THREE
+Category: So
+Decomposition: <compat> 0033 65E5
+
+[U+33E3]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOUR
+Category: So
+Decomposition: <compat> 0034 65E5
+
+[U+33E4]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIVE
+Category: So
+Decomposition: <compat> 0035 65E5
+
+[U+33E5]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIX
+Category: So
+Decomposition: <compat> 0036 65E5
+
+[U+33E6]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVEN
+Category: So
+Decomposition: <compat> 0037 65E5
+
+[U+33E7]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHT
+Category: So
+Decomposition: <compat> 0038 65E5
+
+[U+33E8]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINE
+Category: So
+Decomposition: <compat> 0039 65E5
+
+[U+33E9]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TEN
+Category: So
+Decomposition: <compat> 0031 0030 65E5
+
+[U+33EA]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ELEVEN
+Category: So
+Decomposition: <compat> 0031 0031 65E5
+
+[U+33EB]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWELVE
+Category: So
+Decomposition: <compat> 0031 0032 65E5
+
+[U+33EC]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTEEN
+Category: So
+Decomposition: <compat> 0031 0033 65E5
+
+[U+33ED]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOURTEEN
+Category: So
+Decomposition: <compat> 0031 0034 65E5
+
+[U+33EE]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIFTEEN
+Category: So
+Decomposition: <compat> 0031 0035 65E5
+
+[U+33EF]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIXTEEN
+Category: So
+Decomposition: <compat> 0031 0036 65E5
+
+[U+33F0]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVENTEEN
+Category: So
+Decomposition: <compat> 0031 0037 65E5
+
+[U+33F1]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHTEEN
+Category: So
+Decomposition: <compat> 0031 0038 65E5
+
+[U+33F2]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINETEEN
+Category: So
+Decomposition: <compat> 0031 0039 65E5
+
+[U+33F3]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY
+Category: So
+Decomposition: <compat> 0032 0030 65E5
+
+[U+33F4]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-ONE
+Category: So
+Decomposition: <compat> 0032 0031 65E5
+
+[U+33F5]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-TWO
+Category: So
+Decomposition: <compat> 0032 0032 65E5
+
+[U+33F6]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-THREE
+Category: So
+Decomposition: <compat> 0032 0033 65E5
+
+[U+33F7]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FOUR
+Category: So
+Decomposition: <compat> 0032 0034 65E5
+
+[U+33F8]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FIVE
+Category: So
+Decomposition: <compat> 0032 0035 65E5
+
+[U+33F9]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SIX
+Category: So
+Decomposition: <compat> 0032 0036 65E5
+
+[U+33FA]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SEVEN
+Category: So
+Decomposition: <compat> 0032 0037 65E5
+
+[U+33FB]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-EIGHT
+Category: So
+Decomposition: <compat> 0032 0038 65E5
+
+[U+33FC]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-NINE
+Category: So
+Decomposition: <compat> 0032 0039 65E5
+
+[U+33FD]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY
+Category: So
+Decomposition: <compat> 0033 0030 65E5
+
+[U+33FE]
+Name: IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE
+Category: So
+Decomposition: <compat> 0033 0031 65E5
+
+[U+4E00]
+Name: <CJK Ideograph, First>
+Category: Lo
+
+[U+9FA5]
+Name: <CJK Ideograph, Last>
+Category: Lo
+
+[U+AC00]
+Name: <Hangul Syllable, First>
+Category: Lo
+
+[U+D7A3]
+Name: <Hangul Syllable, Last>
+Category: Lo
+
+[U+D800]
+Name: <Unassigned High Surrogate, First>
+Category: Cs
+
+[U+DB7F]
+Name: <Unassigned High Surrogate, Last>
+Category: Cs
+
+[U+DB80]
+Name: <Private Use High Surrogate, First>
+Category: Cs
+
+[U+DBFF]
+Name: <Private Use High Surrogate, Last>
+Category: Cs
+
+[U+DC00]
+Name: <Low Surrogate, First>
+Category: Cs
+
+[U+DFFF]
+Name: <Low Surrogate, Last>
+Category: Cs
+

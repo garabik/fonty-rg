@@ -1,0 +1,47 @@
+#!/usr/bin/perl
+
+$_ = <>; s/\s+$//;
+while (1)
+{
+	if (/^\[(.*)\]$/)
+	{
+		unless ($juzbyl = exists $juzbyl{$1})
+		{
+			push @znaki, "$_\n";
+			$juzbyl{$1} = 1;
+		}
+	}
+	elsif (/^$/)
+	{
+		if (@znaki || $juzbyl)
+		{
+			if ($znak ne "")
+			{
+				push @{$font{$znak}}, @znaki;
+			}
+			else
+			{
+				push @font, {NAGLOWKI => [@znaki], ZNAK => ""};
+			}
+			@znaki = ();
+			$znak = "";
+			$juzbyl = 0;
+		}
+	}
+	else
+	{
+		(@znaki ? /^[.0]+$/ ? $znak : $znaki[-1] : $font) .= "$_\n"
+			unless $juzbyl;
+	}
+	last unless defined;
+	$_ = <>; s/\s+$//;
+}
+
+print "$font\n";
+
+push @font, map {{NAGLOWKI => $font{$_}, ZNAK => $_}} keys %font;
+
+foreach (sort {${$a}{NAGLOWKI}[0] cmp ${$b}{NAGLOWKI}[0]} @font)
+{
+	print @{${$_}{NAGLOWKI}}, ${$_}{ZNAK}, "\n";
+}

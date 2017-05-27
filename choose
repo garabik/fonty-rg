@@ -1,0 +1,50 @@
+#!/usr/bin/perl
+
+$plikzestaw = shift;
+$plikfont = shift;
+
+open FONT, $plikfont;
+$_ = <FONT>; s/\s+$//;
+while (1)
+{
+	if (/^\[(.*)\]$/)
+	{
+		unless ($juzbyl = exists $znak{$1})
+		{
+			push @znaki, $1;
+			$znak{$1} = "";
+		}
+	}
+	elsif (/^$/)
+	{
+		if (@znaki || $juzbyl)
+		{
+			foreach (@znaki)
+			{
+				$znak{$_} .= $znak;
+			}
+			@znaki = ();
+			$znak = "";
+			$juzbyl = 0;
+		}
+	}
+	else
+	{
+		(@znaki ? /^[.0]+$/ ? $znak : $znak{$znaki[-1]} : $font)
+			.= "$_\n"
+			unless $juzbyl;
+	}
+	last unless defined;
+	$_ = <FONT>; s/\s+$//;
+}
+close FONT;
+
+print "$font\n";
+
+open ZESTAW, $plikzestaw;
+while (<ZESTAW>)
+{
+	chomp;
+	print "[$_]\n", $znak{exists $znak{$_} ? $_ : "U+FFFD"}, "\n";
+}
+close ZESTAW;

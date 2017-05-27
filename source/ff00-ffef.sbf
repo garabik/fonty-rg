@@ -1,0 +1,1114 @@
+[U+FF01]
+Name: FULLWIDTH EXCLAMATION MARK
+Category: Po
+Decomposition: <wide> 0021
+
+[U+FF02]
+Name: FULLWIDTH QUOTATION MARK
+Category: Po
+Decomposition: <wide> 0022
+
+[U+FF03]
+Name: FULLWIDTH NUMBER SIGN
+Category: Po
+Decomposition: <wide> 0023
+
+[U+FF04]
+Name: FULLWIDTH DOLLAR SIGN
+Category: Sc
+Decomposition: <wide> 0024
+
+[U+FF05]
+Name: FULLWIDTH PERCENT SIGN
+Category: Po
+Decomposition: <wide> 0025
+
+[U+FF06]
+Name: FULLWIDTH AMPERSAND
+Category: Po
+Decomposition: <wide> 0026
+
+[U+FF07]
+Name: FULLWIDTH APOSTROPHE
+Category: Po
+Decomposition: <wide> 0027
+
+[U+FF08]
+Name: FULLWIDTH LEFT PARENTHESIS
+Category: Ps
+Decomposition: <wide> 0028
+
+[U+FF09]
+Name: FULLWIDTH RIGHT PARENTHESIS
+Category: Pe
+Decomposition: <wide> 0029
+
+[U+FF0A]
+Name: FULLWIDTH ASTERISK
+Category: Po
+Decomposition: <wide> 002A
+
+[U+FF0B]
+Name: FULLWIDTH PLUS SIGN
+Category: Sm
+Decomposition: <wide> 002B
+
+[U+FF0C]
+Name: FULLWIDTH COMMA
+Category: Po
+Decomposition: <wide> 002C
+
+[U+FF0D]
+Name: FULLWIDTH HYPHEN-MINUS
+Category: Pd
+Decomposition: <wide> 002D
+
+[U+FF0E]
+Name: FULLWIDTH FULL STOP
+Category: Po
+Decomposition: <wide> 002E
+
+[U+FF0F]
+Name: FULLWIDTH SOLIDUS
+Category: Po
+Decomposition: <wide> 002F
+
+[U+FF10]
+Name: FULLWIDTH DIGIT ZERO
+Category: Nd
+Decomposition: <wide> 0030
+
+[U+FF11]
+Name: FULLWIDTH DIGIT ONE
+Category: Nd
+Decomposition: <wide> 0031
+
+[U+FF12]
+Name: FULLWIDTH DIGIT TWO
+Category: Nd
+Decomposition: <wide> 0032
+
+[U+FF13]
+Name: FULLWIDTH DIGIT THREE
+Category: Nd
+Decomposition: <wide> 0033
+
+[U+FF14]
+Name: FULLWIDTH DIGIT FOUR
+Category: Nd
+Decomposition: <wide> 0034
+
+[U+FF15]
+Name: FULLWIDTH DIGIT FIVE
+Category: Nd
+Decomposition: <wide> 0035
+
+[U+FF16]
+Name: FULLWIDTH DIGIT SIX
+Category: Nd
+Decomposition: <wide> 0036
+
+[U+FF17]
+Name: FULLWIDTH DIGIT SEVEN
+Category: Nd
+Decomposition: <wide> 0037
+
+[U+FF18]
+Name: FULLWIDTH DIGIT EIGHT
+Category: Nd
+Decomposition: <wide> 0038
+
+[U+FF19]
+Name: FULLWIDTH DIGIT NINE
+Category: Nd
+Decomposition: <wide> 0039
+
+[U+FF1A]
+Name: FULLWIDTH COLON
+Category: Po
+Decomposition: <wide> 003A
+
+[U+FF1B]
+Name: FULLWIDTH SEMICOLON
+Category: Po
+Decomposition: <wide> 003B
+
+[U+FF1C]
+Name: FULLWIDTH LESS-THAN SIGN
+Category: Sm
+Decomposition: <wide> 003C
+
+[U+FF1D]
+Name: FULLWIDTH EQUALS SIGN
+Category: Sm
+Decomposition: <wide> 003D
+
+[U+FF1E]
+Name: FULLWIDTH GREATER-THAN SIGN
+Category: Sm
+Decomposition: <wide> 003E
+
+[U+FF1F]
+Name: FULLWIDTH QUESTION MARK
+Category: Po
+Decomposition: <wide> 003F
+
+[U+FF20]
+Name: FULLWIDTH COMMERCIAL AT
+Category: Po
+Decomposition: <wide> 0040
+
+[U+FF21]
+Name: FULLWIDTH LATIN CAPITAL LETTER A
+Category: Lu
+Decomposition: <wide> 0041
+
+[U+FF22]
+Name: FULLWIDTH LATIN CAPITAL LETTER B
+Category: Lu
+Decomposition: <wide> 0042
+
+[U+FF23]
+Name: FULLWIDTH LATIN CAPITAL LETTER C
+Category: Lu
+Decomposition: <wide> 0043
+
+[U+FF24]
+Name: FULLWIDTH LATIN CAPITAL LETTER D
+Category: Lu
+Decomposition: <wide> 0044
+
+[U+FF25]
+Name: FULLWIDTH LATIN CAPITAL LETTER E
+Category: Lu
+Decomposition: <wide> 0045
+
+[U+FF26]
+Name: FULLWIDTH LATIN CAPITAL LETTER F
+Category: Lu
+Decomposition: <wide> 0046
+
+[U+FF27]
+Name: FULLWIDTH LATIN CAPITAL LETTER G
+Category: Lu
+Decomposition: <wide> 0047
+
+[U+FF28]
+Name: FULLWIDTH LATIN CAPITAL LETTER H
+Category: Lu
+Decomposition: <wide> 0048
+
+[U+FF29]
+Name: FULLWIDTH LATIN CAPITAL LETTER I
+Category: Lu
+Decomposition: <wide> 0049
+
+[U+FF2A]
+Name: FULLWIDTH LATIN CAPITAL LETTER J
+Category: Lu
+Decomposition: <wide> 004A
+
+[U+FF2B]
+Name: FULLWIDTH LATIN CAPITAL LETTER K
+Category: Lu
+Decomposition: <wide> 004B
+
+[U+FF2C]
+Name: FULLWIDTH LATIN CAPITAL LETTER L
+Category: Lu
+Decomposition: <wide> 004C
+
+[U+FF2D]
+Name: FULLWIDTH LATIN CAPITAL LETTER M
+Category: Lu
+Decomposition: <wide> 004D
+
+[U+FF2E]
+Name: FULLWIDTH LATIN CAPITAL LETTER N
+Category: Lu
+Decomposition: <wide> 004E
+
+[U+FF2F]
+Name: FULLWIDTH LATIN CAPITAL LETTER O
+Category: Lu
+Decomposition: <wide> 004F
+
+[U+FF30]
+Name: FULLWIDTH LATIN CAPITAL LETTER P
+Category: Lu
+Decomposition: <wide> 0050
+
+[U+FF31]
+Name: FULLWIDTH LATIN CAPITAL LETTER Q
+Category: Lu
+Decomposition: <wide> 0051
+
+[U+FF32]
+Name: FULLWIDTH LATIN CAPITAL LETTER R
+Category: Lu
+Decomposition: <wide> 0052
+
+[U+FF33]
+Name: FULLWIDTH LATIN CAPITAL LETTER S
+Category: Lu
+Decomposition: <wide> 0053
+
+[U+FF34]
+Name: FULLWIDTH LATIN CAPITAL LETTER T
+Category: Lu
+Decomposition: <wide> 0054
+
+[U+FF35]
+Name: FULLWIDTH LATIN CAPITAL LETTER U
+Category: Lu
+Decomposition: <wide> 0055
+
+[U+FF36]
+Name: FULLWIDTH LATIN CAPITAL LETTER V
+Category: Lu
+Decomposition: <wide> 0056
+
+[U+FF37]
+Name: FULLWIDTH LATIN CAPITAL LETTER W
+Category: Lu
+Decomposition: <wide> 0057
+
+[U+FF38]
+Name: FULLWIDTH LATIN CAPITAL LETTER X
+Category: Lu
+Decomposition: <wide> 0058
+
+[U+FF39]
+Name: FULLWIDTH LATIN CAPITAL LETTER Y
+Category: Lu
+Decomposition: <wide> 0059
+
+[U+FF3A]
+Name: FULLWIDTH LATIN CAPITAL LETTER Z
+Category: Lu
+Decomposition: <wide> 005A
+
+[U+FF3B]
+Name: FULLWIDTH LEFT SQUARE BRACKET
+Category: Ps
+Decomposition: <wide> 005B
+
+[U+FF3C]
+Name: FULLWIDTH REVERSE SOLIDUS
+Category: Po
+Decomposition: <wide> 005C
+
+[U+FF3D]
+Name: FULLWIDTH RIGHT SQUARE BRACKET
+Category: Pe
+Decomposition: <wide> 005D
+
+[U+FF3E]
+Name: FULLWIDTH CIRCUMFLEX ACCENT
+Category: Sk
+Decomposition: <wide> 005E
+
+[U+FF3F]
+Name: FULLWIDTH LOW LINE
+Category: Pc
+Decomposition: <wide> 005F
+
+[U+FF40]
+Name: FULLWIDTH GRAVE ACCENT
+Category: Sk
+Decomposition: <wide> 0060
+
+[U+FF41]
+Name: FULLWIDTH LATIN SMALL LETTER A
+Category: Ll
+Decomposition: <wide> 0061
+
+[U+FF42]
+Name: FULLWIDTH LATIN SMALL LETTER B
+Category: Ll
+Decomposition: <wide> 0062
+
+[U+FF43]
+Name: FULLWIDTH LATIN SMALL LETTER C
+Category: Ll
+Decomposition: <wide> 0063
+
+[U+FF44]
+Name: FULLWIDTH LATIN SMALL LETTER D
+Category: Ll
+Decomposition: <wide> 0064
+
+[U+FF45]
+Name: FULLWIDTH LATIN SMALL LETTER E
+Category: Ll
+Decomposition: <wide> 0065
+
+[U+FF46]
+Name: FULLWIDTH LATIN SMALL LETTER F
+Category: Ll
+Decomposition: <wide> 0066
+
+[U+FF47]
+Name: FULLWIDTH LATIN SMALL LETTER G
+Category: Ll
+Decomposition: <wide> 0067
+
+[U+FF48]
+Name: FULLWIDTH LATIN SMALL LETTER H
+Category: Ll
+Decomposition: <wide> 0068
+
+[U+FF49]
+Name: FULLWIDTH LATIN SMALL LETTER I
+Category: Ll
+Decomposition: <wide> 0069
+
+[U+FF4A]
+Name: FULLWIDTH LATIN SMALL LETTER J
+Category: Ll
+Decomposition: <wide> 006A
+
+[U+FF4B]
+Name: FULLWIDTH LATIN SMALL LETTER K
+Category: Ll
+Decomposition: <wide> 006B
+
+[U+FF4C]
+Name: FULLWIDTH LATIN SMALL LETTER L
+Category: Ll
+Decomposition: <wide> 006C
+
+[U+FF4D]
+Name: FULLWIDTH LATIN SMALL LETTER M
+Category: Ll
+Decomposition: <wide> 006D
+
+[U+FF4E]
+Name: FULLWIDTH LATIN SMALL LETTER N
+Category: Ll
+Decomposition: <wide> 006E
+
+[U+FF4F]
+Name: FULLWIDTH LATIN SMALL LETTER O
+Category: Ll
+Decomposition: <wide> 006F
+
+[U+FF50]
+Name: FULLWIDTH LATIN SMALL LETTER P
+Category: Ll
+Decomposition: <wide> 0070
+
+[U+FF51]
+Name: FULLWIDTH LATIN SMALL LETTER Q
+Category: Ll
+Decomposition: <wide> 0071
+
+[U+FF52]
+Name: FULLWIDTH LATIN SMALL LETTER R
+Category: Ll
+Decomposition: <wide> 0072
+
+[U+FF53]
+Name: FULLWIDTH LATIN SMALL LETTER S
+Category: Ll
+Decomposition: <wide> 0073
+
+[U+FF54]
+Name: FULLWIDTH LATIN SMALL LETTER T
+Category: Ll
+Decomposition: <wide> 0074
+
+[U+FF55]
+Name: FULLWIDTH LATIN SMALL LETTER U
+Category: Ll
+Decomposition: <wide> 0075
+
+[U+FF56]
+Name: FULLWIDTH LATIN SMALL LETTER V
+Category: Ll
+Decomposition: <wide> 0076
+
+[U+FF57]
+Name: FULLWIDTH LATIN SMALL LETTER W
+Category: Ll
+Decomposition: <wide> 0077
+
+[U+FF58]
+Name: FULLWIDTH LATIN SMALL LETTER X
+Category: Ll
+Decomposition: <wide> 0078
+
+[U+FF59]
+Name: FULLWIDTH LATIN SMALL LETTER Y
+Category: Ll
+Decomposition: <wide> 0079
+
+[U+FF5A]
+Name: FULLWIDTH LATIN SMALL LETTER Z
+Category: Ll
+Decomposition: <wide> 007A
+
+[U+FF5B]
+Name: FULLWIDTH LEFT CURLY BRACKET
+Category: Ps
+Decomposition: <wide> 007B
+
+[U+FF5C]
+Name: FULLWIDTH VERTICAL LINE
+Category: Sm
+Decomposition: <wide> 007C
+
+[U+FF5D]
+Name: FULLWIDTH RIGHT CURLY BRACKET
+Category: Pe
+Decomposition: <wide> 007D
+
+[U+FF5E]
+Name: FULLWIDTH TILDE
+Category: Sm
+Decomposition: <wide> 007E
+
+[U+FF61]
+Name: HALFWIDTH IDEOGRAPHIC FULL STOP
+Category: Po
+Decomposition: <narrow> 3002
+
+[U+FF62]
+Name: HALFWIDTH LEFT CORNER BRACKET
+Category: Ps
+Decomposition: <narrow> 300C
+
+[U+FF63]
+Name: HALFWIDTH RIGHT CORNER BRACKET
+Category: Pe
+Decomposition: <narrow> 300D
+
+[U+FF64]
+Name: HALFWIDTH IDEOGRAPHIC COMMA
+Category: Po
+Decomposition: <narrow> 3001
+
+[U+FF65]
+Name: HALFWIDTH KATAKANA MIDDLE DOT
+Category: Po
+Decomposition: <narrow> 30FB
+
+[U+FF66]
+Name: HALFWIDTH KATAKANA LETTER WO
+Category: Lo
+Decomposition: <narrow> 30F2
+
+[U+FF67]
+Name: HALFWIDTH KATAKANA LETTER SMALL A
+Category: Lo
+Decomposition: <narrow> 30A1
+
+[U+FF68]
+Name: HALFWIDTH KATAKANA LETTER SMALL I
+Category: Lo
+Decomposition: <narrow> 30A3
+
+[U+FF69]
+Name: HALFWIDTH KATAKANA LETTER SMALL U
+Category: Lo
+Decomposition: <narrow> 30A5
+
+[U+FF6A]
+Name: HALFWIDTH KATAKANA LETTER SMALL E
+Category: Lo
+Decomposition: <narrow> 30A7
+
+[U+FF6B]
+Name: HALFWIDTH KATAKANA LETTER SMALL O
+Category: Lo
+Decomposition: <narrow> 30A9
+
+[U+FF6C]
+Name: HALFWIDTH KATAKANA LETTER SMALL YA
+Category: Lo
+Decomposition: <narrow> 30E3
+
+[U+FF6D]
+Name: HALFWIDTH KATAKANA LETTER SMALL YU
+Category: Lo
+Decomposition: <narrow> 30E5
+
+[U+FF6E]
+Name: HALFWIDTH KATAKANA LETTER SMALL YO
+Category: Lo
+Decomposition: <narrow> 30E7
+
+[U+FF6F]
+Name: HALFWIDTH KATAKANA LETTER SMALL TU
+Category: Lo
+Decomposition: <narrow> 30C3
+
+[U+FF70]
+Name: HALFWIDTH KATAKANA-HIRAGANA PROLONGED SOUND MARK
+Category: Lm
+Decomposition: <narrow> 30FC
+
+[U+FF71]
+Name: HALFWIDTH KATAKANA LETTER A
+Category: Lo
+Decomposition: <narrow> 30A2
+
+[U+FF72]
+Name: HALFWIDTH KATAKANA LETTER I
+Category: Lo
+Decomposition: <narrow> 30A4
+
+[U+FF73]
+Name: HALFWIDTH KATAKANA LETTER U
+Category: Lo
+Decomposition: <narrow> 30A6
+
+[U+FF74]
+Name: HALFWIDTH KATAKANA LETTER E
+Category: Lo
+Decomposition: <narrow> 30A8
+
+[U+FF75]
+Name: HALFWIDTH KATAKANA LETTER O
+Category: Lo
+Decomposition: <narrow> 30AA
+
+[U+FF76]
+Name: HALFWIDTH KATAKANA LETTER KA
+Category: Lo
+Decomposition: <narrow> 30AB
+
+[U+FF77]
+Name: HALFWIDTH KATAKANA LETTER KI
+Category: Lo
+Decomposition: <narrow> 30AD
+
+[U+FF78]
+Name: HALFWIDTH KATAKANA LETTER KU
+Category: Lo
+Decomposition: <narrow> 30AF
+
+[U+FF79]
+Name: HALFWIDTH KATAKANA LETTER KE
+Category: Lo
+Decomposition: <narrow> 30B1
+
+[U+FF7A]
+Name: HALFWIDTH KATAKANA LETTER KO
+Category: Lo
+Decomposition: <narrow> 30B3
+
+[U+FF7B]
+Name: HALFWIDTH KATAKANA LETTER SA
+Category: Lo
+Decomposition: <narrow> 30B5
+
+[U+FF7C]
+Name: HALFWIDTH KATAKANA LETTER SI
+Category: Lo
+Decomposition: <narrow> 30B7
+
+[U+FF7D]
+Name: HALFWIDTH KATAKANA LETTER SU
+Category: Lo
+Decomposition: <narrow> 30B9
+
+[U+FF7E]
+Name: HALFWIDTH KATAKANA LETTER SE
+Category: Lo
+Decomposition: <narrow> 30BB
+
+[U+FF7F]
+Name: HALFWIDTH KATAKANA LETTER SO
+Category: Lo
+Decomposition: <narrow> 30BD
+
+[U+FF80]
+Name: HALFWIDTH KATAKANA LETTER TA
+Category: Lo
+Decomposition: <narrow> 30BF
+
+[U+FF81]
+Name: HALFWIDTH KATAKANA LETTER TI
+Category: Lo
+Decomposition: <narrow> 30C1
+
+[U+FF82]
+Name: HALFWIDTH KATAKANA LETTER TU
+Category: Lo
+Decomposition: <narrow> 30C4
+
+[U+FF83]
+Name: HALFWIDTH KATAKANA LETTER TE
+Category: Lo
+Decomposition: <narrow> 30C6
+
+[U+FF84]
+Name: HALFWIDTH KATAKANA LETTER TO
+Category: Lo
+Decomposition: <narrow> 30C8
+
+[U+FF85]
+Name: HALFWIDTH KATAKANA LETTER NA
+Category: Lo
+Decomposition: <narrow> 30CA
+
+[U+FF86]
+Name: HALFWIDTH KATAKANA LETTER NI
+Category: Lo
+Decomposition: <narrow> 30CB
+
+[U+FF87]
+Name: HALFWIDTH KATAKANA LETTER NU
+Category: Lo
+Decomposition: <narrow> 30CC
+
+[U+FF88]
+Name: HALFWIDTH KATAKANA LETTER NE
+Category: Lo
+Decomposition: <narrow> 30CD
+
+[U+FF89]
+Name: HALFWIDTH KATAKANA LETTER NO
+Category: Lo
+Decomposition: <narrow> 30CE
+
+[U+FF8A]
+Name: HALFWIDTH KATAKANA LETTER HA
+Category: Lo
+Decomposition: <narrow> 30CF
+
+[U+FF8B]
+Name: HALFWIDTH KATAKANA LETTER HI
+Category: Lo
+Decomposition: <narrow> 30D2
+
+[U+FF8C]
+Name: HALFWIDTH KATAKANA LETTER HU
+Category: Lo
+Decomposition: <narrow> 30D5
+
+[U+FF8D]
+Name: HALFWIDTH KATAKANA LETTER HE
+Category: Lo
+Decomposition: <narrow> 30D8
+
+[U+FF8E]
+Name: HALFWIDTH KATAKANA LETTER HO
+Category: Lo
+Decomposition: <narrow> 30DB
+
+[U+FF8F]
+Name: HALFWIDTH KATAKANA LETTER MA
+Category: Lo
+Decomposition: <narrow> 30DE
+
+[U+FF90]
+Name: HALFWIDTH KATAKANA LETTER MI
+Category: Lo
+Decomposition: <narrow> 30DF
+
+[U+FF91]
+Name: HALFWIDTH KATAKANA LETTER MU
+Category: Lo
+Decomposition: <narrow> 30E0
+
+[U+FF92]
+Name: HALFWIDTH KATAKANA LETTER ME
+Category: Lo
+Decomposition: <narrow> 30E1
+
+[U+FF93]
+Name: HALFWIDTH KATAKANA LETTER MO
+Category: Lo
+Decomposition: <narrow> 30E2
+
+[U+FF94]
+Name: HALFWIDTH KATAKANA LETTER YA
+Category: Lo
+Decomposition: <narrow> 30E4
+
+[U+FF95]
+Name: HALFWIDTH KATAKANA LETTER YU
+Category: Lo
+Decomposition: <narrow> 30E6
+
+[U+FF96]
+Name: HALFWIDTH KATAKANA LETTER YO
+Category: Lo
+Decomposition: <narrow> 30E8
+
+[U+FF97]
+Name: HALFWIDTH KATAKANA LETTER RA
+Category: Lo
+Decomposition: <narrow> 30E9
+
+[U+FF98]
+Name: HALFWIDTH KATAKANA LETTER RI
+Category: Lo
+Decomposition: <narrow> 30EA
+
+[U+FF99]
+Name: HALFWIDTH KATAKANA LETTER RU
+Category: Lo
+Decomposition: <narrow> 30EB
+
+[U+FF9A]
+Name: HALFWIDTH KATAKANA LETTER RE
+Category: Lo
+Decomposition: <narrow> 30EC
+
+[U+FF9B]
+Name: HALFWIDTH KATAKANA LETTER RO
+Category: Lo
+Decomposition: <narrow> 30ED
+
+[U+FF9C]
+Name: HALFWIDTH KATAKANA LETTER WA
+Category: Lo
+Decomposition: <narrow> 30EF
+
+[U+FF9D]
+Name: HALFWIDTH KATAKANA LETTER N
+Category: Lo
+Decomposition: <narrow> 30F3
+
+[U+FF9E]
+Name: HALFWIDTH KATAKANA VOICED SOUND MARK
+Category: Lm
+Decomposition: <narrow> 309B
+
+[U+FF9F]
+Name: HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK
+Category: Lm
+Decomposition: <narrow> 309C
+
+[U+FFA0]
+Name: HALFWIDTH HANGUL FILLER
+Category: Lo
+Decomposition: <narrow> 3164
+
+[U+FFA1]
+Name: HALFWIDTH HANGUL LETTER KIYEOK
+Category: Lo
+Decomposition: <narrow> 3131
+
+[U+FFA2]
+Name: HALFWIDTH HANGUL LETTER SSANGKIYEOK
+Category: Lo
+Decomposition: <narrow> 3132
+
+[U+FFA3]
+Name: HALFWIDTH HANGUL LETTER KIYEOK-SIOS
+Category: Lo
+Decomposition: <narrow> 3133
+
+[U+FFA4]
+Name: HALFWIDTH HANGUL LETTER NIEUN
+Category: Lo
+Decomposition: <narrow> 3134
+
+[U+FFA5]
+Name: HALFWIDTH HANGUL LETTER NIEUN-CIEUC
+Category: Lo
+Decomposition: <narrow> 3135
+
+[U+FFA6]
+Name: HALFWIDTH HANGUL LETTER NIEUN-HIEUH
+Category: Lo
+Decomposition: <narrow> 3136
+
+[U+FFA7]
+Name: HALFWIDTH HANGUL LETTER TIKEUT
+Category: Lo
+Decomposition: <narrow> 3137
+
+[U+FFA8]
+Name: HALFWIDTH HANGUL LETTER SSANGTIKEUT
+Category: Lo
+Decomposition: <narrow> 3138
+
+[U+FFA9]
+Name: HALFWIDTH HANGUL LETTER RIEUL
+Category: Lo
+Decomposition: <narrow> 3139
+
+[U+FFAA]
+Name: HALFWIDTH HANGUL LETTER RIEUL-KIYEOK
+Category: Lo
+Decomposition: <narrow> 313A
+
+[U+FFAB]
+Name: HALFWIDTH HANGUL LETTER RIEUL-MIEUM
+Category: Lo
+Decomposition: <narrow> 313B
+
+[U+FFAC]
+Name: HALFWIDTH HANGUL LETTER RIEUL-PIEUP
+Category: Lo
+Decomposition: <narrow> 313C
+
+[U+FFAD]
+Name: HALFWIDTH HANGUL LETTER RIEUL-SIOS
+Category: Lo
+Decomposition: <narrow> 313D
+
+[U+FFAE]
+Name: HALFWIDTH HANGUL LETTER RIEUL-THIEUTH
+Category: Lo
+Decomposition: <narrow> 313E
+
+[U+FFAF]
+Name: HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH
+Category: Lo
+Decomposition: <narrow> 313F
+
+[U+FFB0]
+Name: HALFWIDTH HANGUL LETTER RIEUL-HIEUH
+Category: Lo
+Decomposition: <narrow> 3140
+
+[U+FFB1]
+Name: HALFWIDTH HANGUL LETTER MIEUM
+Category: Lo
+Decomposition: <narrow> 3141
+
+[U+FFB2]
+Name: HALFWIDTH HANGUL LETTER PIEUP
+Category: Lo
+Decomposition: <narrow> 3142
+
+[U+FFB3]
+Name: HALFWIDTH HANGUL LETTER SSANGPIEUP
+Category: Lo
+Decomposition: <narrow> 3143
+
+[U+FFB4]
+Name: HALFWIDTH HANGUL LETTER PIEUP-SIOS
+Category: Lo
+Decomposition: <narrow> 3144
+
+[U+FFB5]
+Name: HALFWIDTH HANGUL LETTER SIOS
+Category: Lo
+Decomposition: <narrow> 3145
+
+[U+FFB6]
+Name: HALFWIDTH HANGUL LETTER SSANGSIOS
+Category: Lo
+Decomposition: <narrow> 3146
+
+[U+FFB7]
+Name: HALFWIDTH HANGUL LETTER IEUNG
+Category: Lo
+Decomposition: <narrow> 3147
+
+[U+FFB8]
+Name: HALFWIDTH HANGUL LETTER CIEUC
+Category: Lo
+Decomposition: <narrow> 3148
+
+[U+FFB9]
+Name: HALFWIDTH HANGUL LETTER SSANGCIEUC
+Category: Lo
+Decomposition: <narrow> 3149
+
+[U+FFBA]
+Name: HALFWIDTH HANGUL LETTER CHIEUCH
+Category: Lo
+Decomposition: <narrow> 314A
+
+[U+FFBB]
+Name: HALFWIDTH HANGUL LETTER KHIEUKH
+Category: Lo
+Decomposition: <narrow> 314B
+
+[U+FFBC]
+Name: HALFWIDTH HANGUL LETTER THIEUTH
+Category: Lo
+Decomposition: <narrow> 314C
+
+[U+FFBD]
+Name: HALFWIDTH HANGUL LETTER PHIEUPH
+Category: Lo
+Decomposition: <narrow> 314D
+
+[U+FFBE]
+Name: HALFWIDTH HANGUL LETTER HIEUH
+Category: Lo
+Decomposition: <narrow> 314E
+
+[U+FFC2]
+Name: HALFWIDTH HANGUL LETTER A
+Category: Lo
+Decomposition: <narrow> 314F
+
+[U+FFC3]
+Name: HALFWIDTH HANGUL LETTER AE
+Category: Lo
+Decomposition: <narrow> 3150
+
+[U+FFC4]
+Name: HALFWIDTH HANGUL LETTER YA
+Category: Lo
+Decomposition: <narrow> 3151
+
+[U+FFC5]
+Name: HALFWIDTH HANGUL LETTER YAE
+Category: Lo
+Decomposition: <narrow> 3152
+
+[U+FFC6]
+Name: HALFWIDTH HANGUL LETTER EO
+Category: Lo
+Decomposition: <narrow> 3153
+
+[U+FFC7]
+Name: HALFWIDTH HANGUL LETTER E
+Category: Lo
+Decomposition: <narrow> 3154
+
+[U+FFCA]
+Name: HALFWIDTH HANGUL LETTER YEO
+Category: Lo
+Decomposition: <narrow> 3155
+
+[U+FFCB]
+Name: HALFWIDTH HANGUL LETTER YE
+Category: Lo
+Decomposition: <narrow> 3156
+
+[U+FFCC]
+Name: HALFWIDTH HANGUL LETTER O
+Category: Lo
+Decomposition: <narrow> 3157
+
+[U+FFCD]
+Name: HALFWIDTH HANGUL LETTER WA
+Category: Lo
+Decomposition: <narrow> 3158
+
+[U+FFCE]
+Name: HALFWIDTH HANGUL LETTER WAE
+Category: Lo
+Decomposition: <narrow> 3159
+
+[U+FFCF]
+Name: HALFWIDTH HANGUL LETTER OE
+Category: Lo
+Decomposition: <narrow> 315A
+
+[U+FFD2]
+Name: HALFWIDTH HANGUL LETTER YO
+Category: Lo
+Decomposition: <narrow> 315B
+
+[U+FFD3]
+Name: HALFWIDTH HANGUL LETTER U
+Category: Lo
+Decomposition: <narrow> 315C
+
+[U+FFD4]
+Name: HALFWIDTH HANGUL LETTER WEO
+Category: Lo
+Decomposition: <narrow> 315D
+
+[U+FFD5]
+Name: HALFWIDTH HANGUL LETTER WE
+Category: Lo
+Decomposition: <narrow> 315E
+
+[U+FFD6]
+Name: HALFWIDTH HANGUL LETTER WI
+Category: Lo
+Decomposition: <narrow> 315F
+
+[U+FFD7]
+Name: HALFWIDTH HANGUL LETTER YU
+Category: Lo
+Decomposition: <narrow> 3160
+
+[U+FFDA]
+Name: HALFWIDTH HANGUL LETTER EU
+Category: Lo
+Decomposition: <narrow> 3161
+
+[U+FFDB]
+Name: HALFWIDTH HANGUL LETTER YI
+Category: Lo
+Decomposition: <narrow> 3162
+
+[U+FFDC]
+Name: HALFWIDTH HANGUL LETTER I
+Category: Lo
+Decomposition: <narrow> 3163
+
+[U+FFE0]
+Name: FULLWIDTH CENT SIGN
+Category: Sc
+Decomposition: <wide> 00A2
+
+[U+FFE1]
+Name: FULLWIDTH POUND SIGN
+Category: Sc
+Decomposition: <wide> 00A3
+
+[U+FFE2]
+Name: FULLWIDTH NOT SIGN
+Category: Sm
+Decomposition: <wide> 00AC
+
+[U+FFE3]
+Name: FULLWIDTH MACRON
+Category: Sk
+Decomposition: <wide> 00AF
+
+[U+FFE4]
+Name: FULLWIDTH BROKEN BAR
+Category: So
+Decomposition: <wide> 00A6
+
+[U+FFE5]
+Name: FULLWIDTH YEN SIGN
+Category: Sc
+Decomposition: <wide> 00A5
+
+[U+FFE6]
+Name: FULLWIDTH WON SIGN
+Category: Sc
+Decomposition: <wide> 20A9
+
+[U+FFE8]
+Name: HALFWIDTH FORMS LIGHT VERTICAL
+Category: Sm
+Decomposition: <narrow> 2502
+
+[U+FFE9]
+Name: HALFWIDTH LEFTWARDS ARROW
+Category: Sm
+Decomposition: <narrow> 2190
+
+[U+FFEA]
+Name: HALFWIDTH UPWARDS ARROW
+Category: Sm
+Decomposition: <narrow> 2191
+
+[U+FFEB]
+Name: HALFWIDTH RIGHTWARDS ARROW
+Category: Sm
+Decomposition: <narrow> 2192
+
+[U+FFEC]
+Name: HALFWIDTH DOWNWARDS ARROW
+Category: Sm
+Decomposition: <narrow> 2193
+
+[U+FFED]
+Name: HALFWIDTH BLACK SQUARE
+Category: So
+Decomposition: <narrow> 25A0
+
+[U+FFEE]
+Name: HALFWIDTH WHITE CIRCLE
+Category: So
+Decomposition: <narrow> 25CB

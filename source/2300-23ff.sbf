@@ -1,0 +1,645 @@
+[U+2300]
+Name: DIAMETER SIGN
+Category: So
+.........
+.........
+.........
+......00.
+.....00..
+.000000..
+00.00.00.
+00.00.00.
+0000..00.
+.000000..
+.00......
+00.......
+.........
+.........
+.........
+.........
+
+[U+2302]
+Name: HOUSE
+Category: So
+.........
+.........
+.........
+.........
+.........
+.........
+....0....
+...000...
+..00.00..
+.00...00.
+.0.....0.
+.0.....0.
+.0000000.
+.........
+.........
+.........
+
+[U+2303]
+Name: UP ARROWHEAD
+Category: So
+
+[U+2304]
+Name: DOWN ARROWHEAD
+Category: So
+
+[U+2305]
+Name: PROJECTIVE
+Category: So
+
+[U+2306]
+Name: PERSPECTIVE
+Category: So
+
+[U+2307]
+Name: WAVY LINE
+Category: So
+
+[U+2308]
+Name: LEFT CEILING
+Category: Sm
+
+[U+2309]
+Name: RIGHT CEILING
+Category: Sm
+
+[U+230A]
+Name: LEFT FLOOR
+Category: Sm
+
+[U+230B]
+Name: RIGHT FLOOR
+Category: Sm
+
+[U+230C]
+Name: BOTTOM RIGHT CROP
+Category: So
+
+[U+230D]
+Name: BOTTOM LEFT CROP
+Category: So
+
+[U+230E]
+Name: TOP RIGHT CROP
+Category: So
+
+[U+230F]
+Name: TOP LEFT CROP
+Category: So
+
+[U+2310]
+Name: REVERSED NOT SIGN
+Category: So
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.0000000.
+.0.......
+.0.......
+.........
+.........
+.........
+.........
+.........
+.........
+
+[U+2311]
+Name: SQUARE LOZENGE
+Category: So
+
+[U+2312]
+Name: ARC
+Category: So
+
+[U+2313]
+Name: SEGMENT
+Category: So
+
+[U+2314]
+Name: SECTOR
+Category: So
+
+[U+2315]
+Name: TELEPHONE RECORDER
+Category: So
+
+[U+2316]
+Name: POSITION INDICATOR
+Category: So
+
+[U+2317]
+Name: VIEWDATA SQUARE
+Category: So
+
+[U+2318]
+Name: PLACE OF INTEREST SIGN
+Category: So
+.........
+.........
+.........
+000..000.
+0.0..0.0.
+0.0..0.0.
+00000000.
+..0..0...
+..0..0...
+00000000.
+0.0..0.0.
+0.0..0.0.
+000..000.
+.........
+.........
+.........
+
+[U+2319]
+Name: TURNED NOT SIGN
+Category: So
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.0.......
+.0.......
+.0000000.
+.........
+.........
+.........
+.........
+.........
+.........
+
+[U+231A]
+Name: WATCH
+Category: So
+
+[U+231B]
+Name: HOURGLASS
+Category: So
+
+[U+231C]
+Name: TOP LEFT CORNER
+Category: So
+
+[U+231D]
+Name: TOP RIGHT CORNER
+Category: So
+
+[U+231E]
+Name: BOTTOM LEFT CORNER
+Category: So
+
+[U+231F]
+Name: BOTTOM RIGHT CORNER
+Category: So
+
+[U+2320]
+Name: TOP HALF INTEGRAL
+Category: Sm
+.........
+.........
+....000..
+...00.00.
+...00.00.
+...00.00.
+...00....
+...00....
+...00....
+...00....
+...00....
+...00....
+...00....
+...00....
+...00....
+...00....
+
+[U+2321]
+Name: BOTTOM HALF INTEGRAL
+Category: Sm
+...00....
+...00....
+...00....
+...00....
+...00....
+...00....
+...00....
+...00....
+00.00....
+00.00....
+00.00....
+.000.....
+.........
+.........
+.........
+.........
+
+[U+2322]
+Name: FROWN
+Category: So
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+..00000..
+.00...00.
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+[U+2323]
+Name: SMILE
+Category: So
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.00...00.
+..00000..
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+[U+2324]
+Name: UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS
+Category: So
+
+[U+2325]
+Name: OPTION KEY
+Category: So
+
+[U+2326]
+Name: ERASE TO THE RIGHT
+Category: So
+
+[U+2327]
+Name: X IN A RECTANGLE BOX
+Category: So
+
+[U+2328]
+Name: KEYBOARD
+Category: So
+
+[U+2329]
+Name: LEFT-POINTING ANGLE BRACKET
+Category: Ps
+Decomposition: 3008
+[U+3008]
+Name: LEFT-POINTING ANGLE BRACKET
+Category: Ps
+Decomposition: 3008
+Name: LEFT ANGLE BRACKET
+Category: Ps
+
+[U+232A]
+Name: RIGHT-POINTING ANGLE BRACKET
+Category: Pe
+Decomposition: 3009
+[U+3009]
+Name: RIGHT-POINTING ANGLE BRACKET
+Category: Pe
+Decomposition: 3009
+Name: RIGHT ANGLE BRACKET
+Category: Pe
+
+[U+232B]
+Name: ERASE TO THE LEFT
+Category: So
+
+[U+232C]
+Name: BENZENE RING
+Category: So
+
+[U+232D]
+Name: CYLINDRICITY
+Category: So
+
+[U+232E]
+Name: ALL AROUND-PROFILE
+Category: So
+
+[U+232F]
+Name: SYMMETRY
+Category: So
+
+[U+2330]
+Name: TOTAL RUNOUT
+Category: So
+
+[U+2331]
+Name: DIMENSION ORIGIN
+Category: So
+
+[U+2332]
+Name: CONICAL TAPER
+Category: So
+
+[U+2333]
+Name: SLOPE
+Category: So
+
+[U+2334]
+Name: COUNTERBORE
+Category: So
+
+[U+2335]
+Name: COUNTERSINK
+Category: So
+
+[U+2336]
+Name: APL FUNCTIONAL SYMBOL I-BEAM
+Category: So
+
+[U+2337]
+Name: APL FUNCTIONAL SYMBOL SQUISH QUAD
+Category: So
+
+[U+2338]
+Name: APL FUNCTIONAL SYMBOL QUAD EQUAL
+Category: So
+
+[U+2339]
+Name: APL FUNCTIONAL SYMBOL QUAD DIVIDE
+Category: So
+
+[U+233A]
+Name: APL FUNCTIONAL SYMBOL QUAD DIAMOND
+Category: So
+
+[U+233B]
+Name: APL FUNCTIONAL SYMBOL QUAD JOT
+Category: So
+
+[U+233C]
+Name: APL FUNCTIONAL SYMBOL QUAD CIRCLE
+Category: So
+
+[U+233D]
+Name: APL FUNCTIONAL SYMBOL CIRCLE STILE
+Category: So
+
+[U+233E]
+Name: APL FUNCTIONAL SYMBOL CIRCLE JOT
+Category: So
+
+[U+233F]
+Name: APL FUNCTIONAL SYMBOL SLASH BAR
+Category: So
+
+[U+2340]
+Name: APL FUNCTIONAL SYMBOL BACKSLASH BAR
+Category: So
+
+[U+2341]
+Name: APL FUNCTIONAL SYMBOL QUAD SLASH
+Category: So
+
+[U+2342]
+Name: APL FUNCTIONAL SYMBOL QUAD BACKSLASH
+Category: So
+
+[U+2343]
+Name: APL FUNCTIONAL SYMBOL QUAD LESS-THAN
+Category: So
+
+[U+2344]
+Name: APL FUNCTIONAL SYMBOL QUAD GREATER-THAN
+Category: So
+
+[U+2345]
+Name: APL FUNCTIONAL SYMBOL LEFTWARDS VANE
+Category: So
+
+[U+2346]
+Name: APL FUNCTIONAL SYMBOL RIGHTWARDS VANE
+Category: So
+
+[U+2347]
+Name: APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW
+Category: So
+
+[U+2348]
+Name: APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW
+Category: So
+
+[U+2349]
+Name: APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH
+Category: So
+
+[U+234A]
+Name: APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR
+Category: So
+
+[U+234B]
+Name: APL FUNCTIONAL SYMBOL DELTA STILE
+Category: So
+
+[U+234C]
+Name: APL FUNCTIONAL SYMBOL QUAD DOWN CARET
+Category: So
+
+[U+234D]
+Name: APL FUNCTIONAL SYMBOL QUAD DELTA
+Category: So
+
+[U+234E]
+Name: APL FUNCTIONAL SYMBOL DOWN TACK JOT
+Category: So
+
+[U+234F]
+Name: APL FUNCTIONAL SYMBOL UPWARDS VANE
+Category: So
+
+[U+2350]
+Name: APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW
+Category: So
+
+[U+2351]
+Name: APL FUNCTIONAL SYMBOL UP TACK OVERBAR
+Category: So
+
+[U+2352]
+Name: APL FUNCTIONAL SYMBOL DEL STILE
+Category: So
+
+[U+2353]
+Name: APL FUNCTIONAL SYMBOL QUAD UP CARET
+Category: So
+
+[U+2354]
+Name: APL FUNCTIONAL SYMBOL QUAD DEL
+Category: So
+
+[U+2355]
+Name: APL FUNCTIONAL SYMBOL UP TACK JOT
+Category: So
+
+[U+2356]
+Name: APL FUNCTIONAL SYMBOL DOWNWARDS VANE
+Category: So
+
+[U+2357]
+Name: APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW
+Category: So
+
+[U+2358]
+Name: APL FUNCTIONAL SYMBOL QUOTE UNDERBAR
+Category: So
+
+[U+2359]
+Name: APL FUNCTIONAL SYMBOL DELTA UNDERBAR
+Category: So
+
+[U+235A]
+Name: APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR
+Category: So
+
+[U+235B]
+Name: APL FUNCTIONAL SYMBOL JOT UNDERBAR
+Category: So
+
+[U+235C]
+Name: APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR
+Category: So
+
+[U+235D]
+Name: APL FUNCTIONAL SYMBOL UP SHOE JOT
+Category: So
+
+[U+235E]
+Name: APL FUNCTIONAL SYMBOL QUOTE QUAD
+Category: So
+
+[U+235F]
+Name: APL FUNCTIONAL SYMBOL CIRCLE STAR
+Category: So
+
+[U+2360]
+Name: APL FUNCTIONAL SYMBOL QUAD COLON
+Category: So
+
+[U+2361]
+Name: APL FUNCTIONAL SYMBOL UP TACK DIAERESIS
+Category: So
+
+[U+2362]
+Name: APL FUNCTIONAL SYMBOL DEL DIAERESIS
+Category: So
+
+[U+2363]
+Name: APL FUNCTIONAL SYMBOL STAR DIAERESIS
+Category: So
+
+[U+2364]
+Name: APL FUNCTIONAL SYMBOL JOT DIAERESIS
+Category: So
+
+[U+2365]
+Name: APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS
+Category: So
+
+[U+2366]
+Name: APL FUNCTIONAL SYMBOL DOWN SHOE STILE
+Category: So
+
+[U+2367]
+Name: APL FUNCTIONAL SYMBOL LEFT SHOE STILE
+Category: So
+
+[U+2368]
+Name: APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+Category: So
+
+[U+2369]
+Name: APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS
+Category: So
+
+[U+236A]
+Name: APL FUNCTIONAL SYMBOL COMMA BAR
+Category: So
+
+[U+236B]
+Name: APL FUNCTIONAL SYMBOL DEL TILDE
+Category: So
+
+[U+236C]
+Name: APL FUNCTIONAL SYMBOL ZILDE
+Category: So
+
+[U+236D]
+Name: APL FUNCTIONAL SYMBOL STILE TILDE
+Category: So
+
+[U+236E]
+Name: APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR
+Category: So
+
+[U+236F]
+Name: APL FUNCTIONAL SYMBOL QUAD NOT EQUAL
+Category: So
+
+[U+2370]
+Name: APL FUNCTIONAL SYMBOL QUAD QUESTION
+Category: So
+
+[U+2371]
+Name: APL FUNCTIONAL SYMBOL DOWN CARET TILDE
+Category: So
+
+[U+2372]
+Name: APL FUNCTIONAL SYMBOL UP CARET TILDE
+Category: So
+
+[U+2373]
+Name: APL FUNCTIONAL SYMBOL IOTA
+Category: So
+
+[U+2374]
+Name: APL FUNCTIONAL SYMBOL RHO
+Category: So
+
+[U+2375]
+Name: APL FUNCTIONAL SYMBOL OMEGA
+Category: So
+
+[U+2376]
+Name: APL FUNCTIONAL SYMBOL ALPHA UNDERBAR
+Category: So
+
+[U+2377]
+Name: APL FUNCTIONAL SYMBOL EPSILON UNDERBAR
+Category: So
+
+[U+2378]
+Name: APL FUNCTIONAL SYMBOL IOTA UNDERBAR
+Category: So
+
+[U+2379]
+Name: APL FUNCTIONAL SYMBOL OMEGA UNDERBAR
+Category: So
+
+[U+237A]
+Name: APL FUNCTIONAL SYMBOL ALPHA
+Category: So

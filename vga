@@ -1,0 +1,150 @@
+#!/usr/bin/perl
+
+if ($ARGV[0] eq "-512") {$duzy = 1; shift}
+
+if ($duzy)
+{
+	$znakow1 = 512;
+	$poznorm = [0 .. 0x1FF];
+	$pozmusi9 = [0xC0 .. 0xDF, 0x1C0 .. 0x1DF];
+	$poznie9 = [0 .. 0xBF, 0xE0 .. 0x1BF, 0x1E0 .. 0x1FF];
+}
+else
+{
+	$znakow1 = 256;
+	$poznorm = [0 .. 0xFF];
+	$pozmusi9 = [0xC0 .. 0xDF];
+	$poznie9 = [0 .. 0xBF, 0xE0 .. 0xFF];
+}
+
+$_ = <>; s/\s+$//;
+while (1)
+{
+	if (/^\[(.*)\]$/)
+	{
+		push @znaki, {ZNAK => $1};
+	}
+	elsif (/^$/)
+	{
+		if (@znaki)
+		{
+			if ($znak ne "")
+			{
+				push @font,
+				{
+					ZNAKI => [@znaki],
+					ZNAK => $znak,
+					POZYCJE =>
+					(
+						$kol9 ?
+							$pozmusi9
+						:
+						$kol8 ?
+							$poznie9
+						:
+							$poznorm
+					),
+				};
+				$znak = "";
+			}
+			@znaki = ();
+			$kol9 = 0;
+			$kol8 = 0;
+		}
+	}
+	else
+	{
+		if (@znaki)
+		{
+			if (/^[.0]+$/)
+			{
+				@linia = split //;
+				die "Character width must be 8 or 9 in line $.\n"
+					if @linia != 8 && @linia != 9;
+				$znak .= "$_\n";
+				$kol9 |= $linia[8] ne "." if @linia == 9;
+				$kol8 |= $linia[7] ne ".";
+			}
+			else
+			{
+				$znaki[-1]{DANE} .= "$_\n";
+			}
+		}
+		else
+		{
+			$font .= "$_\n";
+		}
+	}
+	last unless defined;
+	$_ = <>; s/\s+$//;
+}
+
+$znakow = @font;
+
+if ($znakow > $znakow1)
+{
+	die "Too many characters (", scalar @font, " > $znakow1)\n";
+}
+
+print "$font\n";
+
+$#font1 = $znakow1 - 1;
+
+foreach $znak (reverse 0 .. $#font)
+{
+	ZNAK:
+	foreach (@{$font[$znak]{ZNAKI}})
+	{
+		if (${$_}{ZNAK} =~ /^U\+([0-9A-F]+)$/)
+		{
+			$poz = hex $1;
+			next if $poz < 32 || $poz > 126 || $font1[$poz];
+			$font1[$poz] = splice @font, $znak, 1;
+			last ZNAK;
+		}
+	}
+}
+
+ZNAK:
+foreach $znak (@font)
+{
+	foreach $poz (@{${$znak}{POZYCJE}})
+	{
+		next if $font1[$poz];
+		$font1[$poz] = $znak;
+		next ZNAK;
+	}
+	foreach $poz (reverse @{${$znak}{POZYCJE}})
+	{
+		foreach $poz2 (@{$font1[$poz]{POZYCJE}})
+		{
+			next if $font1[$poz2];
+			$font1[$poz2] = $font1[$poz];
+			$font1[$poz] = $znak;
+			next ZNAK;
+		}
+	}
+	$zlych++;
+	foreach $poz (0 .. $znakow1 - 1)
+	{
+		next if $font1[$poz];
+		$font1[$poz] = $znak;
+		next ZNAK;
+	}
+}
+
+print STDERR "$znakow characters in the font\n";
+print STDERR "$zlych of them will have 9th column displayed incorrectly\n" if $zlych;
+
+foreach (@font1)
+{
+	if ($_)
+	{
+		print +(map {"[${$_}{ZNAK}]\n${$_}{DANE}"} @{${$_}{ZNAKI}}),
+		"${$_}{ZNAK}\n";
+	}
+	else
+	{
+		print "[dummy]\n$font1[32]{ZNAK}\n";
+	}
+}

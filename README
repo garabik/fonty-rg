@@ -1,0 +1,57 @@
+fonty-rg http://melkor.dnp.fmph.uniba.sk/~garabik/fonty-rg
+version: 0.6
+by Radovan Garabík <garabik @ melkor.dnp.fmph.uniba.sk>
+License: GPL
+
+
+This package is heavily based on fonty package by Marcin 'Qrczak' Kowalczyk
+(http://kki.net.pl/qrczak/programy/linux/fonty/).
+Some glyphs are obtained from GNU unifont by David Starner
+(http://dvdeug.dhis.org/unifont.html), originally by Roman Czyborra
+(http://www.czyborra.com).
+
+To build fonts: run build.sh script.
+To modify fonts: edit files in source/ directory.
+To add new charsets: add *.txt file into charsets/ directory.
+
+To use fonts: there are two small scripts provided, iso and utf8.
+iso takes as an argument number of ISO-8859 encoding, switching 
+console font into font for that encoding, and utf8 switches console
+into Unicode mode, using big Unicode font. See manpages
+for details.
+
+About fonts:
+
+LatCyrGr-16.psf is font containing most of ISO Latin characters,
+lot of cyrillic chars, lot of greek chars, and some punctuation.
+It is good for Unicode linux console. This is 512 character
+font, means that you lose bold colour on linux console, unless
+you are using framebuffer.
+
+chavo.psf is font containing lot of ISO-8859-2 repertoire,
+some additional ISO-8859-1 characters, Russian cyrillic
+characters and special Esperanto characters. It was
+specifically created to cover Czech, Slovak, Polish,
+Hungarian, Russian, German, Esperanto. Of course, it accidentally
+covers much wider range :-)
+Good as a console font if you want to retain bold colours
+(and do not need some ISO-8859-1 characters - there was
+simply not enough space for them).
+
+uni-compact-16.sbf.gz - compact Unicode source font -
+good for use with dynafont (part of fonty package).
+
+
+about glyphs:
+glyphs from Basic Latin, Latin-1 Supplement, Latin Extended-A,
+as well as most often used Cyrillic and Greek are verified, with
+consistent typography. Characters from other ranges need some work
+- mostly shifting by one or two pixels, and redrawing them with
+consistent width.
+
+For an excellent introduction into font internals, 
+read Documentation.html (written by Erika Pacholleck <pacholleck.e @ gmx.de>)
+
+
+                               Radovan Garabík
+

@@ -1,0 +1,139 @@
+[U+FE30]
+Name: PRESENTATION FORM FOR VERTICAL TWO DOT LEADER
+Category: Po
+Decomposition: <vertical> 2025
+
+[U+FE31]
+Name: PRESENTATION FORM FOR VERTICAL EM DASH
+Category: Pd
+Decomposition: <vertical> 2014
+
+[U+FE32]
+Name: PRESENTATION FORM FOR VERTICAL EN DASH
+Category: Pd
+Decomposition: <vertical> 2013
+
+[U+FE33]
+Name: PRESENTATION FORM FOR VERTICAL LOW LINE
+Category: Pc
+Decomposition: <vertical> 005F
+
+[U+FE34]
+Name: PRESENTATION FORM FOR VERTICAL WAVY LOW LINE
+Category: Pc
+Decomposition: <vertical> 005F
+
+[U+FE35]
+Name: PRESENTATION FORM FOR VERTICAL LEFT PARENTHESIS
+Category: Ps
+Decomposition: <vertical> 0028
+
+[U+FE36]
+Name: PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS
+Category: Pe
+Decomposition: <vertical> 0029
+
+[U+FE37]
+Name: PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET
+Category: Ps
+Decomposition: <vertical> 007B
+
+[U+FE38]
+Name: PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET
+Category: Pe
+Decomposition: <vertical> 007D
+
+[U+FE39]
+Name: PRESENTATION FORM FOR VERTICAL LEFT TORTOISE SHELL BRACKET
+Category: Ps
+Decomposition: <vertical> 3014
+
+[U+FE3A]
+Name: PRESENTATION FORM FOR VERTICAL RIGHT TORTOISE SHELL BRACKET
+Category: Pe
+Decomposition: <vertical> 3015
+
+[U+FE3B]
+Name: PRESENTATION FORM FOR VERTICAL LEFT BLACK LENTICULAR BRACKET
+Category: Ps
+Decomposition: <vertical> 3010
+
+[U+FE3C]
+Name: PRESENTATION FORM FOR VERTICAL RIGHT BLACK LENTICULAR BRACKET
+Category: Pe
+Decomposition: <vertical> 3011
+
+[U+FE3D]
+Name: PRESENTATION FORM FOR VERTICAL LEFT DOUBLE ANGLE BRACKET
+Category: Ps
+Decomposition: <vertical> 300A
+
+[U+FE3E]
+Name: PRESENTATION FORM FOR VERTICAL RIGHT DOUBLE ANGLE BRACKET
+Category: Pe
+Decomposition: <vertical> 300B
+
+[U+FE3F]
+Name: PRESENTATION FORM FOR VERTICAL LEFT ANGLE BRACKET
+Category: Ps
+Decomposition: <vertical> 3008
+
+[U+FE40]
+Name: PRESENTATION FORM FOR VERTICAL RIGHT ANGLE BRACKET
+Category: Pe
+Decomposition: <vertical> 3009
+
+[U+FE41]
+Name: PRESENTATION FORM FOR VERTICAL LEFT CORNER BRACKET
+Category: Ps
+Decomposition: <vertical> 300C
+
+[U+FE42]
+Name: PRESENTATION FORM FOR VERTICAL RIGHT CORNER BRACKET
+Category: Pe
+Decomposition: <vertical> 300D
+
+[U+FE43]
+Name: PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET
+Category: Ps
+Decomposition: <vertical> 300E
+
+[U+FE44]
+Name: PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET
+Category: Pe
+Decomposition: <vertical> 300F
+
+[U+FE49]
+Name: DASHED OVERLINE
+Category: Po
+Decomposition: <compat> 203E
+
+[U+FE4A]
+Name: CENTRELINE OVERLINE
+Category: Po
+Decomposition: <compat> 203E
+
+[U+FE4B]
+Name: WAVY OVERLINE
+Category: Po
+Decomposition: <compat> 203E
+
+[U+FE4C]
+Name: DOUBLE WAVY OVERLINE
+Category: Po
+Decomposition: <compat> 203E
+
+[U+FE4D]
+Name: DASHED LOW LINE
+Category: Pc
+Decomposition: <compat> 005F
+
+[U+FE4E]
+Name: CENTRELINE LOW LINE
+Category: Pc
+Decomposition: <compat> 005F
+
+[U+FE4F]
+Name: WAVY LOW LINE
+Category: Pc
+Decomposition: <compat> 005F

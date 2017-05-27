@@ -1,0 +1,15 @@
+#!/bin/sh
+
+unicode_start
+
+font=LatCyrGr-16.psf
+
+if [ -n "$1" ]; then
+  font="$1"	
+  if [ "$1" = "2" ]; then
+    font="chavo.psf"
+  fi
+fi
+   
+consolechars -f "$font" -k rg.fallback
+

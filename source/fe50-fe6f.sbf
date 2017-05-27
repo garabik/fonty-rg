@@ -1,0 +1,129 @@
+[U+FE50]
+Name: SMALL COMMA
+Category: Po
+Decomposition: <small> 002C
+
+[U+FE51]
+Name: SMALL IDEOGRAPHIC COMMA
+Category: Po
+Decomposition: <small> 3001
+
+[U+FE52]
+Name: SMALL FULL STOP
+Category: Po
+Decomposition: <small> 002E
+
+[U+FE54]
+Name: SMALL SEMICOLON
+Category: Po
+Decomposition: <small> 003B
+
+[U+FE55]
+Name: SMALL COLON
+Category: Po
+Decomposition: <small> 003A
+
+[U+FE56]
+Name: SMALL QUESTION MARK
+Category: Po
+Decomposition: <small> 003F
+
+[U+FE57]
+Name: SMALL EXCLAMATION MARK
+Category: Po
+Decomposition: <small> 0021
+
+[U+FE58]
+Name: SMALL EM DASH
+Category: Pd
+Decomposition: <small> 2014
+
+[U+FE59]
+Name: SMALL LEFT PARENTHESIS
+Category: Ps
+Decomposition: <small> 0028
+
+[U+FE5A]
+Name: SMALL RIGHT PARENTHESIS
+Category: Pe
+Decomposition: <small> 0029
+
+[U+FE5B]
+Name: SMALL LEFT CURLY BRACKET
+Category: Ps
+Decomposition: <small> 007B
+
+[U+FE5C]
+Name: SMALL RIGHT CURLY BRACKET
+Category: Pe
+Decomposition: <small> 007D
+
+[U+FE5D]
+Name: SMALL LEFT TORTOISE SHELL BRACKET
+Category: Ps
+Decomposition: <small> 3014
+
+[U+FE5E]
+Name: SMALL RIGHT TORTOISE SHELL BRACKET
+Category: Pe
+Decomposition: <small> 3015
+
+[U+FE5F]
+Name: SMALL NUMBER SIGN
+Category: Po
+Decomposition: <small> 0023
+
+[U+FE60]
+Name: SMALL AMPERSAND
+Category: Po
+Decomposition: <small> 0026
+
+[U+FE61]
+Name: SMALL ASTERISK
+Category: Po
+Decomposition: <small> 002A
+
+[U+FE62]
+Name: SMALL PLUS SIGN
+Category: Sm
+Decomposition: <small> 002B
+
+[U+FE63]
+Name: SMALL HYPHEN-MINUS
+Category: Pd
+Decomposition: <small> 002D
+
+[U+FE64]
+Name: SMALL LESS-THAN SIGN
+Category: Sm
+Decomposition: <small> 003C
+
+[U+FE65]
+Name: SMALL GREATER-THAN SIGN
+Category: Sm
+Decomposition: <small> 003E
+
+[U+FE66]
+Name: SMALL EQUALS SIGN
+Category: Sm
+Decomposition: <small> 003D
+
+[U+FE68]
+Name: SMALL REVERSE SOLIDUS
+Category: Po
+Decomposition: <small> 005C
+
+[U+FE69]
+Name: SMALL DOLLAR SIGN
+Category: Sc
+Decomposition: <small> 0024
+
+[U+FE6A]
+Name: SMALL PERCENT SIGN
+Category: Po
+Decomposition: <small> 0025
+
+[U+FE6B]
+Name: SMALL COMMERCIAL AT
+Category: Po
+Decomposition: <small> 0040
