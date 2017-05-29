@@ -5,16 +5,14 @@ unicode_stop
 font="$1"
 
 if [ -n "$1" ]; then
-  if [ "$1" -le 9 ]; then
-    map=0"$1"
-  else
-    map="$1"
-  fi
+  map="$1"
 else
-  map=01
+  map=1
   font=1
 fi
 
-consolechars -f iso8859-"$font".psf
-consolechars -m iso"$map".acm
+#consolechars -f iso8859-"$font".psf
+#consolechars -m iso"$map".acm
+
+setfont iso8859-"$font".psf -m ISO-8859-$map
 

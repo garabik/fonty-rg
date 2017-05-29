@@ -11,5 +11,5 @@ if [ -n "$1" ]; then
   fi
 fi
    
-consolechars -f "$font" -k rg.fallback
-
+#consolechars -f "$font" -k rg.fallback
+setfont "$font" 
