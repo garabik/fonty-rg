@@ -1,3 +1,11 @@
+fonty-rg (0.7-1) unstable; urgency=low
+
+  * rewrite iso and utf8 scripts using kbd,
+    not console-tools (closes: #863065)
+  * change into non-native package
+
+ -- Radovan Garabík <garabik@kassiopeia.juls.savba.sk>  Mon, 29 May 2017 19:13:14 +0200
+
 fonty-rg (0.6) unstable; urgency=low
 
   * do not save gzip timestamp, allowing reproducible build (closes: #777061)
