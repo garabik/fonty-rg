@@ -7,7 +7,6 @@ Standards-Version: 3.9.6
 
 Package: fonty-rg
 Architecture: all
-Suggests: fonty
 Recommends: kbd
 Depends: ${misc:Depends}
 Description: Linux console fonts in various encodings
